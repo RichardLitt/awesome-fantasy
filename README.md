@@ -62,6 +62,13 @@ Books:
 
 #### Tales of Earthsea *by Ursula Le Guin*
 #### The Book of the New Sun *by Gene Wolfe*
+#### The Riftwar Saga *by Raymond E. Feist*
+
+Books:
+ * Magician: Apprentice
+ * Magician: Master
+ * Silverthorn
+ * A Darkness at Sethanon
 
 ### Satire
 
