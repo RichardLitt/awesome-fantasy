@@ -94,6 +94,9 @@ Books:
 #### The Lord of the Rings
 #### The Princess Bride
 #### Dragonheart
+#### Harry Potter
+#### The Hobbit
 
 # TV Series
 
+#### Game of Thrones
