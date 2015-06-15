@@ -23,7 +23,7 @@ Books:
 
 > J.R.R. Tolkien's The Lord of the Rings trilogy is a genuine masterpiece. The most widely read and influential fantasy epic of all time, it is also quite simply one of the most memorable and beloved tales ever told. Originally published in 1954, The Lord of the Rings set the framework upon which all epic/quest fantasy since has been built. Through the urgings of the enigmatic wizard Gandalf, young hobbit Frodo Baggins embarks on an urgent, incredibly treacherous journey to destroy the One Ring. This ring -- created and then lost by the Dark Lord, Sauron, centuries earlier -- is a weapon of evil, one that Sauron desperately wants returned to him. With the power of the ring once again his own, the Dark Lord will unleash his wrath upon all of Middle-earth. The only way to prevent this horrible fate from becoming reality is to return the Ring to Mordor, the only place it can be destroyed. Unfortunately for our heroes, Mordor is also Sauron's lair. The Lord of the Rings trilogy is essential reading not only for fans of fantasy but for lovers of classic literature as well...
 
-#### [The Silmarillion]((http://www.goodreads.com/book/show/7332.The_Silmarillion) *by J.R.R. Tolkien* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) *by J.R.R. Tolkien* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitutude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -100,6 +100,9 @@ Books:
 #### The Lord of the Rings
 #### The Princess Bride
 #### Dragonheart
+#### Harry Potter
+#### The Hobbit
 
 # TV Series
 
+#### Game of Thrones
