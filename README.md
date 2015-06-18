@@ -107,7 +107,11 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 
 > The editors of the best-selling rediscovered Tolkien novel Roverandom present an expanded fiftieth anniversary edition of Tolkien's beloved classic Farmer Giles of Ham, complete with a map, the original story outline, the original first-edition illustrations by Pauline Baynes, and the author's notes for an unpublished sequel. Farmer Giles of Ham is a light-hearted satire for readers of all ages that tells the tale of a reluctant hero who must save his village from a dragon. It is a small gem of a tale that grows more delightful with each rereading.
 
-#### The Princess Bride *by William Goldman*
+#### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by William Goldman* [4.2] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+This is a book that doesn't take away from the classic movie rendition of it, but adds to it. It stands alone as a fun little read. - [@RichardLitt](https://github.com/RichardLitt)
+
+>What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
 
 # Movies
 
