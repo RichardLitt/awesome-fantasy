@@ -96,6 +96,17 @@ Books:
 
 #### Tales of Earthsea *by Ursula Le Guin*
 #### The Book of the New Sun *by Gene Wolfe*
+#### The Farseer Trilogy *by Robin Hobb* [4.1] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantasic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+ * [Assassin's Apprentice](http://www.goodreads.com/book/show/45107.Assassin_s_Apprentice) [4.1]
+ * [Royal Assassin](https://www.goodreads.com/book/show/68487.Royal_Assassin) [4.2]
+ * [Assassin's Quest](https://www.goodreads.com/book/show/45112.Assassin_s_Quest) [4.2]
+
+> In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
+
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
 
