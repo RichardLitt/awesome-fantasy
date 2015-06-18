@@ -71,24 +71,26 @@ Books:
 
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
-#### The Wheel of Time *by Robert Jordan* [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### The Wheel of Time *by Robert Jordan* (and Brandon Sanderson) [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were cowritten, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [The Eye of the World](http://www.goodreads.com/book/show/228665.The_Eye_of_the_World?from_search=true) [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * The Great Hunt
- * The Dragon Reborn
- * The Shadow Rising
- * The Fires of Heaven
- * Lord of Chaos
- * A Crown of Swords
- * The Path of Daggers
- * Winter's Heart
- * Crossroads of Twilight
- * Knife of Dreams
- * The Gathering Storm
- * Towers of Midnight
- * A Memory of Light
- * New Spring (prequel)
+ * [The Eye of the World](http://www.goodreads.com/book/show/228665.The_Eye_of_the_World) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Great Hunt](http://www.goodreads.com/book/show/233649.The_Great_Hunt)
+ * [The Dragon Reborn](http://www.goodreads.com/book/show/34897.The_Dragon_Reborn)
+ * [The Shadow Rising](http://www.goodreads.com/book/show/9539.The_Shadow_Rising)
+ * [The Fires of Heaven](http://www.goodreads.com/book/show/13895.The_Fires_of_Heaven)
+ * [Lord of Chaos](http://www.goodreads.com/book/show/35231.Lord_of_Chaos)
+ * [A Crown of Swords](http://www.goodreads.com/book/show/13890.A_Crown_of_Swords)
+ * [The Path of Daggers](http://www.goodreads.com/book/show/140974.The_Path_of_Daggers)
+ * [Winter's Heart](http://www.goodreads.com/book/show/13891.Winter_s_Heart)
+ * [Crossroads of Twilight](http://www.goodreads.com/book/show/113435.Crossroads_of_Twilight)
+ * [Knife of Dreams](http://www.goodreads.com/book/show/13888.Knife_of_Dreams)
+ * [The Gathering Storm](http://www.goodreads.com/book/show/1166599.The_Gathering_Storm)
+ * [Towers of Midnight](http://www.goodreads.com/book/show/8253920-towers-of-midnight)
+ * [A Memory of Light](http://www.goodreads.com/book/show/7743175-a-memory-of-light)
+ * [New Spring (prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
 
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
