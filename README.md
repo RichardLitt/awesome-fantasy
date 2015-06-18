@@ -157,6 +157,12 @@ Books:
 
 ### Standard Fantasy
 
+#### [The Wizard Knight](http://www.goodreads.com/book/show/101949.The_Wizard_Knight) *by Gene Wolfe* [3.8]
+
+I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
