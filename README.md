@@ -142,12 +142,18 @@ Books:
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened spacetime to renew the age-old battle between Order and Chaos.
 
+#### The Lost Years of Merlin by *T.A. Barron* [4.0]
+
+These books are amazing just for the imaginative power of the author, who grabs random snippets from old folklore and tries to make a story out of them. They're nothing like the actual Merlin, but they're pretty fun to read. The writing style is more aimed at young adults, however, and they don't age well. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * Magician: Apprentice
- * Magician: Master
- * Silverthorn
- * A Darkness at Sethanon
+ * [The Lost Years of Merlin](http://www.goodreads.com/book/show/18392.The_Lost_Years)
+ * [The Seven Songs of Merlin](http://www.goodreads.com/book/show/18396.The_Seven_Songs_of_Merlin)
+ * [The Fires of Merlin](http://www.goodreads.com/book/show/18393.The_Fires_of_Merlin)
+ * [The Mirror of Merlin](http://www.goodreads.com/book/show/18394.The_Mirror_of_Merlin)
+ * [The Wings of Merlin](http://www.goodreads.com/book/show/18395.The_Wings_of_Merlin)
+
+ > When Merlin, suffering from a case of severe amnesia, discovers his strange powers, he becomes determined to discover his identity and flees to Fincayra where he fulfills his destiny, saving Fincayra from certain destruction and claiming his birthright and true name.
 
 ### Standard Fantasy
 
