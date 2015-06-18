@@ -211,6 +211,12 @@ Read this if you want to go on an acid trip and if you want to see the roots of 
 
 > In the best traditions of Homeric epics, Norse sagas, and Arthurian myths, author E. R. Eddison weaves a compelling adventure, with a majestic, Shakespearean narrative style. His sweeping tale recounts battles between warriors and witches on fog-shrouded mountaintops and in the ocean's depths--along with romantic interludes, backroom intrigues, and episodes of direst treachery. Generations of readers have joyfully lost themselves in the timeless worlds of The Worm Ouroboros. This new edition, magnificently illustrated with the classic original images, continues the enchantment.
 
+#### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by Jorge Luis Borges* [4.5]
+
+Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
+
+> The seventeen pieces in Ficciones demonstrate the whirlwind of Borges's genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
+
 ### Allegory
 
 #### The Chronicles of Narnia *by C.S. Lewis*
