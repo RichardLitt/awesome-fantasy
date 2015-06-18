@@ -130,7 +130,18 @@ Books:
 
 > The series also contains many metafictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
-#### The Riftwar Saga *by Raymond E. Feist*
+#### The Riftwar Saga *by Raymond E. Feist* [4.3]
+
+This reads like someone decided to put some characters in their Dungeons and Dragons world, which is exactly how they were formed. For all that, they are amusing. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+ * [Magician: Apprentice](http://www.goodreads.com/book/show/43915.Magician)
+ * [Magician: Master](http://www.goodreads.com/book/show/8320534-raymond-e-feist-s-magician-master)
+ * [Silverthorn](http://www.goodreads.com/book/show/149302.Silverthorn)
+ * [A Darkness at Sethanon](http://www.goodreads.com/book/show/13813.A_Darkness_At_Sethanon)
+
+> To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened spacetime to renew the age-old battle between Order and Chaos.
+
 
 Books:
  * Magician: Apprentice
