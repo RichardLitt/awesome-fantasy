@@ -192,6 +192,13 @@ Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critica
 
 > The Well at the World's End was among the very first of its kind--it is an epic romance of duplicity, machination, passion, and wizardry, and is, in short, a vast odyssey into the weird. It is a beautifully rich fantasy, a vibrant fairy tale without fairies. It is the most entrancing of William Morris's late romances--part futuristic fantasy novel, part old-fashioned fairy tale. Morris writes his magic love story with a sense of color and pattern, and the sheer imaginative fervor of one of the most brilliant decorative artists that has ever lived.
 
+#### [The Water of the Wondrous Isles](http://www.goodreads.com/book/show/890344.The_Water_of_the_Wondrous_Isles) *by William Morris* [4.0]
+
+> This late Morris novel chronicles the journeys of Birdalone, who is stolen from her weaver mother as a baby and raised by a witch in the forest. Under the guidance of the nature spirit Habundia, she eventually escapes in a little boat, beginning a series of strange encounters on various islands.
+
+> Like many of Morris' stories this was influenced by his interest in medieval sagas and manuscripts, but but compared to some others, such as The Well at the World's End it is deliberately written in a more natural (i.e. more contemporary) language and is not difficult to follow.
+
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
