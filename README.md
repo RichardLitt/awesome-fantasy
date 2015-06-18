@@ -110,6 +110,12 @@ Books:
 #### Harry Potter
 #### The Hobbit
 
+#### [Reign of Fire](http://www.imdb.com/title/tt0253556/?ref_=fn_al_tt_1) [6.2]
+
+An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are badass. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
+
 # TV Series
 
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
