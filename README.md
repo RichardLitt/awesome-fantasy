@@ -176,6 +176,10 @@ A pretty good children's story. Defined modern fantasy as we know it. - [@Richar
 > In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
 Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent.
 
+#### [Curdie and the Goblin](http://www.goodreads.com/book/show/2817028-the-princess-and-the-goblin-princess-and-curdie-oxford-world-s-classi) *by George MacDonald* [4.2]
+
+> Two of George MacDonald's most fascinating--and meaningful--novels for children. Princess Irene and the intrepid Curdie overthrow the kingdom of the goblins with help from the princess's mysterious and powerful grandmother. More than just children's stories, these novels hold deeper meanings for adult readers who are interested in the spiritual life and the battle between good and evil. Newly designed and typeset by Waking Lion Press.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
