@@ -112,4 +112,8 @@ Books:
 
 # TV Series
 
-#### Game of Thrones
+#### [Game of Thrones](http://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+Pretty good, if overly televized at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Several noble families fight for control of the mythical land of Westeros.
