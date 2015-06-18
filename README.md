@@ -105,10 +105,14 @@ Books:
 # Movies
 
 #### The Lord of the Rings
-#### The Princess Bride
-#### Dragonheart
 #### Harry Potter
 #### The Hobbit
+
+#### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+One of the best lovestories ever told. This movie has everything any kid could want, and the book is just as good - it's satirical but not overly self-indulgent. - [@RichardLitt](https://github.com/RichardLitt)
+
+> While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
