@@ -223,13 +223,15 @@ Some of the best short stories I have ever read; The Library is my favourite of 
 
 These books are great, quick reading, although the Christian overtones can grow old with time. I'm not quite sure how to suggest them, as I grew up with them - but I can't imagine not having done so. Reading about Mr. Tumnus carrying parcels through a snowy forest in The Lion, The Witch, and the Warddrobe is one of my earliest memories. - [@RichardLitt](https://github.com/RichardLitt)
 
-- [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
-- [The Lion, The Witch, and The Wardrobe](http://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
-- [The Horse and His Boy](http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
-- [Prince Caspian](http://www.goodreads.com/book/show/121749.Prince_Caspian) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
-- [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
-- [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
-- [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+Books:
+ * [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Lion, The Witch, and The Wardrobe](http://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Horse and His Boy](http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [Prince Caspian](http://www.goodreads.com/book/show/121749.Prince_Caspian) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
 
 #### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) by *John Bunyan* [4.0]
 
