@@ -260,7 +260,7 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 >What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
 
-# Movies
+## Movies
 
 #### The Lord of the Rings
 
@@ -296,10 +296,7 @@ An incredible film for the vision of the world, and the way they combine medieva
 
 > A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
 
-#### Harry Potter
-#### The Hobbit
-
-# TV Series
+## TV Series
 
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
