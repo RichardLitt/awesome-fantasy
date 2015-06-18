@@ -105,8 +105,20 @@ Books:
 # Movies
 
 #### The Lord of the Rings
-#### Harry Potter
-#### The Hobbit
+
+Fantastic films. If you're reading this list, you've probably already seen them. - [@RichardLitt](https://github.com/RichardLitt)
+
+- [The Fellowship of the Ring](http://www.imdb.com/title/tt0120737/) [8.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+> A meek hobbit of the Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.
+
+- [The Two Towers](http://www.imdb.com/title/tt0167261/) [8.7]  <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+> While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+
+- [Return of the King](http://www.imdb.com/title/tt0167260/) [8.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+> Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
 
 #### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
@@ -125,6 +137,9 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are badass. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
+
+#### Harry Potter
+#### The Hobbit
 
 # TV Series
 
