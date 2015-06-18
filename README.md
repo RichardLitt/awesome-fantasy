@@ -232,6 +232,13 @@ Books:
  * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
  * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
+#### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by George MacDonald* [3.9]
+
+> This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
+
+#### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by George MacDonald* [4.0]
+
+> "I was dead, and right content," the narrator says in the penultimate chapter of Phantastes. C.S. Lewis said that upon reading this astonishing 19th-century fairy tale he "had crossed a great frontier," and numerous others both before and since have felt similarly. In MacDonald's fairy tales, both those for children and (like this one) those for adults, the "fairy land" clearly represents the spiritual world, or our own world revealed in all of its depth and meaning. At times almost forthrightly allegorical, at other times richly dreamlike (and indeed having a close connection to the symbolic world of dreams), this story of a young man who finds himself on a long journey through a land of fantasy is more truly the story of the spiritual quest that is at the core of his life's work, a quest that must end with the ultimate surrender of the self. The glory of MacDonald's work is that this surrender is both hard won (or lost ) and yet rippling with joy when at last experienced. As the narrator says of a heavenly woman in this tale, "She knew something too good to be told." One senses the same of the author himself.
 
 #### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) by *John Bunyan* [4.0]
 
