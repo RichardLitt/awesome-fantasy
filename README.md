@@ -28,10 +28,12 @@
 
 #### The Lord of the Rings *by J.R.R. Tolkien* [4.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
+No comment. - [@RichardLitt](https://github.com/RichardLitt)
+
 Books:
- * The Fellowship of the Ring
- * The Two Towers
- * The Return of the King
+ * [The Fellowship of the Ring](http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring) <img src="http://i.imgur.com/iA6WScw.png" width="30px"> <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+ * [The Two Towers](http://www.goodreads.com/book/show/15241.The_Two_Towers) <img src="http://i.imgur.com/iA6WScw.png" width="30px"> <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+ * [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) <img src="http://i.imgur.com/iA6WScw.png" width="30px"> <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
 > A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- The Fellowship of the Ring, The Two Towers, and The Return of the King -- each with art from the New Line Productions feature film on the cover.
 
