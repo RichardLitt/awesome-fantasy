@@ -99,6 +99,14 @@ Books:
  * A Darkness at Sethanon
 
 
+### Allegory
+
+#### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) by *John Bunyan* [4.0]
+
+You know, this is still a pretty good read even if you're not a Christian. Christian, the protagonist, is pretty beleaguered by every possible obstacle on his way to Heaven, and it's fun just hearing how he gets out of scrapes. - [@RichardLitt](https://github.com/RichardLitt)
+
+>This work is written in the King James/ Shakespearean/ Old English language. It is the story of a man becoming saved and his dangerous and challenging journey to the Celestial City.
+
 ### Satire
 
 #### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [3.9]
