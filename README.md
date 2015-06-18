@@ -110,7 +110,13 @@ Books:
 #### Harry Potter
 #### The Hobbit
 
-#### [Reign of Fire](http://www.imdb.com/title/tt0253556/?ref_=fn_al_tt_1) [6.2]
+#### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
+
+> The last dragon and a disillusioned dragonslaying knight must cooperate to stop an evil king who was given partial immortality.
+
+#### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are badass. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -118,7 +124,7 @@ An incredible film for the vision of the world, and the way they combine medieva
 
 # TV Series
 
-#### [Game of Thrones](http://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
 Pretty good, if overly televized at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
