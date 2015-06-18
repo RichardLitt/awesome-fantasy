@@ -205,6 +205,12 @@ Read this if you want to go on an acid trip and if you want to see the roots of 
 
 > The poetic style and sweeping grandeur of The King of Elfland's Daughter has made it one of the most beloved fantasy novels of our time, a masterpiece that influenced some of the greatest contemporary fantasists. The heartbreaking story of a marriage between a mortal man and an elf princess is a masterful tapestry of the fairy tale following the "happily ever after."
 
+#### [The Worm Ouroborous](https://www.goodreads.com/book/show/13624.The_Worm_Ouroboros) *by E.R. Edison* [3.7]
+
+> This is the book that shaped the landscape of contemporary science fiction and fantasy. When The Lord of the Rings first appeared, the critics inevitably compared it to this 1922 landmark work. Tolkien himself frankly acknowledged its influence, with warm praise for its imaginative appeal. The story of a remote planet's great war between two kingdoms, it ranks as the Iliad of heroic fantasy.
+
+> In the best traditions of Homeric epics, Norse sagas, and Arthurian myths, author E. R. Eddison weaves a compelling adventure, with a majestic, Shakespearean narrative style. His sweeping tale recounts battles between warriors and witches on fog-shrouded mountaintops and in the ocean's depths--along with romantic interludes, backroom intrigues, and episodes of direst treachery. Generations of readers have joyfully lost themselves in the timeless worlds of The Worm Ouroboros. This new edition, magnificently illustrated with the classic original images, continues the enchantment.
+
 ### Allegory
 
 #### The Chronicles of Narnia *by C.S. Lewis*
