@@ -188,6 +188,10 @@ Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critica
 
 > "The Wood Beyond the World" was first published in 1894 and its author, William Morris is often considered one of the authors who aided in the growth of fantasy, utopian literature, and science fiction. C.S. Lewis cites William Morris as one of his favorite authors and J.R.R. Tolkein admits to being influenced greatly by Morris' fantasies. The hero of this romance is named Golden Walter, son of Bartholomew Golden, a great merchant in the town of Langton on Holm. Tired of his mundane life, Walter sets out on a sea voyage, anxious to see and learn more of the outside world, eventually winning for himself the kingdom of Stark-Wall and the love of a beautiful maiden.
 
+#### [The Well at the World's End](http://www.goodreads.com/book/show/3218173-the-well-at-the-world-s-end) *by William Morris* [3.9]
+
+> The Well at the World's End was among the very first of its kind--it is an epic romance of duplicity, machination, passion, and wizardry, and is, in short, a vast odyssey into the weird. It is a beautifully rich fantasy, a vibrant fairy tale without fairies. It is the most entrancing of William Morris's late romances--part futuristic fantasy novel, part old-fashioned fairy tale. Morris writes his magic love story with a sense of color and pattern, and the sheer imaginative fervor of one of the most brilliant decorative artists that has ever lived.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
