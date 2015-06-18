@@ -1,8 +1,22 @@
 # awesome-fantasy
-Fantasy literature worth reading
 
+> Fantasy literature worth reading
 
-# Novels
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
+*Please read the [Contributing Guidelines](contributing.md) before contributing.*
+
+## TOC
+
+- [Novels](#novels)
+  - [Epic Fantasy](#epic-fantasy)
+  - [Standard Fantasy](#standard-fantasy)
+  - [Allegory](#allegory)
+  - [Satire](#satire)
+- [Movies](#movies)
+- [TV Series](#tv-series)
+
+## Novels
 
 <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> means that it's a classic.
 
