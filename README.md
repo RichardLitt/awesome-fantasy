@@ -180,6 +180,10 @@ Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critica
 
 > Two of George MacDonald's most fascinating--and meaningful--novels for children. Princess Irene and the intrepid Curdie overthrow the kingdom of the goblins with help from the princess's mysterious and powerful grandmother. More than just children's stories, these novels hold deeper meanings for adult readers who are interested in the spiritual life and the battle between good and evil. Newly designed and typeset by Waking Lion Press.
 
+#### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by George MacDonald* [4.0]
+
+> Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
