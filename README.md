@@ -184,6 +184,10 @@ Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critica
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
+#### [The Wood Beyond the World](http://www.goodreads.com/book/show/723155.The_Wood_Beyond_the_World) *by William Morris* [3.7]
+
+> "The Wood Beyond the World" was first published in 1894 and its author, William Morris is often considered one of the authors who aided in the growth of fantasy, utopian literature, and science fiction. C.S. Lewis cites William Morris as one of his favorite authors and J.R.R. Tolkein admits to being influenced greatly by Morris' fantasies. The hero of this romance is named Golden Walter, son of Bartholomew Golden, a great merchant in the town of Langton on Holm. Tired of his mundane life, Walter sets out on a sea voyage, anxious to see and learn more of the outside world, eventually winning for himself the kingdom of Stark-Wall and the love of a beautiful maiden.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
