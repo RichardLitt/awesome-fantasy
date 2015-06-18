@@ -95,7 +95,6 @@ Books:
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
 #### Tales of Earthsea *by Ursula Le Guin*
-#### The Book of the New Sun *by Gene Wolfe*
 #### The Farseer Trilogy *by Robin Hobb* [4.1] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantasic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
@@ -107,6 +106,16 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
+#### The Book of the New Sun *by Gene Wolfe* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+  * [Shadow and Claw](http://www.goodreads.com/book/show/40992.Shadow_Claw)
+  * [Sword and Citadel](http://www.goodreads.com/book/show/40995.Sword_and_Citadel)
+  * [Urth of the New Sun](http://www.goodreads.com/book/show/60215.The_Urth_of_the_New_Sun)
+
+> Recently voted the greatest fantasy of all time, after The Lord of the Rings and The Hobbit, Gene Wolfe's The Book of the New Sun is an extraordinary epic, set a million years in the future, on an Earth transformed in mysterious and wondrous ways, in a time when our present culture is no longer even a memory. Severian, the central character, is a torturer, exiled from his guild after falling in love with one of his victims, and journeying to the distant city of Thrax, armed with his ancient executioner's sword, Terminus Est. This edition contains the second two volumes of this four volume novel, The Sword of the Lictor and The Citadel of the Autarch.
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
 
