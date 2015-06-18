@@ -98,7 +98,14 @@ Books:
  * Silverthorn
  * A Darkness at Sethanon
 
+
 ### Satire
+
+#### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [3.9]
+
+Farmer Giles is one of my favourite encapsulated stories set in something akin to Old England. It's basically Tolkien's nod to classic fairy tale writers like Lord Dunsanay or MacDonald, but with some humor. "Give us your crown!" is one of my favourite quotes, and I am totally going to name my dog Garm. - [@RichardLitt](https://github.com/RichardLitt)
+
+> The editors of the best-selling rediscovered Tolkien novel Roverandom present an expanded fiftieth anniversary edition of Tolkien's beloved classic Farmer Giles of Ham, complete with a map, the original story outline, the original first-edition illustrations by Pauline Baynes, and the author's notes for an unpublished sequel. Farmer Giles of Ham is a light-hearted satire for readers of all ages that tells the tale of a reluctant hero who must save his village from a dragon. It is a small gem of a tale that grows more delightful with each rereading.
 
 #### The Princess Bride *by William Goldman*
 
