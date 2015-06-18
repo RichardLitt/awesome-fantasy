@@ -169,6 +169,13 @@ Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the
 
 > In Smith of Wooton Major, Tolkien explores the gift of fantasy, and what it means to the life and character of the man who receives it.
 
+#### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by J.R.R. Tolkien* [4.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+A pretty good children's story. Defined modern fantasy as we know it. - [@RichardLitt](https://github.com/RichardLitt)
+
+> In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
+Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
