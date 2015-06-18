@@ -118,11 +118,11 @@ Books:
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
 
+These are exceptionally well written, humorous, and display a surprising lack of non-ironic tropes. There's a good sense of humor, the magic is well fleshed out, and the main character, Kvothe, is just great to read about and very easy to be sympathetic towards. Loved 'em, can't wait for the final third. - [@RichardLitt](https://github.com/RichardLitt)
+
 Books:
 * [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) [4.55]
 * [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear) [4.56]
-
-These are exceptionally well written, humorous, and display a surprising lack of non-ironic tropes. There's a good sense of humor, the magic is well fleshed out, and the main character, Kvothe, is just great to read about and very easy to be sympathetic towards. Loved 'em, can't wait for the final third. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe,[1] an adventurer and famous musician.
 
