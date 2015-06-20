@@ -264,7 +264,7 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
 
-> Discworld is a flat planet, standing on the shoulders of four giants elefants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage... 
+> Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage... 
 
 ## Movies
 
