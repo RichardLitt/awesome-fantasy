@@ -85,6 +85,26 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
+#### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by J.K. Rowling*
+
+These are amusing, and relevant for their culutural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+
+1. Harry Potter and the Philosopher's Stone
+2. Harry Potter and the Chamber of Secrets
+3. Harry Potter and the Prisoner of Azkaban
+4. Harry Potter and the Goblet of Fire
+5. Harry Potter and the Order of the Phoenix
+6. Harry Potter and the Half-Blood Prince
+7. Harry Potter and the Deathly Hallows
+
+> The novels revolve around Harry Potter, an orphan who discovers at the age of 11 that he is a wizard, who lives within the ordinary world of non-magical people, known as Muggles. The wizarding world is secret from the Muggle world, presumably to avoid persecution of witches and wizards. His ability is inborn, and such children are invited to attend an exclusive magic school that teaches the necessary skills to succeed in the wizarding world. Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social and emotional, including ordinary teenage challenges such as friendships, infatuation and exams, and the greater test of preparing himself for the confrontation in the real world that lies ahead.
+
+> Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
+
+> The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognisable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
+
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
 
 These are exceptionally well written, humorous, and display a surprising lack of non-ironic tropes. There's a good sense of humor, the magic is well fleshed out, and the main character, Kvothe, is just great to read about and very easy to be sympathetic towards. Loved 'em, can't wait for the final third. - [@RichardLitt](https://github.com/RichardLitt)
