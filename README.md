@@ -351,3 +351,10 @@ One of the best lovestories ever told. This movie has everything any kid could w
 Pretty good, if overly televized at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+
