@@ -145,6 +145,23 @@ Books:
 
  > When Merlin, suffering from a case of severe amnesia, discovers his strange powers, he becomes determined to discover his identity and flees to Fincayra where he fulfills his destiny, saving Fincayra from certain destruction and claiming his birthright and true name.
 
+#### Mistborn *by Brandon Sanderson* [4.4]
+
+The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistorn is probably the best place to start (for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
+
+> The first three books are a trilogy to be read together.
+> Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
+>
+> Books 4-6 are sequels that take place 300 years later.
+
+Books:
+ * [The Final Empire](https://www.goodreads.com/book/show/68428.The_Final_Empire) [4.4]
+ * [The Well of Ascension](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension) [4.3]
+ * [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages) [4.4]
+ * [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
+ * [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
+ * _More coming_
+
 #### The Riftwar Saga *by Raymond E. Feist* [4.3]
 
 This reads like someone decided to put some characters in their Dungeons and Dragons world, which is exactly how they were formed. For all that, they are amusing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -172,7 +189,7 @@ The Stormlight Archive books (only 2 out of a planned 10 last I heard) are 2 of 
 Books:
  * [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
  * [Storms of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]
- * _forthcoming_
+ * _More coming_
 
 #### The Wheel of Time *by Robert Jordan* (and Brandon Sanderson) [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
