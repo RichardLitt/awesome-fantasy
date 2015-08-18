@@ -163,6 +163,17 @@ This is one of the most ridiculous forays into world building, ever. At times, i
 
 > Designed to take fans of The Hobbit and The Lord of the Rings deeper into the myths and legends of Middle-Earth, The Silmarillion is an account of the Elder Days, of the First Age of Tolkien's world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor. Included in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Numenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings. This pivotal work features the revised, corrected text and includes, by way of an introduction, a fascinating letter written by Tolkien in 1951 in which he gives a full explanation of how he conceived the early Ages of Middle-Earth.
 
+#### The Stormlight Archive *by Brandon Sanderson* [4.6]
+
+The Stormlight Archive books (only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
+
+> Brandon Sanderson's epic fantasy cycle tells the story of Roshar, a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. As brutal wars rage over the control of these magical weapons, an ancient text called The Way of Kings tells of ancient times, the Knights Radiant, and perhaps the true cause of the war. The Knights Radiant must stand again.
+
+Books:
+ * [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [Storms of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]
+ * _forthcoming_
+
 #### The Wheel of Time *by Robert Jordan* (and Brandon Sanderson) [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were cowritten, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
