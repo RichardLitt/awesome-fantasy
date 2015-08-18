@@ -91,13 +91,13 @@ These are amusing, and relevant for their culutural impact if not for the calibe
 
 Books:
 
-1. Harry Potter and the Philosopher's Stone
-2. Harry Potter and the Chamber of Secrets
-3. Harry Potter and the Prisoner of Azkaban
-4. Harry Potter and the Goblet of Fire
-5. Harry Potter and the Order of the Phoenix
-6. Harry Potter and the Half-Blood Prince
-7. Harry Potter and the Deathly Hallows
+1. [Harry Potter and the Philosopher's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone) [4.4]
+2. [Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets) [4.3]
+3. [Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban) [4.5]
+4. [Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire) [4.5]
+5. [Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix) [4.4]
+6. [Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince) [4.5]
+7. [Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) [4.6]
 
 > The novels revolve around Harry Potter, an orphan who discovers at the age of 11 that he is a wizard, who lives within the ordinary world of non-magical people, known as Muggles. The wizarding world is secret from the Muggle world, presumably to avoid persecution of witches and wizards. His ability is inborn, and such children are invited to attend an exclusive magic school that teaches the necessary skills to succeed in the wizarding world. Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social and emotional, including ordinary teenage challenges such as friendships, infatuation and exams, and the greater test of preparing himself for the confrontation in the real world that lies ahead.
 
