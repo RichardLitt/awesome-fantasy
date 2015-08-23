@@ -13,6 +13,7 @@
   - [Standard Fantasy](#standard-fantasy)
   - [Allegory](#allegory)
   - [Satire](#satire)
+  - [Children's Books](#childrens-books)
 - [Movies](#movies)
 - [TV Series](#tv-series)
 
@@ -343,6 +344,14 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 This is a book that doesn't take away from the classic movie rendition of it, but adds to it. It stands alone as a fun little read. - [@RichardLitt](https://github.com/RichardLitt)
 
 >What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
+
+### Children's Books
+
+#### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by Terry Jones, Michael Foreman* [3.94]
+
+One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
+
+> 'This is one tale of a Viking warrior who lived hundreds and hundreds of years ago. His name is Erik.' And Erik is no ordinary Viking. With his trusty band of men he sets sail in search of the land where the sun goes at night. In fact, he finds much more! The Sea Dragon, the Old Man of the Sea, Dogfighters and giants combine to make his voyage a great saga of thrilling adventures.
 
 ## Movies
 
