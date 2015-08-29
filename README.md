@@ -361,6 +361,12 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 
 > The last dragon and a disillusioned dragonslaying knight must cooperate to stop an evil king who was given partial immortality.
 
+#### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
+
+This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
+
+> An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are badass. - [@RichardLitt](https://github.com/RichardLitt)
