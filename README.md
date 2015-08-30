@@ -339,6 +339,16 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 
 > The editors of the best-selling rediscovered Tolkien novel Roverandom present an expanded fiftieth anniversary edition of Tolkien's beloved classic Farmer Giles of Ham, complete with a map, the original story outline, the original first-edition illustrations by Pauline Baynes, and the author's notes for an unpublished sequel. Farmer Giles of Ham is a light-hearted satire for readers of all ages that tells the tale of a reluctant hero who must save his village from a dragon. It is a small gem of a tale that grows more delightful with each rereading.
 
+#### [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) *by Terry Pratchett and Neil Gaiman* [4.3]
+
+This was a fun book, and a great collaboration. - [@RichardLitt](https://github.com/RichardLitt)
+
+> According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
+
+> So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon—both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle—are not actually looking forward to the coming Rapture.
+
+> And someone seems to have misplaced the Antichrist . . .
+
 #### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by William Goldman* [4.2] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 This is a book that doesn't take away from the classic movie rendition of it, but adds to it. It stands alone as a fun little read. - [@RichardLitt](https://github.com/RichardLitt)
