@@ -402,6 +402,12 @@ This is an awesomely atrocious film. The only thing that is awesome about it is 
 
 > An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
 
+#### [Labyrinth](http://www.imdb.com/title/tt0091369/) [7.4]
+
+This is one of the weirder cult classics to come out of the 80s. I wouldn't include this here if David Bowie's performance wasn't so incredible. But it is. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are badass. - [@RichardLitt](https://github.com/RichardLitt)
