@@ -63,6 +63,16 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 
 > Painstakingly restored from Tolkien's manuscripts and presented for the first time as a fully continuous and standalone story, the epic tale of The Children of Hurin will reunite fans of The Hobbit and The Lord of the Rings with Elves and Men, dragons and Dwarves, eagles and Orcs, and the rich landscape and characters unique to Tolkien. There are tales of Middle-earth from times long before The Lord of the Rings, and the story told in this book is set in the great country that lay beyond the Grey Havens in the West: lands where Treebeard once walked, but which were drowned in the great cataclysm that ended the First Age of the World. In that remote time Morgoth, the first Dark Lord, dwelt in the vast fortress of Angband, the Hells of Iron, in the North; and the tragedy of Turin and his sister Nienor unfolded within the shadow of the fear of Angband and the war waged by Morgoth against the lands and secret cities of the Elves. Their brief and passionate lives were dominated by the elemental hatred that Morgoth bore them as the children of Hurin, the man who had dared to defy and to scorn him to his face. Against them he sent his most formidable servant, Glaurung, a powerful spirit in the form of a huge wingless dragon of fire. Into this story of brutal conquest and flight, of forest hiding-places and pursuit, of resistance with lessening hope, the Dark Lord and the Dragon enter in direly articulate form. Sardonic and mocking, Glaurung manipulated the fates of Turin and Nienor by lies of diabolic cunning and guile, and the curse of Morgoth was fulfilled. The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
+#### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)*
+
+There's elements of fantasy in here, although it is mostly science fiction. The elements they have - the power of words, the _bene gesserit_, the worms - are all, indubitably, awesome. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+ * [Dune](https://www.goodreads.com/book/show/234225.Dune) [4.2]
+ * [Dune Messiah](https://www.goodreads.com/book/show/106.Dune_Messiah) [3.8]
+ * [Children of Dune](https://www.goodreads.com/book/show/112.Children_of_Dune) [3.9]
+ * _And others that I haven't read..._
+
 #### [Earthsea](https://en.wikipedia.org/wiki/Earthsea) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)*
 
 This is fantasy and magic done exceedingly well. These read like children stories - not in their style or content, which are very adult - but in the massive expanse of the world that you start to imagine, the way the stories run off the page and away with you. I can't praise it enough. - [@RichardLitt](https://github.com/RichardLitt)
