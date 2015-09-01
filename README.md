@@ -402,6 +402,12 @@ This is an awesomely atrocious film. The only thing that is awesome about it is 
 
 > An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
 
+#### [Krull](http://www.imdb.com/title/tt0085811/) [6.0]
+
+Truly a horrendous film. But would make a great drinking game, so I am including it. Also, early Liam Neeson is great. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A prince and a fellowship of companions set out to rescue his bride from a fortress of alien invaders who have arrived on their home planet.
+
 #### [Labyrinth](http://www.imdb.com/title/tt0091369/) [7.4]
 
 This is one of the weirder cult classics to come out of the 80s. I wouldn't include this here if David Bowie's performance wasn't so incredible. But it is. - [@RichardLitt](https://github.com/RichardLitt)
