@@ -444,6 +444,12 @@ One of the best lovestories ever told. This movie has everything any kid could w
 
 ## TV Series
 
+#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
+
+Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
+
+> In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
+
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
 Pretty good, if overly televized at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
