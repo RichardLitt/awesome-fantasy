@@ -226,6 +226,12 @@ Books:
 
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
+#### [Black Company](https://www.goodreads.com/book/show/140671) (1984) *by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)* [4]
+
+This is my favorite dark fantasy series and the first book is awesome. These are written so differently than any fantasy-esque book I've ever read. It is difficult to describe, but as a veteran, it just feels like you're reading a fantasy book written by a former soldier that's been there, crude jokes, blood and all. I highly recommend this. - [@PeerRails](https://github.com/PeerRails)
+
+> The series follows an elite mercenary unit, The Black Company, last of the Free Companies of Khatovar, through roughly forty years of its approximately four hundred-year history. Cook mixes fantasy with military fiction in gritty, down-to-earth portrayals of the Company‘s chief personalities and its struggles.
+
 ### Standard Fantasy
 
 #### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) *by Neil Gaiman* [4.1]
