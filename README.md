@@ -258,6 +258,8 @@ Some of the best short stories I have ever read; The Library is my favourite of 
 
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by George MacDonald* [4.0]
 
+This book inspired me at the age of 14 to get a tattoo I ended up getting 7 years later. This is the kind of fantasy I wish we were still making; half theological, fantastic and weird, somewhere between Grimm's Fairytales and George R.R. Martin. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
 #### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by J.R.R. Tolkien* [4.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
