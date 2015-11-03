@@ -196,6 +196,8 @@ This is one of the most ridiculous forays into world building, ever. At times, i
 
 The Stormlight Archive books (only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
 
+I completely agree that however long these books are, it doesn't really matter. They're fantastic. The magic system is complex, and the characters Brandon focuses on have their own little foibles and bits of awesome. This is classic 90s fantasy, but still incredibly good. The world is also pretty novel for fantasy - no more England-like environments, but actually a different kind of landscape. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Brandon Sanderson's epic fantasy cycle tells the story of Roshar, a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. As brutal wars rage over the control of these magical weapons, an ancient text called The Way of Kings tells of ancient times, the Knights Radiant, and perhaps the true cause of the war. The Knights Radiant must stand again.
 
 Books:
