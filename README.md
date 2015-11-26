@@ -88,7 +88,7 @@ Books:
 
 #### The Farseer Trilogy *by Robin Hobb* [4.1] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantasic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
+I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantastic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
  * [Assassin's Apprentice](http://www.goodreads.com/book/show/45107.Assassin_s_Apprentice) [4.1]
@@ -115,7 +115,7 @@ Books:
 
 > Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
 
-> The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognisable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
+> The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
 
@@ -125,11 +125,11 @@ Books:
 * [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) [4.55]
 * [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear) [4.56]
 
-> The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe,[1] an adventurer and famous musician.
+> The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe, an adventurer and famous musician.
 
 > The plot is divided into two different action threads: the present, where Kvothe tells the story of his life to Devan Lochees (known as Chronicler) in the main room of his inn, and Kvothe's past, the story in question, which makes up the majority of the books. The present-day interludes are in the third person from the perspective of multiple characters, while the story of Kvothe's life is told entirely in the first person from his own perspective.
 
-> The series also contains many metafictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
+> The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
 #### The Lord of the Rings *by J.R.R. Tolkien* [4.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -184,11 +184,11 @@ Books:
  * [Silverthorn](http://www.goodreads.com/book/show/149302.Silverthorn)
  * [A Darkness at Sethanon](http://www.goodreads.com/book/show/13813.A_Darkness_At_Sethanon)
 
-> To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened spacetime to renew the age-old battle between Order and Chaos.
+> To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
 #### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) *by J.R.R. Tolkien* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitutude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
+This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Designed to take fans of The Hobbit and The Lord of the Rings deeper into the myths and legends of Middle-Earth, The Silmarillion is an account of the Elder Days, of the First Age of Tolkien's world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor. Included in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Numenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings. This pivotal work features the revised, corrected text and includes, by way of an introduction, a fascinating letter written by Tolkien in 1951 in which he gives a full explanation of how he conceived the early Ages of Middle-Earth.
 
@@ -196,7 +196,7 @@ This is one of the most ridiculous forays into world building, ever. At times, i
 
 The Stormlight Archive books (only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
 
-I completely agree that however long these books are, it doesn't really matter. They're fantastic. The magic system is complex, and the characters Brandon focuses on have their own little foibles and bits of awesome. This is classic 90s fantasy, but still incredibly good. The world is also pretty novel for fantasy - no more England-like environments, but actually a different kind of landscape. - [@RichardLitt](https://github.com/RichardLitt)
+I completely agree that however long these books are, it doesn't really matter. They're fantastic. The magic system is complex, and the characters Brandon focuses on have their own little foibles and bits of awesome. This is classic 90's fantasy, but still incredibly good. The world is also pretty novel for fantasy - no more England-like environments, but actually a different kind of landscape. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Brandon Sanderson's epic fantasy cycle tells the story of Roshar, a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. As brutal wars rage over the control of these magical weapons, an ancient text called The Way of Kings tells of ancient times, the Knights Radiant, and perhaps the true cause of the war. The Knights Radiant must stand again.
 
@@ -207,7 +207,7 @@ Books:
 
 #### The Wheel of Time *by Robert Jordan* (and Brandon Sanderson) [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were cowritten, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
+These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were co-written, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
  * [The Eye of the World](http://www.goodreads.com/book/show/228665.The_Eye_of_the_World) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
@@ -254,7 +254,7 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
 
-> The seventeen pieces in Ficciones demonstrate the whirlwind of Borges's genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
+> The seventeen pieces in Ficciones demonstrate the whirlwind of Borges' genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
 
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by George MacDonald* [4.0]
 
@@ -309,19 +309,19 @@ I read this book at least once a year. The story is well told, easily approachab
 
 #### [The Wood Beyond the World](http://www.goodreads.com/book/show/723155.The_Wood_Beyond_the_World) *by William Morris* [3.7]
 
-> "The Wood Beyond the World" was first published in 1894 and its author, William Morris is often considered one of the authors who aided in the growth of fantasy, utopian literature, and science fiction. C.S. Lewis cites William Morris as one of his favorite authors and J.R.R. Tolkein admits to being influenced greatly by Morris' fantasies. The hero of this romance is named Golden Walter, son of Bartholomew Golden, a great merchant in the town of Langton on Holm. Tired of his mundane life, Walter sets out on a sea voyage, anxious to see and learn more of the outside world, eventually winning for himself the kingdom of Stark-Wall and the love of a beautiful maiden.
+> "The Wood Beyond the World" was first published in 1894 and its author, William Morris is often considered one of the authors who aided in the growth of fantasy, Utopian literature, and science fiction. C.S. Lewis cites William Morris as one of his favorite authors and J.R.R. Tolkien admits to being influenced greatly by Morris' fantasies. The hero of this romance is named Golden Walter, son of Bartholomew Golden, a great merchant in the town of Langton on Holm. Tired of his mundane life, Walter sets out on a sea voyage, anxious to see and learn more of the outside world, eventually winning for himself the kingdom of Stark-Wall and the love of a beautiful maiden.
 
 #### [The Worm Ouroborous](https://www.goodreads.com/book/show/13624.The_Worm_Ouroboros) *by E.R. Edison* [3.7]
 
 > This is the book that shaped the landscape of contemporary science fiction and fantasy. When The Lord of the Rings first appeared, the critics inevitably compared it to this 1922 landmark work. Tolkien himself frankly acknowledged its influence, with warm praise for its imaginative appeal. The story of a remote planet's great war between two kingdoms, it ranks as the Iliad of heroic fantasy.
 
-> In the best traditions of Homeric epics, Norse sagas, and Arthurian myths, author E. R. Eddison weaves a compelling adventure, with a majestic, Shakespearean narrative style. His sweeping tale recounts battles between warriors and witches on fog-shrouded mountaintops and in the ocean's depths--along with romantic interludes, backroom intrigues, and episodes of direst treachery. Generations of readers have joyfully lost themselves in the timeless worlds of The Worm Ouroboros. This new edition, magnificently illustrated with the classic original images, continues the enchantment.
+> In the best traditions of Homeric epics, Norse sagas, and Arthurian myths, author E. R. Eddison weaves a compelling adventure, with a majestic, Shakespearean narrative style. His sweeping tale recounts battles between warriors and witches on fog-shrouded mountaintops and in the ocean's depths--along with romantic interludes, back-room intrigues, and episodes of direst treachery. Generations of readers have joyfully lost themselves in the timeless worlds of The Worm Ouroboros. This new edition, magnificently illustrated with the classic original images, continues the enchantment.
 
 ### Allegory
 
 #### The Chronicles of Narnia *by C.S. Lewis*
 
-These books are great, quick reading, although the Christian overtones can grow old with time. I'm not quite sure how to suggest them, as I grew up with them - but I can't imagine not having done so. Reading about Mr. Tumnus carrying parcels through a snowy forest in The Lion, The Witch, and the Warddrobe is one of my earliest memories. - [@RichardLitt](https://github.com/RichardLitt)
+These books are great, quick reading, although the Christian overtones can grow old with time. I'm not quite sure how to suggest them, as I grew up with them - but I can't imagine not having done so. Reading about Mr. Tumnus carrying parcels through a snowy forest in The Lion, The Witch, and the Wardrobe is one of my earliest memories. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
  * [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
@@ -376,7 +376,7 @@ This was a fun book, and a great collaboration. - [@RichardLitt](https://github.
 
 > According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
 
-> So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon—both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle—are not actually looking forward to the coming Rapture.
+> So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon — both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle — are not actually looking forward to the coming Rapture.
 
 > And someone seems to have misplaced the Antichrist . . .
 
@@ -390,11 +390,11 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 #### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) *by H.P. Lovecraft* [4.3]
 
-Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire subgenre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
+Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire sub-genre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
 
 > An unparalleled selection of fiction from H. P. Lovecraft, master of the American horror tale
 
-> Long after his death, H. P. Lovecraft continues to enthrall readers with his gripping tales of madness and cosmic terror, and his effect on modern horror fiction continues to be felt--Stephen King, Anne Rice, and Clive Barker have acknowledged his influence. His unique contribution to American literature was a melding of Poe's traditional supernaturalism with the emerging genre of science fiction. Originally appearing in pulp magazines like Weird Tales in the 1920s and 1930s, Lovecraft's work is now being regarded as the most important supernatural fiction of the twentieth century.
+> Long after his death, H. P. Lovecraft continues to enthrall readers with his gripping tales of madness and cosmic terror, and his effect on modern horror fiction continues to be felt - Stephen King, Anne Rice, and Clive Barker have acknowledged his influence. His unique contribution to American literature was a melding of Poe's traditional supernaturalism with the emerging genre of science fiction. Originally appearing in pulp magazines like Weird Tales in the 1920s and 1930s, Lovecraft's work is now being regarded as the most important supernatural fiction of the twentieth century.
 
 > Lovecraft's biographer and preeminent interpreter, S. T. Joshi, has prepared this volume of eighteen stories--from the early classics like "The Outsider" and "Rats in the Wall" to his mature masterworks, "The Call of Cthulhu" and "The Shadow over Innsmouth." The first paperback to include the definitive corrected texts, The Call of Cthulhu and Other Weird Stories reveals the development of Lovecraft's mesmerizing narrative style, and establishes him as a canonical--and visionary--American writer. 
 
@@ -414,7 +414,7 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
 
-> The last dragon and a disillusioned dragonslaying knight must cooperate to stop an evil king who was given partial immortality.
+> The last dragon and a disillusioned dragon-slaying knight must cooperate to stop an evil king who was given partial immortality.
 
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
@@ -430,13 +430,13 @@ Truly a horrendous film. But would make a great drinking game, so I am including
 
 #### [Labyrinth](http://www.imdb.com/title/tt0091369/) [7.4]
 
-This is one of the weirder cult classics to come out of the 80s. I wouldn't include this here if David Bowie's performance wasn't so incredible. But it is. - [@RichardLitt](https://github.com/RichardLitt)
+This is one of the weirder cult classics to come out of the 80's. I wouldn't include this here if David Bowie's performance wasn't so incredible. But it is. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
-An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are badass. - [@RichardLitt](https://github.com/RichardLitt)
+An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
 
@@ -458,7 +458,7 @@ Fantastic films. If you're reading this list, you've probably already seen them.
 
 #### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
-One of the best lovestories ever told. This movie has everything any kid could want, and the book is just as good - it's satirical but not overly self-indulgent. - [@RichardLitt](https://github.com/RichardLitt)
+One of the best love stories ever told. This movie has everything any kid could want, and the book is just as good - it's satirical but not overly self-indulgent. - [@RichardLitt](https://github.com/RichardLitt)
 
 > While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
@@ -472,7 +472,7 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
-Pretty good, if overly televized at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
+Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
 
