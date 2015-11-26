@@ -99,7 +99,7 @@ Books:
 
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by J.K. Rowling*
 
-These are amusing, and relevant for their culutural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
+These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -116,6 +116,17 @@ Books:
 > Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
 
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognisable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
+
+
+#### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
+
+Dealing with racial and sexual discrimination in a high fantasy setting, the novel is excellent. - [@SeanSWatkins](https://github.com/SeanSWatkins)
+
+Books:
+1. [The Hundred Thousand Kingdoms](http://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) [4.2]
+
+>The first novel centers around Yeine a Darr woman who has been called back to the city Sky for reasons unbeknown to her. The current leader of Sky, who also rules the world at large, is nearing the end of his life and, in true Arameri fashion, makes a game of his succession. Yeine is soon caught up in schemes that she does not fully understand, involving gods she cannot fully comprehend. She must sift through lies and half-truths she is told to try and uncover what is really going on in the capital of the world, all the while trying to navigate a fragile and deceptive political atmosphere. The story is told from the first-person viewpoint of the main protagonist, Yeine. It's written as a retelling of a story, where she is walking you through her time in Sky and all the events that lead up to the climax of the story. The story does seems to jump around quite a bit without becoming confusing. 
+
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
 
@@ -352,7 +363,7 @@ You know, this is still a pretty good read even if you're not a Christian. Chris
 
 Discworld is a massive, sprawling world outlined in dozens of books by the late Terry Pratchett. Rather than list them all here, here are a few that have been read by contributors of this list, with comments on each.
 
-> Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage... 
+> Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
 
 Books:
  * [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]  
@@ -396,7 +407,7 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 
 > Long after his death, H. P. Lovecraft continues to enthrall readers with his gripping tales of madness and cosmic terror, and his effect on modern horror fiction continues to be felt--Stephen King, Anne Rice, and Clive Barker have acknowledged his influence. His unique contribution to American literature was a melding of Poe's traditional supernaturalism with the emerging genre of science fiction. Originally appearing in pulp magazines like Weird Tales in the 1920s and 1930s, Lovecraft's work is now being regarded as the most important supernatural fiction of the twentieth century.
 
-> Lovecraft's biographer and preeminent interpreter, S. T. Joshi, has prepared this volume of eighteen stories--from the early classics like "The Outsider" and "Rats in the Wall" to his mature masterworks, "The Call of Cthulhu" and "The Shadow over Innsmouth." The first paperback to include the definitive corrected texts, The Call of Cthulhu and Other Weird Stories reveals the development of Lovecraft's mesmerizing narrative style, and establishes him as a canonical--and visionary--American writer. 
+> Lovecraft's biographer and preeminent interpreter, S. T. Joshi, has prepared this volume of eighteen stories--from the early classics like "The Outsider" and "Rats in the Wall" to his mature masterworks, "The Call of Cthulhu" and "The Shadow over Innsmouth." The first paperback to include the definitive corrected texts, The Call of Cthulhu and Other Weird Stories reveals the development of Lovecraft's mesmerizing narrative style, and establishes him as a canonical--and visionary--American writer.
 
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
@@ -481,4 +492,3 @@ Pretty good, if overly televized at times and with too much emphasis on sexual v
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
-
