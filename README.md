@@ -365,7 +365,7 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 
 #### [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) *by Terry Pratchett and Neil Gaiman* [4.3]
 
-This was a fun book, and a great collaboration. - [@RichardLitt](https://github.com/RichardLitt)
+This was a fun book, and a great collaboration. At times it is a bit clear where Neil Gaiman was writing, and I'm not sure that the book is better for his inclusions at points; he hadn't yet perfected his craft, I think. But the story as a whole is good. - [@RichardLitt](https://github.com/RichardLitt)
 
 > According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
 
