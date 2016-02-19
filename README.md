@@ -259,10 +259,6 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
-#### [Curdie and the Goblin](http://www.goodreads.com/book/show/2817028-the-princess-and-the-goblin-princess-and-curdie-oxford-world-s-classi) *by George MacDonald* [4.2]
-
-> Two of George MacDonald's most fascinating--and meaningful--novels for children. Princess Irene and the intrepid Curdie overthrow the kingdom of the goblins with help from the princess's mysterious and powerful grandmother. More than just children's stories, these novels hold deeper meanings for adult readers who are interested in the spiritual life and the battle between good and evil. Newly designed and typeset by Waking Lion Press.
-
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by Jorge Luis Borges* [4.5]
 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
@@ -304,31 +300,11 @@ Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the
 
 > In Smith of Wooton Major, Tolkien explores the gift of fantasy, and what it means to the life and character of the man who receives it.
 
-#### [The Water of the Wondrous Isles](http://www.goodreads.com/book/show/890344.The_Water_of_the_Wondrous_Isles) *by William Morris* [4.0]
-
-> This late Morris novel chronicles the journeys of Birdalone, who is stolen from her weaver mother as a baby and raised by a witch in the forest. Under the guidance of the nature spirit Habundia, she eventually escapes in a little boat, beginning a series of strange encounters on various islands.
-
-> Like many of Morris' stories this was influenced by his interest in medieval sagas and manuscripts, but but compared to some others, such as The Well at the World's End it is deliberately written in a more natural (i.e. more contemporary) language and is not difficult to follow.
-
-#### [The Well at the World's End](http://www.goodreads.com/book/show/3218173-the-well-at-the-world-s-end) *by William Morris* [3.9]
-
-> The Well at the World's End was among the very first of its kind--it is an epic romance of duplicity, machination, passion, and wizardry, and is, in short, a vast odyssey into the weird. It is a beautifully rich fantasy, a vibrant fairy tale without fairies. It is the most entrancing of William Morris's late romances--part futuristic fantasy novel, part old-fashioned fairy tale. Morris writes his magic love story with a sense of color and pattern, and the sheer imaginative fervor of one of the most brilliant decorative artists that has ever lived.
-
 #### [The Wizard Knight](http://www.goodreads.com/book/show/101949.The_Wizard_Knight) *by Gene Wolfe* [3.8]
 
 I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
-
-#### [The Wood Beyond the World](http://www.goodreads.com/book/show/723155.The_Wood_Beyond_the_World) *by William Morris* [3.7]
-
-> "The Wood Beyond the World" was first published in 1894 and its author, William Morris is often considered one of the authors who aided in the growth of fantasy, Utopian literature, and science fiction. C.S. Lewis cites William Morris as one of his favorite authors and J.R.R. Tolkien admits to being influenced greatly by Morris' fantasies. The hero of this romance is named Golden Walter, son of Bartholomew Golden, a great merchant in the town of Langton on Holm. Tired of his mundane life, Walter sets out on a sea voyage, anxious to see and learn more of the outside world, eventually winning for himself the kingdom of Stark-Wall and the love of a beautiful maiden.
-
-#### [The Worm Ouroborous](https://www.goodreads.com/book/show/13624.The_Worm_Ouroboros) *by E.R. Edison* [3.7]
-
-> This is the book that shaped the landscape of contemporary science fiction and fantasy. When The Lord of the Rings first appeared, the critics inevitably compared it to this 1922 landmark work. Tolkien himself frankly acknowledged its influence, with warm praise for its imaginative appeal. The story of a remote planet's great war between two kingdoms, it ranks as the Iliad of heroic fantasy.
-
-> In the best traditions of Homeric epics, Norse sagas, and Arthurian myths, author E. R. Eddison weaves a compelling adventure, with a majestic, Shakespearean narrative style. His sweeping tale recounts battles between warriors and witches on fog-shrouded mountaintops and in the ocean's depths--along with romantic interludes, back-room intrigues, and episodes of direst treachery. Generations of readers have joyfully lost themselves in the timeless worlds of The Worm Ouroboros. This new edition, magnificently illustrated with the classic original images, continues the enchantment.
 
 ### Allegory
 
