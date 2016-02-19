@@ -323,9 +323,13 @@ Books:
 
 #### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by George MacDonald* [3.9]
 
+This was a weird, weird book, just like _Phantastes_. George MacDonald had a gift for writing essentially plotless books that journey through fantastic realms; but at no point do they ever become uninteresting. They were also the inspiration for a lot of later writers, most notably CS Lewis, and it is easy to see why. Worth the read. - [@RichardLitt](https://github.com/RichardLitt)
+
 > This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
 
 #### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by George MacDonald* [4.0]
+
+See the review for _Lilith_, above. - [@RichardLitt](https://github.com/RichardLitt)
 
 > "I was dead, and right content," the narrator says in the penultimate chapter of Phantastes. C.S. Lewis said that upon reading this astonishing 19th-century fairy tale he "had crossed a great frontier," and numerous others both before and since have felt similarly. In MacDonald's fairy tales, both those for children and (like this one) those for adults, the "fairy land" clearly represents the spiritual world, or our own world revealed in all of its depth and meaning. At times almost forthrightly allegorical, at other times richly dreamlike (and indeed having a close connection to the symbolic world of dreams), this story of a young man who finds himself on a long journey through a land of fantasy is more truly the story of the spiritual quest that is at the core of his life's work, a quest that must end with the ultimate surrender of the self. The glory of MacDonald's work is that this surrender is both hard won (or lost ) and yet rippling with joy when at last experienced. As the narrator says of a heavenly woman in this tale, "She knew something too good to be told." One senses the same of the author himself.
 
