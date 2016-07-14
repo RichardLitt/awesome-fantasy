@@ -68,7 +68,7 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 
 This omnibus edition of 3 books describes the origin and deeds of a female Paladin named Paksenarrion. The Deed of Paksenarrion contemplates justice, true courage and the forces of good and evil in a way that is refreshing. I don't think I ever really understood the fantasy class of Paladin until reading this either, Elizabeth Moon's depiction will now forever be my etched on my brain as what a Paladin is.
 
-It has all the usual trappings of high fantasy including dwarves and elves, but what really stands out is the balance of gender and the role of women. Throughout the books women are respected as equals and Paksenarrion develops a courageous, head-strong and loyal character that is engrossing and convincing.
+It has all the usual trappings of high fantasy including dwarves and elves, but what really stands out is the balance of gender and the role of women. Throughout the books women are respected as equals and Paksenarrion develops a courageous, head-strong and loyal character that is engrossing and convincing. - [@samueljseay](https://github.com/samueljseay)
 
 Books:
   * [Sheepfarmer's Daughter](https://www.goodreads.com/book/show/96278.Sheepfarmer_s_Daughter)
