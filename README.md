@@ -308,6 +308,12 @@ This was a delightful book. Short and sweet, it exhibits both Gaiman's ability t
 
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
+#### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) *by Ursula K. Le Guin* [3.7]
+
+These were beautiful, finely crafted short stories. Rarely for me, I read a few of them immediately after I finished them, to make sure that I got the more subtle details. The writing was absolutely exquisite. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Orsinia ... a land of medieval forests, stonewalled cities, and railways reaching into the mountains where the old gods dwell. A country where life is harsh, dreams are gentle, and people feel torn by powerful forces and fight to remain whole. In this enchanting collection, Ursula K. Le Guin brings to mainstream fiction the same compelling mastery of word and deed, of story and character, of violence and love, that has won her the Pushcart Prize, and the Kafka and National Book Awards.
+
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [4.0]
 
 Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
