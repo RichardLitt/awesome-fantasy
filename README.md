@@ -6,7 +6,7 @@
 
 *Please read the [Contributing Guidelines](contributing.md) before contributing.*
 
-## TOC
+## Contents
 
 - [Novels](#novels)
   - [Epic Fantasy](#epic-fantasy)
