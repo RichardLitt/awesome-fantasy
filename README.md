@@ -199,6 +199,7 @@ Books:
  * [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages) [4.4]
  * [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
  * [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
+ * [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning)[4.2]
  * _More coming_
 
 #### The Riftwar Saga *by Raymond E. Feist* [4.3]
