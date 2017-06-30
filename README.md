@@ -15,6 +15,7 @@
   - [Satire](#satire)
   - [Horror](#horror)
   - [Children's Books](#childrens-books)
+- [Comic books](#comic-books)
 - [Movies](#movies)
 - [TV Series](#tv-series)
 
@@ -361,20 +362,20 @@ You know, this is still a pretty good read even if you're not a Christian. Chris
 
 ### Satire
 
-#### Discworld *by Terry Pratchett*  
+#### Discworld *by Terry Pratchett*
 
 Discworld is a massive, sprawling world outlined in dozens of books by the late Terry Pratchett. Rather than list them all here, here are a few that have been read by contributors of this list, with comments on each.
 
 > Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
 
 Books:
- * [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]  
+ * [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
     This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
 
     I love this book. The style is original and hilarious and the characters' personality is deeply developed. Death alone is a good reason to read this book. - [@fourlastor](https://github.com/fourlastor)
- * [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]  
+ * [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]
     This was my intro to Discworld, and I loved it. Death is hilarious. - [@RichardLitt](https://github.com/RichardLitt)
- * [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]  
+ * [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]
     How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
 #### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [3.9]
@@ -420,6 +421,23 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
 
 > 'This is one tale of a Viking warrior who lived hundreds and hundreds of years ago. His name is Erik.' And Erik is no ordinary Viking. With his trusty band of men he sets sail in search of the land where the sun goes at night. In fact, he finds much more! The Sea Dragon, the Old Man of the Sea, Dogfighters and giants combine to make his voyage a great saga of thrilling adventures.
+
+## Comic Books
+
+#### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by Bryan Lee O'Malley, Nathan Fairbairn* [4.07]
+
+A colorful, funny, and heart-warming take on the consequences of being able to change the past. The best word to describe this comic is delightful. - [@sunrein](https://github.com/sunrein)
+
+> Katie’s got it pretty good. She’s a talented young chef, she runs a successful restaurant, and she has big plans to open an even better one. Then, all at once, progress on the new location bogs down, her charming ex-boyfriend pops up, her fling with another chef goes sour, and her best waitress gets badly hurt. And just like that, Katie’s life goes from pretty good to not so much. What she needs is a second chance. Everybody deserves one, after all—but they don’t come easy. Luckily for Katie, a mysterious girl appears in the middle of the night with simple instructions for a do-it-yourself do-over:
+
+> 1. Write your mistake
+> 2. Ingest one mushroom
+> 3. Go to sleep
+> 4. Wake anew
+
+> And just like that, all the bad stuff never happened, and Katie is given another chance to get things right. She’s also got a dresser drawer full of magical mushrooms—and an irresistible urge to make her life not just good, but perfect. Too bad it’s against the rules. But Katie doesn’t care about the rules—and she’s about to discover the unintended consequences of the best intentions.
+
+> From the mind and pen behind the acclaimed Scott Pilgrim series comes a madcap new tale of existential angst, everyday obstacles, young love, and ancient spirits that’s sharp-witted and tenderhearted, whimsical and wise.
 
 ## Movies
 
