@@ -299,6 +299,14 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
+#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
+
+> At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
+
+> Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
