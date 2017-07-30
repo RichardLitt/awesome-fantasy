@@ -301,7 +301,7 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. [@thejessleigh](https://github.com/thejessleigh)
+This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
 > At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
 
