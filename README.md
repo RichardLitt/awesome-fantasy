@@ -185,8 +185,15 @@ Books:
 #### Mistborn *by Brandon Sanderson* [4.4]
 
 The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
-
+F
 I've only read the first trilogy at this point, but I loved it; the magic system is pretty well done, the characters are convincing, we've got some strong female leads, and there's a good amount of intrigue and plot setting. Brandon Sanderson is fairly good at turning tropes on their head, as well, which was fun to read - a lot of my original complaints have now turned into praises for the books. I'm looking forward to reading more. - [@RichardLitt](https://github.com/RichardLitt)
+
+I have read the first six books and will continue reading every book in this series...and probably everything Sanderson writes. The Mistborn stories are well crafted and interesting. There is so much going on as they also fit into Sanderson's Cosmere which means characters from other worlds occasionally interact with those from Scadrial (the world where these novels are based). I find every story to be expertly paced, never leaving a lull in the momentum, I have had friends say they found the sixth book, Bands of Mourning, to be a little slow but I didn't have the same view. Every novel is well rounded, leaving plenty unsaid and undiscovered but never robbing the reader of a complete or resolved story.
+
+The first trilogy introduces us to a strange and spectacular world: one where there is magic, intrigue, social/economic inequality and, possibly my favourite thing, different races of people that inhabit this world.
+
+The second trilogy takes place some 300 years after the events of the first, and many of these events have filtered through into the 'modern' day Scadrial (it has a very old western feel to the whole setting); such as cities named after hero's, religions based on characters and many little secrets that are still unanswered from the first trilogy. We are introduced to a whole batch of new characters and some not so new characters (I won't say more otherwise I may give too much away).
+Would recommend this entire series and the whole Cosmere to any fantasy fan. [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 > The first three books are a trilogy to be read together.
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
