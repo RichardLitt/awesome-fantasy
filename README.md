@@ -15,6 +15,7 @@
   - [Satire](#satire)
   - [Horror](#horror)
   - [Children's Books](#childrens-books)
+- [Comic books](#comic-books)
 - [Movies](#movies)
 - [TV Series](#tv-series)
 
@@ -300,6 +301,20 @@ A pretty good children's story. Defined modern fantasy as we know it. - [@Richar
 > In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
 Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent.
 
+#### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) *by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)* [3.78]
+
+I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adventures, Jirel's opponents constantly seek to victimize her, use her as bait, lure her in, or overpower her. Often she can't escape witnessing or even being part of horrific things, but she takes these impossible situations and confronts them on her own terms. I thought this was a nice alternative to always evading danger or using feminine wiles to get out of tight corners. Jirel is physically and emotionally capable without being a know-it-all or preternaturally lucky. Moore paints incredibly vivid pictures of fantastical realms and creatures. I think these stories would translate well into a graphic novel. This collection is a fascinating bent on traditional sword and sorcery tales and well worth the read. - [@thejessleigh](https://github.com/thejessleigh)
+
+> C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
+
+#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
+
+> At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
+
+> Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
@@ -369,20 +384,20 @@ You know, this is still a pretty good read even if you're not a Christian. Chris
 
 ### Satire
 
-#### Discworld *by Terry Pratchett*  
+#### Discworld *by Terry Pratchett*
 
 Discworld is a massive, sprawling world outlined in dozens of books by the late Terry Pratchett. Rather than list them all here, here are a few that have been read by contributors of this list, with comments on each.
 
 > Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
 
 Books:
- * [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]  
+ * [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
     This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
 
     I love this book. The style is original and hilarious and the characters' personality is deeply developed. Death alone is a good reason to read this book. - [@fourlastor](https://github.com/fourlastor)
- * [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]  
+ * [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]
     This was my intro to Discworld, and I loved it. Death is hilarious. - [@RichardLitt](https://github.com/RichardLitt)
- * [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]  
+ * [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]
     How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
 #### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [3.9]
@@ -428,6 +443,23 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
 
 > 'This is one tale of a Viking warrior who lived hundreds and hundreds of years ago. His name is Erik.' And Erik is no ordinary Viking. With his trusty band of men he sets sail in search of the land where the sun goes at night. In fact, he finds much more! The Sea Dragon, the Old Man of the Sea, Dogfighters and giants combine to make his voyage a great saga of thrilling adventures.
+
+## Comic Books
+
+#### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by Bryan Lee O'Malley, Nathan Fairbairn* [4.07]
+
+A colorful, funny, and heart-warming take on the consequences of being able to change the past. The best word to describe this comic is delightful. - [@sunrein](https://github.com/sunrein)
+
+> Katie’s got it pretty good. She’s a talented young chef, she runs a successful restaurant, and she has big plans to open an even better one. Then, all at once, progress on the new location bogs down, her charming ex-boyfriend pops up, her fling with another chef goes sour, and her best waitress gets badly hurt. And just like that, Katie’s life goes from pretty good to not so much. What she needs is a second chance. Everybody deserves one, after all—but they don’t come easy. Luckily for Katie, a mysterious girl appears in the middle of the night with simple instructions for a do-it-yourself do-over:
+
+> 1. Write your mistake
+> 2. Ingest one mushroom
+> 3. Go to sleep
+> 4. Wake anew
+
+> And just like that, all the bad stuff never happened, and Katie is given another chance to get things right. She’s also got a dresser drawer full of magical mushrooms—and an irresistible urge to make her life not just good, but perfect. Too bad it’s against the rules. But Katie doesn’t care about the rules—and she’s about to discover the unintended consequences of the best intentions.
+
+> From the mind and pen behind the acclaimed Scott Pilgrim series comes a madcap new tale of existential angst, everyday obstacles, young love, and ancient spirits that’s sharp-witted and tenderhearted, whimsical and wise.
 
 ## Movies
 
