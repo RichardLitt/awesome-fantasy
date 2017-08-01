@@ -262,6 +262,26 @@ This is my favorite dark fantasy series and the first book is awesome. These are
 
 > The series follows an elite mercenary unit, The Black Company, last of the Free Companies of Khatovar, through roughly forty years of its approximately four hundred-year history. Cook mixes fantasy with military fiction in gritty, down-to-earth portrayals of the Company‘s chief personalities and its struggles.
 
+#### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
+
+Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapter and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel serie right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
+
+Books:
+ * [Gardens of the Moon](https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon)
+ * [Deadhous Gates](https://www.goodreads.com/book/show/55401.Deadhouse_Gates)
+ * [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice)
+ * [House of Chains](https://www.goodreads.com/book/show/55398.House_of_Chains)
+ * [Midnight Tides](https://www.goodreads.com/book/show/345299.Midnight_Tides)
+ * [The Bonehunters](https://www.goodreads.com/book/show/478951.The_Bonehunters)
+ * [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale)
+ * [Toll the Hounds](https://www.goodreads.com/book/show/938544.Toll_the_Hounds)
+ * [Dust of Dreams](https://www.goodreads.com/book/show/4703427-dust-of-dreams)
+ * [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god)
+
+>  Steven Erikson draws on twenty years of experience as an anthropologist and archaeologist. Vast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire, with brutal action and battle scenes
+
+> The world building is done on an unprecedented scale and Erikson has left a lifetime's worth of novels on the table in the world of the Malazan Empire. So what is left to talk about? It's simple, the writing. I can tell that Steven Erikson's writing is filled with wit, charm, philosophical brilliance and a sense of imagination that would humble the most creative of authors. You will be hard-pressed to find his equal in any genre.
+
 ### Standard Fantasy
 
 #### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) *by Neil Gaiman* [4.1]
