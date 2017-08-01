@@ -264,7 +264,7 @@ This is my favorite dark fantasy series and the first book is awesome. These are
 
 #### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
 
-Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapter and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel serie right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
+Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapters and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel series right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
 
 Books:
  * [Gardens of the Moon](https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon) [3.8]
