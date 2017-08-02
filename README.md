@@ -194,7 +194,8 @@ I have read the first six books and will continue reading every book in this ser
 The first trilogy introduces us to a strange and spectacular world: one where there is magic, intrigue, social/economic inequality and, possibly my favorite thing, different races of people that inhabit this world.
 
 The second trilogy takes place some 300 years after the events of the first, and many of these events have filtered through into the 'modern' day Scadrial (it has a very old western feel to the whole setting); such as cities named after hero's, religions based on characters and many little secrets that are still unanswered from the first trilogy. We are introduced to a whole batch of new characters and some not so new characters - I won't say more otherwise I may give too much away.
-Would recommend this entire series and the whole Cosmere to any fantasy fan. [@SeanSWatkins](https://github.com/SeanSWatkins)
+
+Would recommend this entire series and the whole Cosmere to any fantasy fan. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 > The first three books are a trilogy to be read together.
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
