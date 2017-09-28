@@ -29,7 +29,7 @@
 
 ### Epic Fantasy
 
-#### A Song of Ice and Fire *by G.R.R. Martin* [4.4] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 Incredibly detailed books, with a very realistic world. I can't get enough of it. Awesome in the scale and breadth of intricacy. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -48,7 +48,7 @@ Books:
 
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
-#### The Book of the New Sun *by Gene Wolfe* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -59,7 +59,7 @@ Books:
 
 > Recently voted the greatest fantasy of all time, after The Lord of the Rings and The Hobbit, Gene Wolfe's The Book of the New Sun is an extraordinary epic, set a million years in the future, on an Earth transformed in mysterious and wondrous ways, in a time when our present culture is no longer even a memory. Severian, the central character, is a torturer, exiled from his guild after falling in love with one of his victims, and journeying to the distant city of Thrax, armed with his ancient executioner's sword, Terminus Est. This edition contains the second two volumes of this four volume novel, The Sword of the Lictor and The Citadel of the Autarch.
 
-#### [Children of Húrin](http://www.goodreads.com/book/show/821431.The_Children_of_H_rin) *by J.R.R. Tolkien* [3.9]
+#### [Children of Húrin](http://www.goodreads.com/book/show/821431.The_Children_of_H_rin) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.9]
 
 The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion a history. This is one of the few novels, a story that shows the life of a tortured individual. This story borrows heavily from Scandinavian lore, and presents Turin as one of the most tragic of all of Tolkien's creations. It is my favourite story from all of his books, and I think it has the most advanced and beautiful look into the world of Middle Earth as a whole. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -101,7 +101,7 @@ Books:
  * [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
  * [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
 
-#### The Farseer Trilogy *by Robin Hobb* [4.1] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) *by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)* [4.1] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantastic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -112,7 +112,7 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
-#### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by J.K. Rowling*
+#### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)*
 
 These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -143,7 +143,7 @@ Books:
 >The first novel centers around Yeine a Darr woman who has been called back to the city Sky for reasons unbeknown to her. The current leader of Sky, who also rules the world at large, is nearing the end of his life and, in true Arameri fashion, makes a game of his succession. Yeine is soon caught up in schemes that she does not fully understand, involving gods she cannot fully comprehend. She must sift through lies and half-truths she is told to try and uncover what is really going on in the capital of the world, all the while trying to navigate a fragile and deceptive political atmosphere. The story is told from the first-person viewpoint of the main protagonist, Yeine. It's written as a retelling of a story, where she is walking you through her time in Sky and all the events that lead up to the climax of the story. The story does seems to jump around quite a bit without becoming confusing.
 
 
-#### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by Patrick Rothfuss*
+#### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by [Patrick Rothfuss](https://en.wikipedia.org/wiki/Patrick_Rothfuss)*
 
 These are exceptionally well written, humorous, and display a surprising lack of non-ironic tropes. There's a good sense of humor, the magic is well fleshed out, and the main character, Kvothe, is just great to read about and very easy to be sympathetic towards. Loved 'em, can't wait for the final third. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -157,7 +157,7 @@ Books:
 
 > The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
-#### The Lord of the Rings *by J.R.R. Tolkien* [4.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 No comment. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -170,7 +170,7 @@ Books:
 
 > J.R.R. Tolkien's The Lord of the Rings trilogy is a genuine masterpiece. The most widely read and influential fantasy epic of all time, it is also quite simply one of the most memorable and beloved tales ever told. Originally published in 1954, The Lord of the Rings set the framework upon which all epic/quest fantasy since has been built. Through the urgings of the enigmatic wizard Gandalf, young hobbit Frodo Baggins embarks on an urgent, incredibly treacherous journey to destroy the One Ring. This ring -- created and then lost by the Dark Lord, Sauron, centuries earlier -- is a weapon of evil, one that Sauron desperately wants returned to him. With the power of the ring once again his own, the Dark Lord will unleash his wrath upon all of Middle-earth. The only way to prevent this horrible fate from becoming reality is to return the Ring to Mordor, the only place it can be destroyed. Unfortunately for our heroes, Mordor is also Sauron's lair. The Lord of the Rings trilogy is essential reading not only for fans of fantasy but for lovers of classic literature as well...
 
-#### The Lost Years of Merlin by *T.A. Barron* [4.0]
+#### [The Lost Years of Merlin](https://www.goodreads.com/series/40391) by *[T.A. Barron](https://en.wikipedia.org/wiki/T._A._Barron)* [4.0]
 
 These books are amazing just for the imaginative power of the author, who grabs random snippets from old folklore and tries to make a story out of them. They're nothing like the actual Merlin, but they're pretty fun to read. The writing style is more aimed at young adults, however, and they don't age well. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -183,7 +183,7 @@ Books:
 
  > When Merlin, suffering from a case of severe amnesia, discovers his strange powers, he becomes determined to discover his identity and flees to Fincayra where he fulfills his destiny, saving Fincayra from certain destruction and claiming his birthright and true name.
 
-#### Mistborn *by Brandon Sanderson* [4.4]
+#### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.4]
 
 The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
 
@@ -211,7 +211,7 @@ Books:
  * [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
  * _More coming_
 
-#### The Riftwar Saga *by Raymond E. Feist* [4.3]
+#### [The Riftwar Saga](https://en.wikipedia.org/wiki/The_Riftwar_Saga) *by [Raymond E. Feist](https://en.wikipedia.org/wiki/Raymond_E._Feist)* [4.3]
 
 This reads like someone decided to put some characters in their Dungeons and Dragons world, which is exactly how they were formed. For all that, they are amusing. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -223,13 +223,13 @@ Books:
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
-#### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) *by J.R.R. Tolkien* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Designed to take fans of The Hobbit and The Lord of the Rings deeper into the myths and legends of Middle-Earth, The Silmarillion is an account of the Elder Days, of the First Age of Tolkien's world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor. Included in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Numenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings. This pivotal work features the revised, corrected text and includes, by way of an introduction, a fascinating letter written by Tolkien in 1951 in which he gives a full explanation of how he conceived the early Ages of Middle-Earth.
 
-#### The Stormlight Archive *by Brandon Sanderson* [4.6]
+#### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
 The Stormlight Archive books (only 2 out of a planned 10 last I heard) are 2 of the longest books out there, and I read on my Kindle and did not realize they were so long until I realized I was some 15 hours in and ~50% done IIRC. I was so engrossed, I hadn't cared. I got the 2nd one the day it came out and read it in about 10 days despite my busy schedule (sleep was sacrificed). - [@CWSpear](https://github.com/CWSpear)
 
@@ -242,7 +242,7 @@ Books:
  * [Storms of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]
  * _More coming_
 
-#### The Wheel of Time *by Robert Jordan* (and Brandon Sanderson) [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were co-written, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -293,7 +293,7 @@ Books:
 
 ### Standard Fantasy
 
-#### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) *by Neil Gaiman* [4.1]
+#### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.1]
 
 This book stands up to a reread, and is a nice example of Neil Gaiman's ability to draw together a thousand different threads into one cohesive story. The scenes in the Wisconsin small towns stay with me much longer than the rest of the book - they're reminiscent of the much better book _Peace_ by Gene Wolfe, not to say they're not well done. This is a quick and great read, and it continually surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -303,19 +303,19 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
-#### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by Jorge Luis Borges* [4.5]
+#### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)* [4.5]
 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The seventeen pieces in Ficciones demonstrate the whirlwind of Borges' genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
 
-#### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by George MacDonald* [4.0]
+#### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
 This book inspired me at the age of 14 to get a tattoo I ended up getting 7 years later. This is the kind of fantasy I wish we were still making; half theological, fantastic and weird, somewhere between Grimm's Fairytales and George R.R. Martin. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
-#### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by J.R.R. Tolkien* [4.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 A pretty good children's story. Defined modern fantasy as we know it. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -336,13 +336,13 @@ This book takes a while to ramp up, but if you can get through the (intentionall
 
 > Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
-#### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
+#### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by [Lord Dunsanay](https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany)* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The poetic style and sweeping grandeur of The King of Elfland's Daughter has made it one of the most beloved fantasy novels of our time, a masterpiece that influenced some of the greatest contemporary fantasists. The heartbreaking story of a marriage between a mortal man and an elf princess is a masterful tapestry of the fairy tale following the "happily ever after."
 
-#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by Neil Gaiman* [4.0]
+#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -352,19 +352,19 @@ This was a delightful book. Short and sweet, it exhibits both Gaiman's ability t
 
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
-#### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) *by Ursula K. Le Guin* [3.7]
+#### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [3.7]
 
 These were beautiful, finely crafted short stories. Rarely for me, I read a few of them immediately after I finished them, to make sure that I got the more subtle details. The writing was absolutely exquisite. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Orsinia ... a land of medieval forests, stonewalled cities, and railways reaching into the mountains where the old gods dwell. A country where life is harsh, dreams are gentle, and people feel torn by powerful forces and fight to remain whole. In this enchanting collection, Ursula K. Le Guin brings to mainstream fiction the same compelling mastery of word and deed, of story and character, of violence and love, that has won her the Pushcart Prize, and the Kafka and National Book Awards.
 
-#### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [4.0]
+#### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.0]
 
 Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In Smith of Wooton Major, Tolkien explores the gift of fantasy, and what it means to the life and character of the man who receives it.
 
-#### [The Wizard Knight](http://www.goodreads.com/book/show/101949.The_Wizard_Knight) *by Gene Wolfe* [3.8]
+#### [The Wizard Knight](http://www.goodreads.com/book/show/101949.The_Wizard_Knight) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [3.8]
 
 I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -372,7 +372,7 @@ I read this book at least once a year. The story is well told, easily approachab
 
 ### Allegory
 
-#### The Chronicles of Narnia *by C.S. Lewis*
+#### [The Chronicles of Narnia](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia) *by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*
 
 These books are great, quick reading, although the Christian overtones can grow old with time. I'm not quite sure how to suggest them, as I grew up with them - but I can't imagine not having done so. Reading about Mr. Tumnus carrying parcels through a snowy forest in The Lion, The Witch, and the Wardrobe is one of my earliest memories. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -385,19 +385,19 @@ Books:
  * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
  * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-#### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by George MacDonald* [3.9]
+#### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [3.9]
 
 This was a weird, weird book, just like _Phantastes_. George MacDonald had a gift for writing essentially plotless books that journey through fantastic realms; but at no point do they ever become uninteresting. They were also the inspiration for a lot of later writers, most notably CS Lewis, and it is easy to see why. Worth the read. - [@RichardLitt](https://github.com/RichardLitt)
 
 > This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
 
-#### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by George MacDonald* [4.0]
+#### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
 See the review for _Lilith_, above. - [@RichardLitt](https://github.com/RichardLitt)
 
 > "I was dead, and right content," the narrator says in the penultimate chapter of Phantastes. C.S. Lewis said that upon reading this astonishing 19th-century fairy tale he "had crossed a great frontier," and numerous others both before and since have felt similarly. In MacDonald's fairy tales, both those for children and (like this one) those for adults, the "fairy land" clearly represents the spiritual world, or our own world revealed in all of its depth and meaning. At times almost forthrightly allegorical, at other times richly dreamlike (and indeed having a close connection to the symbolic world of dreams), this story of a young man who finds himself on a long journey through a land of fantasy is more truly the story of the spiritual quest that is at the core of his life's work, a quest that must end with the ultimate surrender of the self. The glory of MacDonald's work is that this surrender is both hard won (or lost ) and yet rippling with joy when at last experienced. As the narrator says of a heavenly woman in this tale, "She knew something too good to be told." One senses the same of the author himself.
 
-#### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) by *John Bunyan* [4.0]
+#### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) *by [John Bunyan](https://en.wikipedia.org/wiki/John_Bunyan)* [4.0]
 
 You know, this is still a pretty good read even if you're not a Christian. Christian, the protagonist, is pretty beleaguered by every possible obstacle on his way to Heaven, and it's fun just hearing how he gets out of scrapes. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -405,7 +405,7 @@ You know, this is still a pretty good read even if you're not a Christian. Chris
 
 ### Satire
 
-#### Discworld *by Terry Pratchett*
+#### [Discworld](https://en.wikipedia.org/wiki/Discworld) *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
 
 Discworld is a massive, sprawling world outlined in dozens of books by the late Terry Pratchett. Rather than list them all here, here are a few that have been read by contributors of this list, with comments on each.
 
@@ -421,13 +421,13 @@ Books:
  * [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]
     How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
-#### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by J.R.R. Tolkien* [3.9]
+#### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.9]
 
 Farmer Giles is one of my favourite encapsulated stories set in something akin to Old England. It's basically Tolkien's nod to classic fairy tale writers like Lord Dunsanay or MacDonald, but with some humor. "Give us your crown!" is one of my favourite quotes, and I am totally going to name my dog Garm. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The editors of the best-selling rediscovered Tolkien novel Roverandom present an expanded fiftieth anniversary edition of Tolkien's beloved classic Farmer Giles of Ham, complete with a map, the original story outline, the original first-edition illustrations by Pauline Baynes, and the author's notes for an unpublished sequel. Farmer Giles of Ham is a light-hearted satire for readers of all ages that tells the tale of a reluctant hero who must save his village from a dragon. It is a small gem of a tale that grows more delightful with each rereading.
 
-#### [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) *by Terry Pratchett and Neil Gaiman* [4.3]
+#### [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett) and [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.3]
 
 This was a fun book, and a great collaboration. At times it is a bit clear where Neil Gaiman was writing, and I'm not sure that the book is better for his inclusions at points; he hadn't yet perfected his craft, I think. But the story as a whole is good. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -437,7 +437,7 @@ This was a fun book, and a great collaboration. At times it is a bit clear where
 
 > And someone seems to have misplaced the Antichrist . . .
 
-#### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by William Goldman* [4.2] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 This is a book that doesn't take away from the classic movie rendition of it, but adds to it. It stands alone as a fun little read. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -445,7 +445,7 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 ### Horror
 
-#### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) *by H.P. Lovecraft* [4.3]
+#### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) *by [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)* [4.3]
 
 Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire sub-genre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -459,7 +459,7 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 
 ### Children's Books
 
-#### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by Terry Jones, Michael Foreman* [3.94]
+#### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
 
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -467,7 +467,7 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
-#### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by Bryan Lee O'Malley, Nathan Fairbairn* [4.07]
+#### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by [Bryan Lee O'Malley](https://en.wikipedia.org/wiki/Bryan_Lee_O%27Malley), [Nathan Fairbairn](https://www.goodreads.com/author/show/6497026.Nathan_Fairbairn)* [4.07]
 
 A colorful, funny, and heart-warming take on the consequences of being able to change the past. The best word to describe this comic is delightful. - [@sunrein](https://github.com/sunrein)
 
