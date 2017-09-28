@@ -4,6 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - You should have consumed the content you're suggesting.
 - The entry should contain the title and author links, first publication year, rating, description and your personal commentary.
+  - For the url links for titles and authors, use Goodreads or Wikipedia. Either is fine, choose the one with the better coverage.
   - For books, please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
   - For movies and TV shows, please copy the description and rating from [IMDb](https://www.imdb.com) and link to the IMDb entry.
 - Use the following format:
