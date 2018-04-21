@@ -41,11 +41,10 @@ Books:
  * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) :fire:
  * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
 
-
 > Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
-> 
+>  
 > As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.
-> 
+>  
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
@@ -53,9 +52,10 @@ Books:
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
-  * [Shadow and Claw](http://www.goodreads.com/book/show/40992.Shadow_Claw)
-  * [Sword and Citadel](http://www.goodreads.com/book/show/40995.Sword_and_Citadel)
-  * [Urth of the New Sun](http://www.goodreads.com/book/show/60215.The_Urth_of_the_New_Sun)
+
+* [Shadow and Claw](http://www.goodreads.com/book/show/40992.Shadow_Claw)
+* [Sword and Citadel](http://www.goodreads.com/book/show/40995.Sword_and_Citadel)
+* [Urth of the New Sun](http://www.goodreads.com/book/show/60215.The_Urth_of_the_New_Sun)
 
 > Recently voted the greatest fantasy of all time, after The Lord of the Rings and The Hobbit, Gene Wolfe's The Book of the New Sun is an extraordinary epic, set a million years in the future, on an Earth transformed in mysterious and wondrous ways, in a time when our present culture is no longer even a memory. Severian, the central character, is a torturer, exiled from his guild after falling in love with one of his victims, and journeying to the distant city of Thrax, armed with his ancient executioner's sword, Terminus Est. This edition contains the second two volumes of this four volume novel, The Sword of the Lictor and The Citadel of the Autarch.
 
@@ -63,13 +63,7 @@ Books:
 
 The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion a history. This is one of the few novels, a story that shows the life of a tortured individual. This story borrows heavily from Scandinavian lore, and presents Turin as one of the most tragic of all of Tolkien's creations. It is my favourite story from all of his books, and I think it has the most advanced and beautiful look into the world of Middle Earth as a whole. - [@RichardLitt](https://github.com/RichardLitt)
 
-> There are tales of Middle-earth from times long before The Lord of the Rings, and the story told in this book is set in the great country that lay beyond the Grey Havens in the West: lands where Treebeard once walked, but which were drowned in the great cataclysm that ended the First Age of the World.
-> 
-> In that remote time Morgoth, the first Dark Lord, dwelt in the vast fortress of Angband, the Hells of Iron, in the North; and the tragedy of Túrin and his sister Nienor unfolded within the shadow of the fear of Angband and the war waged by Morgoth against the lands and secret cities of the Elves.
-> 
-> Their brief and passionate lives were dominated by the elemental hatred that Morgoth bore them as the children of Húrin, the man who had dared to defy and to scorn him to his face. Against them he sent his most formidable servant, Glaurung, a powerful spirit in the form of a huge wingless dragon of fire. Into this story of brutal conquest and flight, of forest hiding-places and pursuit, of resistance with lessening hope, the Dark Lord and the Dragon enter in direly articulate form. Sardonic and mocking, Glaurung manipulated the fates of Túrin and Nienor by lies of diabolic cunning and guile, and the curse of Morgoth was fulfilled.
-> 
-> The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
+> Painstakingly restored from Tolkien's manuscripts and presented for the first time as a fully continuous and standalone story, the epic tale of The Children of Hurin will reunite fans of The Hobbit and The Lord of the Rings with Elves and Men, dragons and Dwarves, eagles and Orcs, and the rich landscape and characters unique to Tolkien. There are tales of Middle-earth from times long before The Lord of the Rings, and the story told in this book is set in the great country that lay beyond the Grey Havens in the West: lands where Treebeard once walked, but which were drowned in the great cataclysm that ended the First Age of the World. In that remote time Morgoth, the first Dark Lord, dwelt in the vast fortress of Angband, the Hells of Iron, in the North; and the tragedy of Turin and his sister Nienor unfolded within the shadow of the fear of Angband and the war waged by Morgoth against the lands and secret cities of the Elves. Their brief and passionate lives were dominated by the elemental hatred that Morgoth bore them as the children of Hurin, the man who had dared to defy and to scorn him to his face. Against them he sent his most formidable servant, Glaurung, a powerful spirit in the form of a huge wingless dragon of fire. Into this story of brutal conquest and flight, of forest hiding-places and pursuit, of resistance with lessening hope, the Dark Lord and the Dragon enter in direly articulate form. Sardonic and mocking, Glaurung manipulated the fates of Turin and Nienor by lies of diabolic cunning and guile, and the curse of Morgoth was fulfilled. The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) *by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)* [4.3]
 
@@ -78,43 +72,46 @@ This omnibus edition of 3 books describes the origin and deeds of a female Palad
 It has all the usual trappings of high fantasy including dwarves and elves, but what really stands out is the balance of gender and the role of women. Throughout the books women are respected as equals and Paksenarrion develops a courageous, head-strong and loyal character that is engrossing and convincing. - [@samueljseay](https://github.com/samueljseay)
 
 Books:
-  * [Sheepfarmer's Daughter](https://www.goodreads.com/book/show/96278.Sheepfarmer_s_Daughter)
-  * [Divided Allegiance](https://www.goodreads.com/book/show/887858.Divided_Allegiance)
-  * [Oath of Gold](https://www.goodreads.com/book/show/17316.Oath_of_Gold)
+
+* [Sheepfarmer's Daughter](https://www.goodreads.com/book/show/96278.Sheepfarmer_s_Daughter)
+* [Divided Allegiance](https://www.goodreads.com/book/show/887858.Divided_Allegiance)
+* [Oath of Gold](https://www.goodreads.com/book/show/17316.Oath_of_Gold)
 
 > Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
-
 
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)*
 
 There's elements of fantasy in here, although it is mostly science fiction. The elements they have - the power of words, the _bene gesserit_, the worms - are all, indubitably, awesome. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [Dune](https://www.goodreads.com/book/show/234225.Dune) [4.2]
- * [Dune Messiah](https://www.goodreads.com/book/show/106.Dune_Messiah) [3.8]
- * [Children of Dune](https://www.goodreads.com/book/show/112.Children_of_Dune) [3.9]
- * _And others that I haven't read..._
+
+* [Dune](https://www.goodreads.com/book/show/234225.Dune) [4.2]
+* [Dune Messiah](https://www.goodreads.com/book/show/106.Dune_Messiah) [3.8]
+* [Children of Dune](https://www.goodreads.com/book/show/112.Children_of_Dune) [3.9]
+* _And others that I haven't read..._
 
 #### [Earthsea](https://en.wikipedia.org/wiki/Earthsea) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)*
 
 This is fantasy and magic done exceedingly well. These read like children stories - not in their style or content, which are very adult - but in the massive expanse of the world that you start to imagine, the way the stories run off the page and away with you. I can't praise it enough. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [A Wizard of Earthsea](https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea) [4.0]
- * [The Tombs of Atuan](https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan) [4.1]
- * [The Farthest Shore](https://www.goodreads.com/book/show/13667.The_Farthest_Shore) [4.1]
- * [Tehanu: The Last Book of Earthsea](https://www.goodreads.com/book/show/13661.Tehanu) [3.8]
- * [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
- * [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
+
+* [A Wizard of Earthsea](https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea) [4.0]
+* [The Tombs of Atuan](https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan) [4.1]
+* [The Farthest Shore](https://www.goodreads.com/book/show/13667.The_Farthest_Shore) [4.1]
+* [Tehanu: The Last Book of Earthsea](https://www.goodreads.com/book/show/13661.Tehanu) [3.8]
+* [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
+* [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
 
 #### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) *by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)* [4.1] :fire:
 
 I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantastic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [Assassin's Apprentice](http://www.goodreads.com/book/show/45107.Assassin_s_Apprentice) [4.1]
- * [Royal Assassin](https://www.goodreads.com/book/show/68487.Royal_Assassin) [4.2]
- * [Assassin's Quest](https://www.goodreads.com/book/show/45112.Assassin_s_Quest) [4.2]
+
+* [Assassin's Apprentice](http://www.goodreads.com/book/show/45107.Assassin_s_Apprentice) [4.1]
+* [Royal Assassin](https://www.goodreads.com/book/show/68487.Royal_Assassin) [4.2]
+* [Assassin's Quest](https://www.goodreads.com/book/show/45112.Assassin_s_Quest) [4.2]
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
@@ -133,34 +130,34 @@ Books:
 7. [Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) [4.6]
 
 > The novels revolve around Harry Potter, an orphan who discovers at the age of 11 that he is a wizard, who lives within the ordinary world of non-magical people, known as Muggles. The wizarding world is secret from the Muggle world, presumably to avoid persecution of witches and wizards. His ability is inborn, and such children are invited to attend an exclusive magic school that teaches the necessary skills to succeed in the wizarding world. Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social and emotional, including ordinary teenage challenges such as friendships, infatuation and exams, and the greater test of preparing himself for the confrontation in the real world that lies ahead.
-
+>  
 > Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
-
+>  
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
-
 
 #### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
 
 Dealing with racial and sexual discrimination in a high fantasy setting, the novel is excellent. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 Books:
+
 1. [The Hundred Thousand Kingdoms](http://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) [4.2]
 
 >The first novel centers around Yeine a Darr woman who has been called back to the city Sky for reasons unbeknown to her. The current leader of Sky, who also rules the world at large, is nearing the end of his life and, in true Arameri fashion, makes a game of his succession. Yeine is soon caught up in schemes that she does not fully understand, involving gods she cannot fully comprehend. She must sift through lies and half-truths she is told to try and uncover what is really going on in the capital of the world, all the while trying to navigate a fragile and deceptive political atmosphere. The story is told from the first-person viewpoint of the main protagonist, Yeine. It's written as a retelling of a story, where she is walking you through her time in Sky and all the events that lead up to the climax of the story. The story does seems to jump around quite a bit without becoming confusing.
-
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by [Patrick Rothfuss](https://en.wikipedia.org/wiki/Patrick_Rothfuss)*
 
 These are exceptionally well written, humorous, and display a surprising lack of non-ironic tropes. There's a good sense of humor, the magic is well fleshed out, and the main character, Kvothe, is just great to read about and very easy to be sympathetic towards. Loved 'em, can't wait for the final third. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
+
 * [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) [4.55]
 * [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear) [4.56]
 
 > The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe, an adventurer and famous musician.
-
+> 
 > The plot is divided into two different action threads: the present, where Kvothe tells the story of his life to Devan Lochees (known as Chronicler) in the main room of his inn, and Kvothe's past, the story in question, which makes up the majority of the books. The present-day interludes are in the third person from the perspective of multiple characters, while the story of Kvothe's life is told entirely in the first person from his own perspective.
-
+> 
 > The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
 #### [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.4] :star2: :fire:
@@ -173,7 +170,7 @@ Books:
  * [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) :fire: :star2:
 
 > A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- The Fellowship of the Ring, The Two Towers, and The Return of the King -- each with art from the New Line Productions feature film on the cover.
-
+>  
 > J.R.R. Tolkien's The Lord of the Rings trilogy is a genuine masterpiece. The most widely read and influential fantasy epic of all time, it is also quite simply one of the most memorable and beloved tales ever told. Originally published in 1954, The Lord of the Rings set the framework upon which all epic/quest fantasy since has been built. Through the urgings of the enigmatic wizard Gandalf, young hobbit Frodo Baggins embarks on an urgent, incredibly treacherous journey to destroy the One Ring. This ring -- created and then lost by the Dark Lord, Sauron, centuries earlier -- is a weapon of evil, one that Sauron desperately wants returned to him. With the power of the ring once again his own, the Dark Lord will unleash his wrath upon all of Middle-earth. The only way to prevent this horrible fate from becoming reality is to return the Ring to Mordor, the only place it can be destroyed. Unfortunately for our heroes, Mordor is also Sauron's lair. The Lord of the Rings trilogy is essential reading not only for fans of fantasy but for lovers of classic literature as well...
 
 #### [The Lost Years of Merlin](https://www.goodreads.com/series/40391) by *[T.A. Barron](https://en.wikipedia.org/wiki/T._A._Barron)* [4.0]
@@ -181,13 +178,14 @@ Books:
 These books are amazing just for the imaginative power of the author, who grabs random snippets from old folklore and tries to make a story out of them. They're nothing like the actual Merlin, but they're pretty fun to read. The writing style is more aimed at young adults, however, and they don't age well. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [The Lost Years of Merlin](http://www.goodreads.com/book/show/18392.The_Lost_Years)
- * [The Seven Songs of Merlin](http://www.goodreads.com/book/show/18396.The_Seven_Songs_of_Merlin)
- * [The Fires of Merlin](http://www.goodreads.com/book/show/18393.The_Fires_of_Merlin)
- * [The Mirror of Merlin](http://www.goodreads.com/book/show/18394.The_Mirror_of_Merlin)
- * [The Wings of Merlin](http://www.goodreads.com/book/show/18395.The_Wings_of_Merlin)
 
- > When Merlin, suffering from a case of severe amnesia, discovers his strange powers, he becomes determined to discover his identity and flees to Fincayra where he fulfills his destiny, saving Fincayra from certain destruction and claiming his birthright and true name.
+* [The Lost Years of Merlin](http://www.goodreads.com/book/show/18392.The_Lost_Years)
+* [The Seven Songs of Merlin](http://www.goodreads.com/book/show/18396.The_Seven_Songs_of_Merlin)
+* [The Fires of Merlin](http://www.goodreads.com/book/show/18393.The_Fires_of_Merlin)
+* [The Mirror of Merlin](http://www.goodreads.com/book/show/18394.The_Mirror_of_Merlin)
+* [The Wings of Merlin](http://www.goodreads.com/book/show/18395.The_Wings_of_Merlin)
+
+> When Merlin, suffering from a case of severe amnesia, discovers his strange powers, he becomes determined to discover his identity and flees to Fincayra where he fulfills his destiny, saving Fincayra from certain destruction and claiming his birthright and true name.
 
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.4]
 
@@ -204,28 +202,31 @@ The second trilogy takes place some 300 years after the events of the first, and
 Would recommend this entire series and the whole Cosmere to any fantasy fan. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 > The first three books are a trilogy to be read together.
+>  
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
->
+>  
 > Books 4-6 are sequels that take place 300 years later.
 
 Books:
- * [The Final Empire](https://www.goodreads.com/book/show/68428.The_Final_Empire) [4.4]
- * [The Well of Ascension](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension) [4.3]
- * [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages) [4.4]
- * [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
- * [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
- * [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
- * _More coming_
+
+* [The Final Empire](https://www.goodreads.com/book/show/68428.The_Final_Empire) [4.4]
+* [The Well of Ascension](https://www.goodreads.com/book/show/68429.The_Well_of_Ascension) [4.3]
+* [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages) [4.4]
+* [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
+* [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
+* [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
+* _More coming_
 
 #### [The Riftwar Saga](https://en.wikipedia.org/wiki/The_Riftwar_Saga) *by [Raymond E. Feist](https://en.wikipedia.org/wiki/Raymond_E._Feist)* [4.3]
 
 This reads like someone decided to put some characters in their Dungeons and Dragons world, which is exactly how they were formed. For all that, they are amusing. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [Magician: Apprentice](http://www.goodreads.com/book/show/43915.Magician)
- * [Magician: Master](http://www.goodreads.com/book/show/8320534-raymond-e-feist-s-magician-master)
- * [Silverthorn](http://www.goodreads.com/book/show/149302.Silverthorn)
- * [A Darkness at Sethanon](http://www.goodreads.com/book/show/13813.A_Darkness_At_Sethanon)
+
+* [Magician: Apprentice](http://www.goodreads.com/book/show/43915.Magician)
+* [Magician: Master](http://www.goodreads.com/book/show/8320534-raymond-e-feist-s-magician-master)
+* [Silverthorn](http://www.goodreads.com/book/show/149302.Silverthorn)
+* [A Darkness at Sethanon](http://www.goodreads.com/book/show/13813.A_Darkness_At_Sethanon)
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
@@ -283,19 +284,20 @@ This is my favorite dark fantasy series and the first book is awesome. These are
 Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapters and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel series right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
 
 Books:
- * [Gardens of the Moon](https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon) [3.8]
- * [Deadhous Gates](https://www.goodreads.com/book/show/55401.Deadhouse_Gates) [4.2]
- * [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) [4.4]
- * [House of Chains](https://www.goodreads.com/book/show/55398.House_of_Chains) [4.3]
- * [Midnight Tides](https://www.goodreads.com/book/show/345299.Midnight_Tides) [4.3]
- * [The Bonehunters](https://www.goodreads.com/book/show/478951.The_Bonehunters) [4.4]
- * [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale) [4.3]
- * [Toll the Hounds](https://www.goodreads.com/book/show/938544.Toll_the_Hounds) [4.3]
- * [Dust of Dreams](https://www.goodreads.com/book/show/4703427-dust-of-dreams) [4.3]
- * [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god) [4.4]
+
+* [Gardens of the Moon](https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon) [3.8]
+* [Deadhous Gates](https://www.goodreads.com/book/show/55401.Deadhouse_Gates) [4.2]
+* [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) [4.4]
+* [House of Chains](https://www.goodreads.com/book/show/55398.House_of_Chains) [4.3]
+* [Midnight Tides](https://www.goodreads.com/book/show/345299.Midnight_Tides) [4.3]
+* [The Bonehunters](https://www.goodreads.com/book/show/478951.The_Bonehunters) [4.4]
+* [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale) [4.3]
+* [Toll the Hounds](https://www.goodreads.com/book/show/938544.Toll_the_Hounds) [4.3]
+* [Dust of Dreams](https://www.goodreads.com/book/show/4703427-dust-of-dreams) [4.3]
+* [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god) [4.4]
 
 >  Steven Erikson draws on twenty years of experience as an anthropologist and archaeologist. Vast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire, with brutal action and battle scenes
-
+>  
 > The world building is done on an unprecedented scale and Erikson has left a lifetime's worth of novels on the table in the world of the Malazan Empire. So what is left to talk about? It's simple, the writing. I can tell that Steven Erikson's writing is filled with wit, charm, philosophical brilliance and a sense of imagination that would humble the most creative of authors. You will be hard-pressed to find his equal in any genre.
 
 ### Standard Fantasy
@@ -305,9 +307,9 @@ Books:
 This book stands up to a reread, and is a nice example of Neil Gaiman's ability to draw together a thousand different threads into one cohesive story. The scenes in the Wisconsin small towns stay with me much longer than the rest of the book - they're reminiscent of the much better book _Peace_ by Gene Wolfe, not to say they're not well done. This is a quick and great read, and it continually surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.
-
+>  
 > Together they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.
-
+>  
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)* [4.5]
@@ -340,7 +342,7 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
 > At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
-
+>  
 > Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by [Lord Dunsanay](https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany)* [3.8]
@@ -354,9 +356,9 @@ Read this if you want to go on an acid trip and if you want to see the roots of 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.
-
+>  
 > Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.
-
+>  
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
 #### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [3.7]
@@ -419,14 +421,15 @@ Discworld is a massive, sprawling world outlined in dozens of books by the late 
 > Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
 
 Books:
- * [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
-    This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
 
-    I love this book. The style is original and hilarious and the characters' personality is deeply developed. Death alone is a good reason to read this book. - [@fourlastor](https://github.com/fourlastor)
- * [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]
-    This was my intro to Discworld, and I loved it. Death is hilarious. - [@RichardLitt](https://github.com/RichardLitt)
- * [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]
-    How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
+* [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
+  This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
+
+  I love this book. The style is original and hilarious and the characters' personality is deeply developed. Death alone is a good reason to read this book. - [@fourlastor](https://github.com/fourlastor)
+* [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]
+  This was my intro to Discworld, and I loved it. Death is hilarious. - [@RichardLitt](https://github.com/RichardLitt)
+* [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]
+  How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
 #### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.9]
 
@@ -439,9 +442,9 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 This was a fun book, and a great collaboration. At times it is a bit clear where Neil Gaiman was writing, and I'm not sure that the book is better for his inclusions at points; he hadn't yet perfected his craft, I think. But the story as a whole is good. - [@RichardLitt](https://github.com/RichardLitt)
 
 > According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
-
+>  
 > So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon — both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle — are not actually looking forward to the coming Rapture.
-
+>  
 > And someone seems to have misplaced the Antichrist . . .
 
 #### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] :fire:
@@ -457,11 +460,11 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire sub-genre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
 
 > An unparalleled selection of fiction from H. P. Lovecraft, master of the American horror tale
-
+>  
 > Long after his death, H. P. Lovecraft continues to enthrall readers with his gripping tales of madness and cosmic terror, and his effect on modern horror fiction continues to be felt - Stephen King, Anne Rice, and Clive Barker have acknowledged his influence. His unique contribution to American literature was a melding of Poe's traditional supernaturalism with the emerging genre of science fiction. Originally appearing in pulp magazines like Weird Tales in the 1920s and 1930s, Lovecraft's work is now being regarded as the most important supernatural fiction of the twentieth century.
-
+>  
 > Lovecraft's biographer and preeminent interpreter, S. T. Joshi, has prepared this volume of eighteen stories--from the early classics like "The Outsider" and "Rats in the Wall" to his mature masterworks, "The Call of Cthulhu" and "The Shadow over Innsmouth." The first paperback to include the definitive corrected texts, The Call of Cthulhu and Other Weird Stories reveals the development of Lovecraft's mesmerizing narrative style, and establishes him as a canonical--and visionary--American writer.
-
+>  
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
 ### Children's Books
@@ -479,14 +482,14 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 A colorful, funny, and heart-warming take on the consequences of being able to change the past. The best word to describe this comic is delightful. - [@sunrein](https://github.com/sunrein)
 
 > Katie’s got it pretty good. She’s a talented young chef, she runs a successful restaurant, and she has big plans to open an even better one. Then, all at once, progress on the new location bogs down, her charming ex-boyfriend pops up, her fling with another chef goes sour, and her best waitress gets badly hurt. And just like that, Katie’s life goes from pretty good to not so much. What she needs is a second chance. Everybody deserves one, after all—but they don’t come easy. Luckily for Katie, a mysterious girl appears in the middle of the night with simple instructions for a do-it-yourself do-over:
-
+>  
 > 1. Write your mistake
 > 2. Ingest one mushroom
 > 3. Go to sleep
 > 4. Wake anew
-
+>  
 > And just like that, all the bad stuff never happened, and Katie is given another chance to get things right. She’s also got a dresser drawer full of magical mushrooms—and an irresistible urge to make her life not just good, but perfect. Too bad it’s against the rules. But Katie doesn’t care about the rules—and she’s about to discover the unintended consequences of the best intentions.
-
+>  
 > From the mind and pen behind the acclaimed Scott Pilgrim series comes a madcap new tale of existential angst, everyday obstacles, young love, and ancient spirits that’s sharp-witted and tenderhearted, whimsical and wise.
 
 ## Movies
@@ -556,6 +559,8 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+---
 
 ## You got through the list and didn't find anything?
 Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
