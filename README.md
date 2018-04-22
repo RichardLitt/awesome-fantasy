@@ -21,24 +21,24 @@
 
 ## Novels
 
-<img src="http://i.imgur.com/yJaoHfh.png" width="30px"> means that it's a classic.
+:star2: means that it's a classic.
 
-<img src="http://i.imgur.com/iA6WScw.png" width="30px"> means that it has more than 100 000 ratings on Goodreads.
+:fire: means that it has more than 100 000 ratings on Goodreads.
 
 *The [number] at the end is the rounded version of the rating on Goodreads. If a series is not available as an individual book, the first book in the series is used for the rating.*
 
 ### Epic Fantasy
 
-#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] :fire:
 
 Incredibly detailed books, with a very realistic world. I can't get enough of it. Awesome in the scale and breadth of intricacy. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [A Game of Thrones](http://www.goodreads.com/book/show/13496.A_Game_of_Thrones) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [A Clash of Kings](http://www.goodreads.com/book/show/10572.A_Clash_of_Kings) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [A Storm of Swords](http://www.goodreads.com/book/show/62291.A_Storm_of_Swords) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [A Feast for Crows](http://www.goodreads.com/book/show/13497.A_Feast_for_Crows) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [A Game of Thrones](http://www.goodreads.com/book/show/13496.A_Game_of_Thrones) :fire:
+ * [A Clash of Kings](http://www.goodreads.com/book/show/10572.A_Clash_of_Kings) :fire:
+ * [A Storm of Swords](http://www.goodreads.com/book/show/62291.A_Storm_of_Swords) :fire:
+ * [A Feast for Crows](http://www.goodreads.com/book/show/13497.A_Feast_for_Crows) :fire:
+ * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) :fire:
  * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
 
 
@@ -48,7 +48,7 @@ Books:
 > 
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
-#### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -107,7 +107,7 @@ Books:
  * [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
  * [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
 
-#### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) *by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)* [4.1] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) *by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)* [4.1] :fire:
 
 I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantastic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -163,14 +163,14 @@ Books:
 
 > The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
-#### [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.4] :star2: :fire:
 
 No comment. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [The Fellowship of the Ring](http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring) <img src="http://i.imgur.com/iA6WScw.png" width="30px"> <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
- * [The Two Towers](http://www.goodreads.com/book/show/15241.The_Two_Towers) <img src="http://i.imgur.com/iA6WScw.png" width="30px"> <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
- * [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) <img src="http://i.imgur.com/iA6WScw.png" width="30px"> <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+ * [The Fellowship of the Ring](http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring) :fire: :star2:
+ * [The Two Towers](http://www.goodreads.com/book/show/15241.The_Two_Towers) :fire: :star2:
+ * [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) :fire: :star2:
 
 > A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- The Fellowship of the Ring, The Two Towers, and The Return of the King -- each with art from the New Line Productions feature film on the cover.
 
@@ -229,7 +229,7 @@ Books:
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
-#### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.8] :fire:
 
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -244,17 +244,17 @@ I completely agree that however long these books are, it doesn't really matter. 
 > Brandon Sanderson's epic fantasy cycle tells the story of Roshar, a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. As brutal wars rage over the control of these magical weapons, an ancient text called The Way of Kings tells of ancient times, the Knights Radiant, and perhaps the true cause of the war. The Knights Radiant must stand again.
 
 Books:
- * [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61] :fire:
  * [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]
  * [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73]
  * _More coming_
 
-#### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) *by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))* [4.15] :fire:
 
 These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were co-written, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [The Eye of the World](http://www.goodreads.com/book/show/228665.The_Eye_of_the_World) <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Eye of the World](http://www.goodreads.com/book/show/228665.The_Eye_of_the_World) :fire:
  * [The Great Hunt](http://www.goodreads.com/book/show/233649.The_Great_Hunt)
  * [The Dragon Reborn](http://www.goodreads.com/book/show/34897.The_Dragon_Reborn)
  * [The Shadow Rising](http://www.goodreads.com/book/show/9539.The_Shadow_Rising)
@@ -322,7 +322,7 @@ This book inspired me at the age of 14 to get a tattoo I ended up getting 7 year
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
-#### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.2] :star2: :fire:
 
 A pretty good children's story. Defined modern fantasy as we know it. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -335,7 +335,7 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
-#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 
 This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
@@ -384,13 +384,13 @@ I read this book at least once a year. The story is well told, easily approachab
 These books are great, quick reading, although the Christian overtones can grow old with time. I'm not quite sure how to suggest them, as I grew up with them - but I can't imagine not having done so. Reading about Mr. Tumnus carrying parcels through a snowy forest in The Lion, The Witch, and the Wardrobe is one of my earliest memories. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
- * [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [The Lion, The Witch, and The Wardrobe](http://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [The Horse and His Boy](http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [Prince Caspian](http://www.goodreads.com/book/show/121749.Prince_Caspian) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
- * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+ * [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) :star2: :fire:
+ * [The Lion, The Witch, and The Wardrobe](http://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe) :star2: :fire:
+ * [The Horse and His Boy](http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy) :star2: :fire:
+ * [Prince Caspian](http://www.goodreads.com/book/show/121749.Prince_Caspian) :star2: :fire:
+ * [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) :star2: :fire:
+ * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) :star2: :fire:
+ * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) :star2: :fire:
 
 #### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [3.9]
 
@@ -444,7 +444,7 @@ This was a fun book, and a great collaboration. At times it is a bit clear where
 
 > And someone seems to have misplaced the Antichrist . . .
 
-#### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] :fire:
 
 This is a book that doesn't take away from the classic movie rendition of it, but adds to it. It stands alone as a fun little read. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -491,7 +491,7 @@ A colorful, funny, and heart-warming take on the consequences of being able to c
 
 ## Movies
 
-#### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -525,19 +525,19 @@ An incredible film for the vision of the world, and the way they combine medieva
 
 Fantastic films. If you're reading this list, you've probably already seen them. - [@RichardLitt](https://github.com/RichardLitt)
 
-- [The Fellowship of the Ring](http://www.imdb.com/title/tt0120737/) [8.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+- [The Fellowship of the Ring](http://www.imdb.com/title/tt0120737/) [8.8] :star2:
 
 > A meek hobbit of the Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.
 
-- [The Two Towers](http://www.imdb.com/title/tt0167261/) [8.7]  <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+- [The Two Towers](http://www.imdb.com/title/tt0167261/) [8.7]  :star2:
 
 > While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
 
-- [Return of the King](http://www.imdb.com/title/tt0167260/) [8.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+- [Return of the King](http://www.imdb.com/title/tt0167260/) [8.9] :star2:
 
 > Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
 
-#### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] :star2:
 
 One of the best love stories ever told. This movie has everything any kid could want, and the book is just as good - it's satirical but not overly self-indulgent. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -551,7 +551,7 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 
 > In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
 
-#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
