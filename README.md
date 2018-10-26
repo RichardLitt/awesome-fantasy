@@ -285,6 +285,18 @@ This is my favorite dark fantasy series and the first book is awesome. These are
 
 > The series follows an elite mercenary unit, The Black Company, last of the Free Companies of Khatovar, through roughly forty years of its approximately four hundred-year history. Cook mixes fantasy with military fiction in gritty, down-to-earth portrayals of the Company‘s chief personalities and its struggles.
 
+Books:
+ * [The Black Company](https://www.goodreads.com/book/show/140671.The_Black_Company) [3.96]
+ * [Shadows Linger](https://www.goodreads.com/book/show/400881.Shadows_Linger) [4.16]
+ * [The White Rose](https://www.goodreads.com/book/show/400906.The_White_Rose) [4.19]
+ * [Shadow Games](https://www.goodreads.com/book/show/113540.Shadow_Games) [4.09]
+ * [Dreams of Steel](https://www.goodreads.com/book/show/400900.Dreams_of_Steel) [4.09]
+ * [Bleak Seasons](https://www.goodreads.com/book/show/400911.Bleak_Seasons) [3.95]
+ * [She Is The Darkness](https://www.goodreads.com/book/show/400897.She_is_the_Darkness) [4.10]
+ * [Water Sleeps](https://www.goodreads.com/book/show/349470.Water_Sleeps) [4.07]
+ * [Soldiers Live](https://www.goodreads.com/book/show/400899.Soldiers_Live) [4.22]
+ * _1 last book coming_
+
 #### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
 
 Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapters and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel series right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
