@@ -356,6 +356,23 @@ This book inspired me at the age of 14 to get a tattoo I ended up getting 7 year
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
+#### [The Gentleman Bastards Series](https://www.goodreads.com/series/43531-gentleman-bastard) (2006) *by [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch)* [4.25]
+
+This series has an ingenious narrative, set in a world of intrigue, blades in the night, camaraderie between brothers, bloodthirsty monarchs, tight-fisted crime lords, and honor amongst thieves. The Gentleman Bastards will keep you guessing, and as soon as you think you understand what's happening, they'll steal the floor out from under you and leave you dangling off the side of an Elderglass tower. If you like rogues, heists, magic, or deception, this series will keep you guessing until the last page, and after. - [@dgpalmieri](https://github.com/dgpalmieri)
+
+Books:
+
+* [The Bastards and the Knives](https://www.goodreads.com/book/show/1321351.The_Bastards_and_the_Knives) (Book 0) _forthcoming_
+* [The Lies of Locke Lamora](https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora) [4.3] :fire:
+* [Red Seas Under Red Skies](https://www.goodreads.com/book/show/40604556-red-seas-under-red-skies) [4.24]
+* [The Republic of Thieves](https://www.goodreads.com/book/show/2890090-the-republic-of-thieves) [4.24]
+* [The Thorn of Emberlain](https://www.goodreads.com/book/show/8074907-the-thorn-of-emberlain) _forthcoming_
+* [The Ministry of Necessity](https://www.goodreads.com/book/show/10626950-the-ministry-of-necessity) _forthcoming_
+* [The Mage and the Master Spy](https://www.goodreads.com/book/show/15998999-the-mage-and-the-master-spy) _forthcoming_
+* [Inherit the Night](https://www.goodreads.com/book/show/15999003-inherit-the-night) _forthcoming_
+
+> An orphan’s life is harsh—and often short—in the mysterious island city of Camorr. But young Locke Lamora dodges death and slavery, becoming a thief under the tutelage of a gifted con artist. As leader of the band of light-fingered brothers known as the Gentleman Bastards, Locke is soon infamous, fooling even the underworld’s most feared ruler. But in the shadows lurks someone still more ambitious and deadly. Faced with a bloody coup that threatens to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the enemy at his own brutal game... or die trying.
+
 #### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.2] :star2: :fire:
 
 A pretty good children's story. Defined modern fantasy as we know it. - [@RichardLitt](https://github.com/RichardLitt)
