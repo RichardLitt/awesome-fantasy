@@ -171,10 +171,10 @@ Books:
 The Lightbringer Series has one of the most intricately fleshed-out magic systems that I have ever seen in high fantasy, where the use of magic has interesting implications on characters' lifespan and personality. The storyline, character development, and plot twists make it a binge-worthy series. On top of that, Weeks does an excellent job of bringing the reader through each characters' strengths and weaknesses in personality, magical ability, and circumstances that shape how they end up fitting in to the larger picture. Through the development of his characters, his books address larger societal and philosophical issues from slavery and descrimination to theology and theism/atheism. It is incredibly well-thought out, and I can't wait to see what he does in the last and final installment of the series. The fifth book [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) is expected to come out sometime in 2019! - [@ciarrapeters](https://github.com/ciarrapeters)
 
 Books:
- * [The Black Prism] (https://www.goodreads.com/book/show/7165300-the-black-prism) (2010) [4.24]
- * [The Blinding Knife] (https://www.goodreads.com/book/show/12499290-the-blinding-knife) (2012) (4.45)
- * [The Broken Eye] (https://www.goodreads.com/book/show/12652457-the-broken-eye) (2014) [4.47]
- * [The Blood Mirror] (https://www.goodreads.com/book/show/29467232-the-blood-mirror) (2016) [4.32]
+ * [The Black Prism](https://www.goodreads.com/book/show/7165300-the-black-prism) (2010) [4.24]
+ * [The Blinding Knife](https://www.goodreads.com/book/show/12499290-the-blinding-knife) (2012) (4.45)
+ * [The Broken Eye](https://www.goodreads.com/book/show/12652457-the-broken-eye) (2014) [4.47]
+ * [The Blood Mirror](https://www.goodreads.com/book/show/29467232-the-blood-mirror) (2016) [4.32]
 
 > Guile is the Prism, the most powerful man in the world. He is high priest and emperor, a man whose power, wit, and charm are all that preserves a tenuous peace. Yet Prisms never last, and Guile knows exactly how long he has left to live.
 >
