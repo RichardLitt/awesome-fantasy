@@ -47,6 +47,21 @@ Books:
 >  
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
+
+#### [A Court of Thorns and Roses](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses) *by [Sarah J. Maas](https://en.m.wikipedia.org/wiki/Sarah_J._Maas)* [4.5]
+
+A series of books following the adventures of 19-year-old Feyre in a world divided in two - the human side, and the High Fae side, full of magic and dangers.
+
+Books:
+ * [A Court of Thorns and Roses](https://www.goodreads.com/book/show/16096824-a-court-of-thorns-and-roses)
+ * [A Court of Mist and Fury](https://www.goodreads.com/book/show/17927395-a-court-of-mist-and-fury)
+ * [A Court of Wings and Ruin](https://www.goodreads.com/book/show/23766634-a-court-of-wings-and-ruin)
+ * [A Court of Frost and Starlight](https://www.goodreads.com/book/show/31076583-a-court-of-frost-and-starlight)
+
+> I found this to be one of the rare series that just grasps my attention to the very end. Though there are slow parts in the story, the novel compensates for these with beautiful, detailed descriptions, great character interaction, and generally fine character development. 
+>
+> I've read the series multiple times and have found myself amazed at every reiteration. [@Djolo1802](https://github.com/djolo1802)
+
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
