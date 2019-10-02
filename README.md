@@ -609,6 +609,11 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [Good Omens](https://m.imdb.com/title/tt1869454/) [8.2]
+
+A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
+
+> A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
 ---
 
 ## You got through the list and didn't find anything?
