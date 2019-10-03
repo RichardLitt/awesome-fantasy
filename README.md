@@ -332,6 +332,24 @@ Books:
 >  
 > The world building is done on an unprecedented scale and Erikson has left a lifetime's worth of novels on the table in the world of the Malazan Empire. So what is left to talk about? It's simple, the writing. I can tell that Steven Erikson's writing is filled with wit, charm, philosophical brilliance and a sense of imagination that would humble the most creative of authors. You will be hard-pressed to find his equal in any genre.
 
+
+
+#### [Bartimaeus Sequence](https://en.wikipedia.org/wiki/Bartimaeus_Sequence) (2003) *by [Jonathon Stroud](https://en.wikipedia.org/wiki/Jonathan_Stroud)* [4.5]
+
+My daughter introduced me to the first in this series and we read the trilogy together.  It wasn't until pulling together this contribution that I was aware of the fourth book.  The story starts out feeling very similar to Harry Potter; however, the evolution of the Nathaniel is much different than Harry.  If anything, Nathaniel is more like Voldermort but with a much different ending. - [@TheByteStuff](https://github.com/TheByteStuff)
+
+Books:
+
+* [The Amulet of Samarkand](https://www.goodreads.com/book/show/334123.The_Amulet_of_Samarkand) [4.01]
+* [The Golem's Eye](https://www.goodreads.com/book/show/59263.The_Golem_s_Eye) [4.10]
+* [Ptolemy's Gate](https://www.goodreads.com/book/show/59264.Ptolemy_s_Gate) [4.25]
+* [The Ring of Solomon](https://www.goodreads.com/book/show/7640705-the-ring-of-solomon) [0.5]
+
+
+>  The Bartimaeus Sequence[1] is a series of children's novels of alternate history, fantasy and magic. It was written by British writer Jonathan Stroud and consists of a trilogy published from 2003 to 2005 and a prequel novel published in 2010. The eponymous character, Bartimaeus, is a five-thousand-year-old boisterous djinni. The story follows the career of a teenage magician Nathaniel and Bartimaeus, whom he has summoned and nominally controls, through the alternative history of the peak of London's domination as a magical oligarchy.
+>  
+
+
 ### Standard Fantasy
 
 #### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.1]
