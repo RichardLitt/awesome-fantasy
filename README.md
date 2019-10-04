@@ -400,6 +400,12 @@ Read this if you want to go on an acid trip and if you want to see the roots of 
 
 > The poetic style and sweeping grandeur of The King of Elfland's Daughter has made it one of the most beloved fantasy novels of our time, a masterpiece that influenced some of the greatest contemporary fantasists. The heartbreaking story of a marriage between a mortal man and an elf princess is a masterful tapestry of the fairy tale following the "happily ever after."
 
+#### [Kushiel's Dart](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart) *by [Jacqueline Carey](https://en.wikipedia.org/wiki/Jacqueline_Carey)* [4.0]
+
+This was an amazing read. It was a bit over a thousand words, but it went by fast as anything else. It really displays Carey's way with storytelling and worldbuilding. - [@masonbose](https://github.com/masonbose)
+
+> This is a fantasy novel by American writer Jacqueline Carey, the first book in her Kushiel's Legacy series. The idea for this book first came to Carey when she was reading the Biblical Book of Genesis, and specifically a passage about "sons of God" coming into the "daughters of Men". Later, when she was writing a coffee table book, she encountered Jewish folklore, which paralleled the story in greater detail. The fictional nation of Terre D'Ange in the story was founded by a rebel angel.
+
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
