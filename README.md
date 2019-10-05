@@ -603,6 +603,12 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 
 > In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
 
+#### [Death Note](https://www.imdb.com/title/tt0877057/) [9.0]
+
+One of the best manga series i have ever seen, one of my favourite (2015 TV series) Death Note (デスノート) is a Japanese television drama series based on the manga series of the same name by Tsugumi Ohba and Takeshi Obata Watch now it's too good - [@PeaPals](https://github.com/PeaPals)
+
+> The story follows Light Yagami, a teen genius[2] who stumbles across a mysterious otherworldly notebook: the "Death Note", which belonged to the Shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages. The series centers around Light's subsequent attempts to use the Death Note to carry out a world-wide massacre of individuals whom he deems morally unworthy of life to change the world into a utopian society without crime, using the alias of a god-like vigilante named "Kira" ("キラ", the Japanese transliteration of the English word: killer) and the subsequent efforts of an elite task-force of law enforcement officers, consisting of members of the Japanese police force, led by L, an enigmatic international detective whose past is shrouded in mystery, to apprehend him and end his reign of terror.
+
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
