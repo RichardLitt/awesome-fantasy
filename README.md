@@ -350,6 +350,18 @@ Some of the best short stories I have ever read; The Library is my favourite of 
 
 > The seventeen pieces in Ficciones demonstrate the whirlwind of Borges' genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
 
+#### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) *by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)* [4.14]
+
+The first book in the Study series, Snyder does a great job of building the suspense throughout the novel because at the start Yelena gets poisoned and you think she'll die and it carries on throughout the book. I enjoyed how Yelena's magic trickles throughout the story and the reader doesn't find out too much at the beginning. - [@louisefindlay23](https://github.com/louisefindlay23)
+
+> Choose: A quick death…Or slow poison...
+
+About to be executed for murder, Yelena is offered an extraordinary reprieve. She'll eat the best meals, have rooms in the palace—and risk assassination by anyone trying to kill the Commander of Ixia.
+
+And so Yelena chooses to become a food taster. But the chief of security, leaving nothing to chance, deliberately feeds her Butterfly's Dust—and only by appearing for her daily antidote will she delay an agonizing death from the poison.
+
+As Yelena tries to escape her new dilemma, disasters keep mounting. Rebels plot to seize Ixia and Yelena develops magical powers she can't control. Her life is threatened again and choices must be made. But this time the outcomes aren't so clear...
+
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
 This book inspired me at the age of 14 to get a tattoo I ended up getting 7 years later. This is the kind of fantasy I wish we were still making; half theological, fantastic and weird, somewhere between Grimm's Fairytales and George R.R. Martin. - [@RichardLitt](https://github.com/RichardLitt)
