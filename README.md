@@ -609,6 +609,12 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [Stargate: Atlantis](http://www.imdb.com/title/tt0374455/) [8.1] :star2:
+
+Saw it a few years ago, looks it provides the original idea for most mordern sci-fi movies and tv drama. - [@liayan](https://github.com/liayan)
+
+> An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
+
 ---
 
 ## You got through the list and didn't find anything?
