@@ -370,6 +370,7 @@ Books:
 * [The Ministry of Necessity](https://www.goodreads.com/book/show/10626950-the-ministry-of-necessity) _forthcoming_
 * [The Mage and the Master Spy](https://www.goodreads.com/book/show/15998999-the-mage-and-the-master-spy) _forthcoming_
 * [Inherit the Night](https://www.goodreads.com/book/show/15999003-inherit-the-night) _forthcoming_
+* [The Boy Who Loved](https://www.goodreads.com/book/show/34822376-the-boy-who-loved)
 
 > An orphan’s life is harsh—and often short—in the mysterious island city of Camorr. But young Locke Lamora dodges death and slavery, becoming a thief under the tutelage of a gifted con artist. As leader of the band of light-fingered brothers known as the Gentleman Bastards, Locke is soon infamous, fooling even the underworld’s most feared ruler. But in the shadows lurks someone still more ambitious and deadly. Faced with a bloody coup that threatens to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the enemy at his own brutal game... or die trying.
 
