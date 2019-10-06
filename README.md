@@ -543,6 +543,12 @@ A colorful, funny, and heart-warming take on the consequences of being able to c
 
 ## Movies
 
+#### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
+
+A brilliant fantasy movie. Underrated. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+>A young boy attempts to convince a woman that he is her dead husband reborn.
+
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
