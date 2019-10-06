@@ -569,8 +569,8 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 #### [Pulp Fiction](https://www.imdb.com/title/tt0110912/) [8.9]
 
- A classic movie. A must watch. Great acting, script, everything. - [@ErvinaDe]
-
+ A classic movie. A must watch. Great acting, script, everything. - [@ErvinaDe](https://github.com/ErvinaDe)
+ 
 >The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
