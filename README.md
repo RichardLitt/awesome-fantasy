@@ -567,6 +567,12 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
+#### [Pulp Fiction](https://www.imdb.com/title/tt0110912/) [8.9]
+
+ A classic movie. A must watch. Great acting, script, everything. - [@ErvinaDe]
+
+>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
