@@ -549,6 +549,12 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 
 > The last dragon and a disillusioned dragon-slaying knight must cooperate to stop an evil king who was given partial immortality.
 
+#### [Good Will Hunting](https://www.imdb.com/title/tt0119217/) [8.3]
+
+A must-watch movie. It is thought-provoking and misterious. It is one of the best movies of all time. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
