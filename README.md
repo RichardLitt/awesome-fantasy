@@ -603,6 +603,11 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 
 > In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
 
+#### [Bob's Burgers] (https://www.imdb.com/title/tt1561755/) [8.1]
+
+Mostly clean, clever and quirky, wholesome at times, funny adult animation. My all-time favorite. - [@tleija](https://github.com/tleija)
+> Bob Belcher, along with his wife and 3 children, try to run their last hope of holding the family together, which is running Bob's dream restaurant. 
+
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
