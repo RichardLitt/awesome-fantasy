@@ -609,6 +609,11 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [How I Met Your Mother](https://www.imdb.com/title/tt0460649/) [8.3]
+
+My favorite TV Show. It is a mix of comedy, romance and a little drama. - [@Carlinhosxxp](https://github.com/carlinhosxxp)
+
+> A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother.
 ---
 
 ## You got through the list and didn't find anything?
