@@ -609,6 +609,11 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [Stranger Things](https://www.imdb.com/title/tt4574334/) [8.8]
+
+A series which wont let you wait for the next day to see the next episode. very engaging and entertaining. Now. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Set in the fictional town of hawkins, the research laboratory has opened a portal to another dimension called "The upside downn" whose starts to affect the unknowing residents of Hawkins in calamitous ways.
 ---
 
 ## You got through the list and didn't find anything?
