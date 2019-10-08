@@ -609,6 +609,12 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [The Magicians](https://www.imdb.com/title/tt4254242/) [7.6]
+
+It's like Harry Potter the college years if you add in drugs and sex.  A great soundtrack makes the scenes pop.  [@Chad-Ballay](https://github.com/Chad-Ballay)
+
+> After being recruited to a secretive academy, a group of students discover that the magic they read about as children is very real-and more dangerous than they ever imagined.
+
 ---
 
 ## You got through the list and didn't find anything?
