@@ -109,6 +109,16 @@ Books:
 * [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
 * [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
 
+#### [Here Be Sexist Vampires](https://www.goodreads.com/book/show/13421072-here-be-sexist-vampires) *by [Suzanne Wright](https://www.goodreads.com/author/show/5769764.Suzanne_Wright)*[4.11]
+
+It is a story of vampires with more powers than sucking blood and a female who proves she is not less than a male.-[@meghna-code](https://github.com/meghna-code)
+
+>Sam Parker is a vampire with a gift so strong and substantial that she is invited to partake in a test for a place in the Grand High Master Vampire’s private army. She finds that not only has the army never included a woman, but it has never included a Sventé vampire; a breed that is regarded by the super strong Pagori breed and the hypnotically beautiful Keja breed to be too tame and human-like. Most refuse to take her seriously, especially a Pagori commander named Jared who she craves in spite of herself.
+
+The Grand High Master, however, sees her potential and offers her the position of Jared’s co-commander to help train the newest squad in time for the impending attack on his home. Sam has to demonstrate to Jared and the squad of chauvinists why it is incredibly foolish to underestimate a wilful, temperamental, borderline-homicidal Sventé female.
+
+Warning: This novel contains an iron-willed female vampire with an energy whip, a sexist male vampire who is determined to have her, explicit vampy sex, and a romance story with real bite.
+
 #### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) *by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)* [4.1] :fire:
 
 I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantastic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
