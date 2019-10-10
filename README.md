@@ -1,4 +1,4 @@
-# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
 
@@ -608,6 +608,27 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+
+Books:
+
+* [The Immortals of MELUHA](https://www.goodreads.com/book/show/7913305-the-immortals-of-meluha) (2010) [4.1]
+* [The Secrets of NAGAS] (https://www.goodreads.com/book/show/40948565-the-secret-of-the-nagas) (2011) [4.1]
+* [The Oath of VAYUPUTRAS] (https://www.goodreads.com/book/show/12820793-the-oath-of-the-vayuputras) (2013) [3.8]
+* [RAM Scion of IKSHVAKU] (https://www.goodreads.com/book/show/24709327-scion-of-ikshvaku) (2015) [3.8]
+* [SITA Warrior of MITHILA] (https://www.goodreads.com/book/show/34680719-sita) (2017) [4.0]
+* [RAAVAN Enemy of ARYAVARTA] (https://www.goodreads.com/book/show/35286872-raavan) (2019) [4.2]
+
+#### ALL BOOKS ARE WRITTEN BY : Amish Tripathi; the author who has transformed Indian Fiction with his unique combination of mystery, mythology, religious symbolism and philosophy. (https://en.wikipedia.org/wiki/Amish_Tripathi) ####
+>
+> His books are well recognized and loved; and as a reader myself I found it worth reading.
+>
+> His work is mostly based on INDIAN-MYTHOLOGIES.
+>
+> The Shiva Trilogy is the tale of the extraordinary man whose adventures 4000 years ago are remembered today as the myths of the Mahadev, the God of Gods. It is chronicled through three books, The Immortals of Meluha, The Secret of the Nagas & The Oath of the Vayuputras. 
+>
+> Lose yourself in this epic adventure thriller, based on the Ramayana, the story of Lord Ram. It is chronicled through three books, RAM Scion of IKSHVAKU, SITA Warrior of MITHILA & RAAVAN Enemy of ARYAVARTA.
+
 
 ---
 
