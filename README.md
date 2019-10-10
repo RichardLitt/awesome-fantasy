@@ -83,7 +83,7 @@ Books:
 * [Divided Allegiance](https://www.goodreads.com/book/show/887858.Divided_Allegiance)
 * [Oath of Gold](https://www.goodreads.com/book/show/17316.Oath_of_Gold)
 
-> Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
+> Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheep farmer's Daughter into a hero fit to be chosen by the gods.
 
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)*
 
@@ -595,6 +595,12 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 > While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
+#### [3 Idiots](https://www.imdb.com/title/tt1187043/) [8.4]
+
+One of the best Bollywood movies, it gives a brilliant insight into the Indian Education System, the family and the spirit of friendship. I think it is a wholesome complete package for any movie-lover! - [@subrah107](https://github.com/subrah107)
+
+> It is based on the novel Five Point Someone: What not to do at IIT by Chetan Bhagat.The characters revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots". 
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
@@ -609,6 +615,26 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [The Big Bang Theory](https://www.imdb.com/title/tt0898266/) [8.1] :star2:
+
+How can someone not love it! The daily adventure of Sheldon and co shows how can we have fun while still being in a world of Chaos. - [@subrah107](https://github.com/subrah107)
+
+> One of the best known American TV Sitcom,this has in its heart two nerdy scientists which know way too little of the world other than science. Their lives change when they meet a beautiful woman living across the hall who helps them to realise the world in a better way. As they live their adventurous yet humourous lives, we see them meet new people and their group size expands, entertaining us to their best!
+
+#### [Sacred Games](https://www.imdb.com/title/tt6077448/) [8.8]
+
+Beautiful plot, wonderful execution and here we have, a masterpiece! Other than some violent sexual scenes,it is an absolute delight! - [@subrah107](https://github.com/subrah107)
+
+
+> Based on the novel by Vikram Chandra, this is one of the best web-series ever made. It focuses on the journey of a Gangster who has ambitions and his ways to fulfill them are way too different than one may think.
+
+#### [13 Reasons Why](https://www.imdb.com/title/tt1837492/) [7.9]
+
+One of my favourite series, watching it shattered me gradually as the series progressed. With its beautiful music line and story, it compels the audience to feel sorry for the protagonist. "Why didn't you say that to me,when I was alive" still gives me chills. - [@subrah107](https://github.com/subrah107)
+
+> The teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life, encounters many shocking truths which change his life completely.
+
+ 
 ---
 
 ## You got through the list and didn't find anything?
