@@ -575,7 +575,7 @@ An incredible film for the vision of the world, and the way they combine medieva
 
 #### [Spirited Away](https://www.imdb.com/title/tt0245429/) [8.6]
 
-A beautifully drawn and wonderfully composed work of art - really, no other description will do. Dont let the fact that it is animated scare you. Just watch it! - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+A beautifully drawn and wonderfully composed work of art - really, no other description will do. Don't let the fact that it is animated scare you. Just watch it! - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
 
 > During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
