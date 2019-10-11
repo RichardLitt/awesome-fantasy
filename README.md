@@ -609,6 +609,15 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+
+
+#### [Stranger Things](https://www.imdb.com/title/tt4574334) [8.8]
+
+Exciting, heartbreaking, and sometimes scary, Stranger Things acts as an addictive homage to Spielberg films and vintage 1980s television. -[@TREXXX27](https://github.com/TREXXX27)
+
+>When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.
+
+
 ---
 
 ## You got through the list and didn't find anything?
