@@ -609,6 +609,12 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [The Legend of Korra ](https://www.imdb.com/title/tt1695360/) [8.5]
+
+Excellent sequel to Avatar: The Last Airbender. If you loved Aang, you're sure to love Korra. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.
+
 ---
 
 ## You got through the list and didn't find anything?
