@@ -609,6 +609,12 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [the Vampire Diaries](https://www.imdb.com/title/tt1405406) [7.7]
+
+Even into its eighth season, The Vampire Diaries exceeds genre expectations while still servicing fans with Nina Dobrev's return. - [@TREXXX27](https://github.com/TREXXX27)
+
+> The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
+
 ---
 
 ## You got through the list and didn't find anything?
