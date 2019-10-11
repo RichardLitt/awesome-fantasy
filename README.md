@@ -597,6 +597,12 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 ## TV Series
 
+#### [ Attack on Titan](http://www.imdb.com/title/tt2560140) [8.8]
+
+This show should honestly be more than "just an anime" .It's gritty, beautiful, and the music is movie tier. - [@TREXXX27](https://github.com/TREXXX27)
+
+> After his hometown is destroyed and his mother is killed, young Eren Yeager vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.
+
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
 
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
@@ -608,6 +614,8 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+
 
 ---
 
