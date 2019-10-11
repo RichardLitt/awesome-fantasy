@@ -609,6 +609,12 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+
+Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> An English combat nurse from 1945 is mysteriously swept back in time to 1743.
+
 ---
 
 ## You got through the list and didn't find anything?
