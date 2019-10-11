@@ -567,6 +567,12 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
+#### [Percy Jackson: Sea of Monsters](https://www.imdb.com/title/tt1854564/) [5.8]
+
+This quest is a rather epic disappointment unworthy of the Percy Jackson name; skip the adaptation and just read the excellent book. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters, to find the mythical Golden Fleece, all the while trying to stop an ancient evil from rising.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
