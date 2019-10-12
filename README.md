@@ -516,11 +516,11 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 >  
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
-#### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [3.9] 
+#### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [3.9] :fire:
 
 Stephen King is as brilliant as he is prolific, having penned over fifty worldwide bestsellers and won multiple awards for his writing. Under The Dome is a real page turner that will keep you worrying about the wonderful and frightening cast of characters. It's no surprise a show was made based on the novel. - [@JamesDrysdale](https://github.com/JamesDrysdale)
 
-The small town of Chester's Mill, Maine is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. No one can get in or out and the normal rules of society suddenly change when resources run short. A new and more sinister social order develops. A handful of citizens team up to fight the corruption sweeping through the town and to try to discover the source of the Dome before it's too late.
+>The small town of Chester's Mill, Maine is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. No one can get in or out and the normal rules of society suddenly change when resources run short. A new and more sinister social order develops. A handful of citizens team up to fight the corruption sweeping through the town and to try to discover the source of the Dome before it's too late.
 
 ### Children's Books
 
