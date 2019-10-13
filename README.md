@@ -549,6 +549,12 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 
 > The last dragon and a disillusioned dragon-slaying knight must cooperate to stop an evil king who was given partial immortality.
 
+#### [Fire and Ice](https://www.imdb.com/title/tt0085542/) [6.6]
+
+An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazetta. - [@teav](https://github.com/teav)
+
+> At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
