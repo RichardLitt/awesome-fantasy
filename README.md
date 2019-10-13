@@ -549,6 +549,12 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 
 > The last dragon and a disillusioned dragon-slaying knight must cooperate to stop an evil king who was given partial immortality.
 
+#### [Dungeons & Dragons](https://www.imdb.com/title/tt0190374/) [3.6]
+
+It's got a Wayans brother and Jeremy Irons.  What more do you need? - [@teav](https://github.com/teav)
+
+> Profion, a tyrant, attempts to overthrow a peaceful kingdom ruled by a tough empress.
+:
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
