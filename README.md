@@ -609,6 +609,9 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [Archer](https://www.imdb.com/title/tt1486217/) [8.6]
+
+The best cartoon series watched ever. It's awesome
 ---
 
 ## You got through the list and didn't find anything?
