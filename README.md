@@ -633,6 +633,12 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
+#### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
+
+The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
+
+> A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
+
 ---
 
 ## You got through the list and didn't find anything?
