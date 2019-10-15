@@ -605,6 +605,12 @@ This movie really captures the ways thinking of some writers who are always wond
 
 > While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.
 
+#### [Percy Jackson & the Olympians: The Lightning Thief](https://www.imdb.com/title/tt0814255/) [5.9]
+
+Kids have been waiting for this movie adaptation for a long time; too bad they'll be disappointed. A movie with demigods in a modern era. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
