@@ -570,6 +570,12 @@ A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some fe
 
 > A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
 
+#### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
+
+A brilliant fantasy movie. Underrated. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> A young boy attempts to convince a woman that he is her dead husband reborn.
+
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
