@@ -543,6 +543,12 @@ A colorful, funny, and heart-warming take on the consequences of being able to c
 
 ## Movies
 
+#### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
+
+A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some ferrets. - [@teav](https://github.com/teav)
+
+> A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
+
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
