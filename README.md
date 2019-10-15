@@ -386,6 +386,15 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
+
+#### [Grandma's Bag Of Stories](https://www.goodreads.com/book/show/13510813-grandma-s-bag-of-stories) (2012) *by [Sudha Murthy](https://en.wikipedia.org/wiki/Sudha_Murty)* [4.21]
+
+This book is quite realistic and reminded me of the stories my grandparents have told me. And just like me, everyone was upset when this adventure comes to an end. -[@NivedithaBBhat](https://github.com/NivedithaBBhat)
+
+>When Grandma opens her bag of stories, everyone gathers Around.
+Who can resist a good story, especially when it’s being told by Grandma? From her bag emerges tales of kings and cheats, monkeys and mice, bears and gods. Here comes the bear who ate some really bad dessert and got very angry; a lazy man who would not put out a fire till it reached his beard; a princess who got turned into an onion; a queen who discovered silk, and many more weird and wonderful people and animals.
+Grandma tells the stories over long summer days and nights, as seven children enjoy life in her little town. The stories entertain, educate and provide hours of enjoyment to them.
+
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 
 This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
@@ -399,6 +408,12 @@ This book takes a while to ramp up, but if you can get through the (intentionall
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The poetic style and sweeping grandeur of The King of Elfland's Daughter has made it one of the most beloved fantasy novels of our time, a masterpiece that influenced some of the greatest contemporary fantasists. The heartbreaking story of a marriage between a mortal man and an elf princess is a masterful tapestry of the fairy tale following the "happily ever after."
+
+#### [Kushiel's Dart](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart) *by [Jacqueline Carey](https://en.wikipedia.org/wiki/Jacqueline_Carey)* [4.0]
+
+This was an amazing read. It was a bit over a thousand words, but it went by fast as anything else. It really displays Carey's way with storytelling and worldbuilding. - [@masonbose](https://github.com/masonbose)
+
+> This is a fantasy novel by American writer Jacqueline Carey, the first book in her Kushiel's Legacy series. The idea for this book first came to Carey when she was reading the Biblical Book of Genesis, and specifically a passage about "sons of God" coming into the "daughters of Men". Later, when she was writing a coffee table book, she encountered Jewish folklore, which paralleled the story in greater detail. The fictional nation of Terre D'Ange in the story was founded by a rebel angel.
 
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
@@ -516,6 +531,12 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 >  
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
+#### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [3.9] :fire:
+
+Stephen King is as brilliant as he is prolific, having penned over fifty worldwide bestsellers and won multiple awards for his writing. Under The Dome is a real page turner that will keep you worrying about the wonderful and frightening cast of characters. It's no surprise a show was made based on the novel. - [@JamesDrysdale](https://github.com/JamesDrysdale)
+
+>The small town of Chester's Mill, Maine is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. No one can get in or out and the normal rules of society suddenly change when resources run short. A new and more sinister social order develops. A handful of citizens team up to fight the corruption sweeping through the town and to try to discover the source of the Dome before it's too late.
+
 ### Children's Books
 
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
@@ -543,11 +564,17 @@ A colorful, funny, and heart-warming take on the consequences of being able to c
 
 ## Movies
 
+#### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
+
+A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some ferrets. - [@teav](https://github.com/teav)
+
+> A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
+
 #### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
 
 A brilliant fantasy movie. Underrated. - [@ErvinaDe](https://github.com/ErvinaDe)
 
->A young boy attempts to convince a woman that he is her dead husband reborn.
+> A young boy attempts to convince a woman that he is her dead husband reborn.
 
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
@@ -561,6 +588,12 @@ This is an awesomely atrocious film. The only thing that is awesome about it is 
 
 > An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
 
+#### [Highlander II: The Quickening](https://www.imdb.com/title/tt0102034/) [4.3]
+
+Worse than the first, but in the best way possible. - [@teav](https://github.com/teav)
+
+> In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.
+
 #### [Krull](http://www.imdb.com/title/tt0085811/) [6.0]
 
 Truly a horrendous film. But would make a great drinking game, so I am including it. Also, early Liam Neeson is great. - [@RichardLitt](https://github.com/RichardLitt)
@@ -573,11 +606,28 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
+#### [Midnight in Paris] (https://www.imdb.com/title/tt1605783/) [7.7]
+This movie really captures the ways thinking of some writers who are always wondering how would it be if they lived in some other century. Besides, Owen Wilson killed it. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.
+
+#### [Percy Jackson & the Olympians: The Lightning Thief](https://www.imdb.com/title/tt0814255/) [5.9]
+
+Kids have been waiting for this movie adaptation for a long time; too bad they'll be disappointed. A movie with demigods in a modern era. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
+
+#### [Spirited Away](https://www.imdb.com/title/tt0245429/) [8.6]
+
+A beautifully drawn and wonderfully composed work of art - really, no other description will do. Don't let the fact that it is animated scare you. Just watch it! - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
 #### The Lord of the Rings
 
@@ -601,6 +651,12 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 > While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
+#### [The Sorcerer's Apprentice](https://www.imdb.com/title/tt0963966/) [6.1]
+
+The fate of the world does not really hang in balance, contrary to what the movie says. Still very fun to watch, especially if you're part of Gen Z, or have kids in primary school. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
@@ -614,6 +670,24 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+#### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
+
+The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
+
+> A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
+
+### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+
+Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> An English combat nurse from 1945 is mysteriously swept back in time to 1743.
+
+#### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
+
+ Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
 
 ---
 
