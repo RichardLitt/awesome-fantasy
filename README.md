@@ -516,6 +516,12 @@ Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire s
 >  
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
+#### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [3.9] :fire:
+
+Stephen King is as brilliant as he is prolific, having penned over fifty worldwide bestsellers and won multiple awards for his writing. Under The Dome is a real page turner that will keep you worrying about the wonderful and frightening cast of characters. It's no surprise a show was made based on the novel. - [@JamesDrysdale](https://github.com/JamesDrysdale)
+
+>The small town of Chester's Mill, Maine is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. No one can get in or out and the normal rules of society suddenly change when resources run short. A new and more sinister social order develops. A handful of citizens team up to fight the corruption sweeping through the town and to try to discover the source of the Dome before it's too late.
+
 ### Children's Books
 
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
@@ -543,6 +549,12 @@ A colorful, funny, and heart-warming take on the consequences of being able to c
 
 ## Movies
 
+#### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
+
+A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some ferrets. - [@teav](https://github.com/teav)
+
+> A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
+
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
@@ -554,6 +566,12 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
 
 > An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
+
+#### [Highlander II: The Quickening](https://www.imdb.com/title/tt0102034/) [4.3]
+
+Worse than the first, but in the best way possible. - [@teav](https://github.com/teav)
+
+> In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.
 
 #### [Krull](http://www.imdb.com/title/tt0085811/) [6.0]
 
@@ -572,6 +590,12 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
+
+#### [Spirited Away](https://www.imdb.com/title/tt0245429/) [8.6]
+
+A beautifully drawn and wonderfully composed work of art - really, no other description will do. Don't let the fact that it is animated scare you. Just watch it! - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
 #### The Lord of the Rings
 
@@ -609,7 +633,13 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 
 > Several noble families fight for control of the mythical land of Westeros.
 
-#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+#### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
+
+The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
+
+> A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
+
+### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
 
 Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
