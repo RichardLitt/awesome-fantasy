@@ -555,6 +555,12 @@ This is an awesomely atrocious film. The only thing that is awesome about it is 
 
 > An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
 
+#### [Highlander II: The Quickening](https://www.imdb.com/title/tt0102034/) [4.3]
+
+Worse than the first, but in the best way possible. - [@teav](https://github.com/teav)
+
+> In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.
+
 #### [Krull](http://www.imdb.com/title/tt0085811/) [6.0]
 
 Truly a horrendous film. But would make a great drinking game, so I am including it. Also, early Liam Neeson is great. - [@RichardLitt](https://github.com/RichardLitt)
