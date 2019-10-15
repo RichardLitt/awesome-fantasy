@@ -639,6 +639,12 @@ The Originals may overwhelm casual viewers with its myriad twists and bevy of su
 
 > A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
 
+### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+
+Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> An English combat nurse from 1945 is mysteriously swept back in time to 1743.
+
 ---
 
 ## You got through the list and didn't find anything?
