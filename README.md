@@ -386,6 +386,15 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
+
+#### [Grandma's Bag Of Stories](https://www.goodreads.com/book/show/13510813-grandma-s-bag-of-stories) (2012) *by [Sudha Murthy](https://en.wikipedia.org/wiki/Sudha_Murty)* [4.21]
+
+This book is quite realistic and reminded me of the stories my grandparents have told me. And just like me, everyone was upset when this adventure comes to an end. -[@NivedithaBBhat](https://github.com/NivedithaBBhat)
+
+>When Grandma opens her bag of stories, everyone gathers Around.
+Who can resist a good story, especially when it’s being told by Grandma? From her bag emerges tales of kings and cheats, monkeys and mice, bears and gods. Here comes the bear who ate some really bad dessert and got very angry; a lazy man who would not put out a fire till it reached his beard; a princess who got turned into an onion; a queen who discovered silk, and many more weird and wonderful people and animals.
+Grandma tells the stories over long summer days and nights, as seven children enjoy life in her little town. The stories entertain, educate and provide hours of enjoyment to them.
+
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 
 This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
