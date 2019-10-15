@@ -645,6 +645,12 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 > While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
+#### [The Sorcerer's Apprentice](https://www.imdb.com/title/tt0963966/) [6.1]
+
+The fate of the world does not really hang in balance, contrary to what the movie says. Still very fun to watch, especially if you're part of Gen Z, or have kids in primary school. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
