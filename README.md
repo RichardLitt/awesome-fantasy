@@ -671,6 +671,12 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
 
 > An English combat nurse from 1945 is mysteriously swept back in time to 1743.
 
+#### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
+
+ Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
+
 ---
 
 ## You got through the list and didn't find anything?
