@@ -415,6 +415,12 @@ This was an amazing read. It was a bit over a thousand words, but it went by fas
 
 > This is a fantasy novel by American writer Jacqueline Carey, the first book in her Kushiel's Legacy series. The idea for this book first came to Carey when she was reading the Biblical Book of Genesis, and specifically a passage about "sons of God" coming into the "daughters of Men". Later, when she was writing a coffee table book, she encountered Jewish folklore, which paralleled the story in greater detail. The fictional nation of Terre D'Ange in the story was founded by a rebel angel.
 
+#### [Vicious](https://www.goodreads.com/book/show/40874032-vicious) *by [V.E. Schwab](https://en.wikipedia.org/wiki/V._E._Schwab)* [4.25]
+
+A fantastic start to an amazing series. Schwab really knows how to 'set a scene', and create an environment that grips you and doesn't let go. - [@masonbose](https://github.com/masonbose)
+
+> Victor and Eli started out as college roommates—brilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong.
+
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
