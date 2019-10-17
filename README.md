@@ -29,24 +29,6 @@
 
 ### Epic Fantasy
 
-#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] :fire:
-
-Incredibly detailed books, with a very realistic world. I can't get enough of it. Awesome in the scale and breadth of intricacy. - [@RichardLitt](https://github.com/RichardLitt)
-
-Books:
- * [A Game of Thrones](http://www.goodreads.com/book/show/13496.A_Game_of_Thrones) :fire:
- * [A Clash of Kings](http://www.goodreads.com/book/show/10572.A_Clash_of_Kings) :fire:
- * [A Storm of Swords](http://www.goodreads.com/book/show/62291.A_Storm_of_Swords) :fire:
- * [A Feast for Crows](http://www.goodreads.com/book/show/13497.A_Feast_for_Crows) :fire:
- * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) :fire:
- * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
-
-> Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
->  
-> As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.
->  
-> The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
-
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
@@ -70,6 +52,16 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 > Their brief and passionate lives were dominated by the elemental hatred that Morgoth bore them as the children of Húrin, the man who had dared to defy and to scorn him to his face. Against them he sent his most formidable servant, Glaurung, a powerful spirit in the form of a huge wingless dragon of fire. Into this story of brutal conquest and flight, of forest hiding-places and pursuit, of resistance with lessening hope, the Dark Lord and the Dragon enter in direly articulate form. Sardonic and mocking, Glaurung manipulated the fates of Túrin and Nienor by lies of diabolic cunning and guile, and the curse of Morgoth was fulfilled.
 > 
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
+
+#### [The Chronicles of Amber](https://www.goodreads.com/book/show/5367.The_Great_Book_of_Amber) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.3]
+
+In truth, this is ten books, but they aren't stand-alone. I would call this two series: the Corwin series of the first five books, and the Merlin series of the second.
+
+Like most high fantasy, I didn't so much read these books as devour them. The series was excellent. Corwin's story is the story within all of us; a desire to be loved, to make sense of the world, to win back the castle from the evil usurper. Amber - the city upon which all other cities are but a shadow. Like CS Lewis, this earth is only a shadow of the real earth. Corwin is one of my favourite characters from a fantasy series; it's not often that you get to talk to someone who was a soldier in Napolean's army, who knew Van Gogh, who remembers Paris at the turn of the century (his section on the chestnuts is exquisite).
+
+There is so much good writing, so many beautiful places, that it is almost impossible to remember it all. Reading this book wasn't so much reading as being transported to faery for a day. I remember feeling totally at a loss after reading one afternoon, as if I had been transported; the next day, on top of a mountain, I had the exact same feeling, that I was somewhere else. Reading these books gave me the greatest joy that a book can give - being lost in another world. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) *by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)* [4.3]
 
@@ -255,6 +247,24 @@ Books:
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Designed to take fans of The Hobbit and The Lord of the Rings deeper into the myths and legends of Middle-Earth, The Silmarillion is an account of the Elder Days, of the First Age of Tolkien's world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor. Included in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Numenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings. This pivotal work features the revised, corrected text and includes, by way of an introduction, a fascinating letter written by Tolkien in 1951 in which he gives a full explanation of how he conceived the early Ages of Middle-Earth.
+
+#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] :fire:
+
+Incredibly detailed books, with a very realistic world. I can't get enough of it. Awesome in the scale and breadth of intricacy. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+ * [A Game of Thrones](http://www.goodreads.com/book/show/13496.A_Game_of_Thrones) :fire:
+ * [A Clash of Kings](http://www.goodreads.com/book/show/10572.A_Clash_of_Kings) :fire:
+ * [A Storm of Swords](http://www.goodreads.com/book/show/62291.A_Storm_of_Swords) :fire:
+ * [A Feast for Crows](http://www.goodreads.com/book/show/13497.A_Feast_for_Crows) :fire:
+ * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) :fire:
+ * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
+
+> Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
+>  
+> As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.
+>  
+> The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
