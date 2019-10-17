@@ -551,7 +551,7 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 
 #### [Fire and Ice](https://www.imdb.com/title/tt0085542/) [6.6]
 
-An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazetta. - [@teav](https://github.com/teav)
+An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazetta. This movie has great animation and even greater action. - [@teav](https://github.com/teav)
 
 > At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
 
