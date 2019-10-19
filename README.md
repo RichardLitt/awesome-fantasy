@@ -555,6 +555,12 @@ Fell in love with this book when I first read it in 4th grade. I had always like
 
 > Cimorene is everything a princess is not supposed to be: headstrong, tomboyish, smart - and bored. So bored that she runs away to live with a dragon - and finds the family and excitement she's been looking for.
 
+#### [Howl's Moving Castle](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) *by [Diana Wynne Jones](https://en.wikipedia.org/wiki/Diana_Wynne_Jones)* [4.3]
+
+The original story that inspired Miyazaki's film adaptation. Has a colorful, fun, and whimsical tone, but has an interesting twist. - [@konpyuta](https://github.com/konpyuta)
+
+> Sophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl—and herself—than first meets the eye.
+
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
 
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
