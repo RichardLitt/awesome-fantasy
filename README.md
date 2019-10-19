@@ -77,6 +77,23 @@ Books:
 
 > Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
 
+#### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) *by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)* [3.98]
+
+My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
+
+Books:
+
+* [The Forests of Silence](https://www.goodreads.com/book/show/155238.The_Forests_of_Silence)
+* [The Lake of Tears](https://www.goodreads.com/book/show/119494.The_Lake_of_Tears)
+* [City of the Rats](https://www.goodreads.com/book/show/119493.City_of_the_Rats)
+* [The Shifting Sands](https://www.goodreads.com/book/show/119490.The_Shifting_Sands)
+* [Dread Mountain](https://www.goodreads.com/book/show/119495.Dread_Mountain)
+* [The Maze of the Beast](https://www.goodreads.com/book/show/119489.The_Maze_of_the_Beast)
+* [The Valley of the Lost](https://www.goodreads.com/book/show/119492.The_Valley_of_the_Lost)
+* [Return to Del](https://www.goodreads.com/book/show/119491.Return_to_Del)
+
+> For centuries, the evil Shadow Lord has been plotting to invade Deltora and enslave its people. All that stands in his way is the magic Belt of Deltora with its seven gems of great and mysterious power. Now, Leif, Barda, and Jasmine must unite to find the seven gems and save Deltora from an eternity of darkness.
+
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)*
 
 There's elements of fantasy in here, although it is mostly science fiction. The elements they have - the power of words, the _bene gesserit_, the worms - are all, indubitably, awesome. - [@RichardLitt](https://github.com/RichardLitt)
