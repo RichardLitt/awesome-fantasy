@@ -77,6 +77,23 @@ Books:
 
 > Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
 
+#### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) *by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)* [3.98]
+
+My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
+
+Books:
+
+* [The Forests of Silence](https://www.goodreads.com/book/show/155238.The_Forests_of_Silence)
+* [The Lake of Tears](https://www.goodreads.com/book/show/119494.The_Lake_of_Tears)
+* [City of the Rats](https://www.goodreads.com/book/show/119493.City_of_the_Rats)
+* [The Shifting Sands](https://www.goodreads.com/book/show/119490.The_Shifting_Sands)
+* [Dread Mountain](https://www.goodreads.com/book/show/119495.Dread_Mountain)
+* [The Maze of the Beast](https://www.goodreads.com/book/show/119489.The_Maze_of_the_Beast)
+* [The Valley of the Lost](https://www.goodreads.com/book/show/119492.The_Valley_of_the_Lost)
+* [Return to Del](https://www.goodreads.com/book/show/119491.Return_to_Del)
+
+> For centuries, the evil Shadow Lord has been plotting to invade Deltora and enslave its people. All that stands in his way is the magic Belt of Deltora with its seven gems of great and mysterious power. Now, Leif, Barda, and Jasmine must unite to find the seven gems and save Deltora from an eternity of darkness.
+
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)*
 
 There's elements of fantasy in here, although it is mostly science fiction. The elements they have - the power of words, the _bene gesserit_, the worms - are all, indubitably, awesome. - [@RichardLitt](https://github.com/RichardLitt)
@@ -555,6 +572,12 @@ Fell in love with this book when I first read it in 4th grade. I had always like
 
 > Cimorene is everything a princess is not supposed to be: headstrong, tomboyish, smart - and bored. So bored that she runs away to live with a dragon - and finds the family and excitement she's been looking for.
 
+#### [Howl's Moving Castle](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) *by [Diana Wynne Jones](https://en.wikipedia.org/wiki/Diana_Wynne_Jones)* [4.3]
+
+The original story that inspired Miyazaki's film adaptation. Has a colorful, fun, and whimsical tone, but has an interesting twist. - [@konpyuta](https://github.com/konpyuta)
+
+> Sophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl—and herself—than first meets the eye.
+
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
 
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
@@ -563,11 +586,19 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
+
 ####[The Black Bull of Norroway](https://www.goodreads.com/book/show/39913349-the-black-bull-of-norroway) *by [Cat Seaton](https://www.goodreads.com/author/show/15307132.Cat_Seaton), [Kit Seaton](https://www.goodreads.com/author/show/7989199.Kit_Seaton)* [rating]
 
 Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity represented.  - [@konpyuta](https://github.com/konpyuta)
 
 > Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
+
+#### [Delilah Dirk and the Turkish Lieutenant](https://www.goodreads.com/book/show/17261174-delilah-dirk-and-the-turkish-lieutenant) *by [Tony Cliff](https://www.goodreads.com/author/show/4593587.Tony_Cliff)* [3.94]
+
+Great adventure with a strong female protagonist. In a historical-based setting with interesting fantasy elements interspersed with cultural details.  - [@konpyuta](https://github.com/konpyuta)
+
+> Lovable ne'er-do-well Delilah Dirk has travelled to Japan, Indonesia, France, and even the New World. Using the skills she's picked up on the way, Delilah's adventures continue as she plots to rob a rich and corrupt Sultan in Constantinople. With the aid of her flying boat and her newfound friend, Selim, she evades the Sultan's guards, leaves angry pirates in the dust, and fights her way through the countryside. For Delilah, one adventure leads to the next in this thrilling and funny installment in her exciting life.
+
 
 #### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by [Bryan Lee O'Malley](https://en.wikipedia.org/wiki/Bryan_Lee_O%27Malley), [Nathan Fairbairn](https://www.goodreads.com/author/show/6497026.Nathan_Fairbairn)* [4.07]
 
@@ -698,6 +729,12 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+#### [The Vampire Diaries](https://www.imdb.com/title/tt1405406/) (2009-2017) [7.7]
+
+If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline.  - [@Hazelnoot](https://github.com/hazelnoot)
+
+> The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
 
 #### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
 
