@@ -46,11 +46,11 @@ Books:
 The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion a history. This is one of the few novels, a story that shows the life of a tortured individual. This story borrows heavily from Scandinavian lore, and presents Turin as one of the most tragic of all of Tolkien's creations. It is my favourite story from all of his books, and I think it has the most advanced and beautiful look into the world of Middle Earth as a whole. - [@RichardLitt](https://github.com/RichardLitt)
 
 > There are tales of Middle-earth from times long before The Lord of the Rings, and the story told in this book is set in the great country that lay beyond the Grey Havens in the West: lands where Treebeard once walked, but which were drowned in the great cataclysm that ended the First Age of the World.
-> 
+>
 > In that remote time Morgoth, the first Dark Lord, dwelt in the vast fortress of Angband, the Hells of Iron, in the North; and the tragedy of Túrin and his sister Nienor unfolded within the shadow of the fear of Angband and the war waged by Morgoth against the lands and secret cities of the Elves.
-> 
+>
 > Their brief and passionate lives were dominated by the elemental hatred that Morgoth bore them as the children of Húrin, the man who had dared to defy and to scorn him to his face. Against them he sent his most formidable servant, Glaurung, a powerful spirit in the form of a huge wingless dragon of fire. Into this story of brutal conquest and flight, of forest hiding-places and pursuit, of resistance with lessening hope, the Dark Lord and the Dragon enter in direly articulate form. Sardonic and mocking, Glaurung manipulated the fates of Túrin and Nienor by lies of diabolic cunning and guile, and the curse of Morgoth was fulfilled.
-> 
+>
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
 #### [The Chronicles of Amber](https://www.goodreads.com/book/show/5367.The_Great_Book_of_Amber) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.3]
@@ -128,9 +128,9 @@ Books:
 7. [Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) [4.6]
 
 > The novels revolve around Harry Potter, an orphan who discovers at the age of 11 that he is a wizard, who lives within the ordinary world of non-magical people, known as Muggles. The wizarding world is secret from the Muggle world, presumably to avoid persecution of witches and wizards. His ability is inborn, and such children are invited to attend an exclusive magic school that teaches the necessary skills to succeed in the wizarding world. Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social and emotional, including ordinary teenage challenges such as friendships, infatuation and exams, and the greater test of preparing himself for the confrontation in the real world that lies ahead.
->  
+>
 > Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
->  
+>
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
 #### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
@@ -153,9 +153,9 @@ Books:
 * [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear) [4.56]
 
 > The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe, an adventurer and famous musician.
-> 
+>
 > The plot is divided into two different action threads: the present, where Kvothe tells the story of his life to Devan Lochees (known as Chronicler) in the main room of his inn, and Kvothe's past, the story in question, which makes up the majority of the books. The present-day interludes are in the third person from the perspective of multiple characters, while the story of Kvothe's life is told entirely in the first person from his own perspective.
-> 
+>
 > The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
 #### [The Lightbringer Series](https://www.goodreads.com/series/49673-lightbringer) *by [Brent Weeks](https://en.wikipedia.org/wiki/Brent_Weeks)*
@@ -182,7 +182,7 @@ Books:
  * [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) :fire: :star2:
 
 > A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- The Fellowship of the Ring, The Two Towers, and The Return of the King -- each with art from the New Line Productions feature film on the cover.
->  
+>
 > J.R.R. Tolkien's The Lord of the Rings trilogy is a genuine masterpiece. The most widely read and influential fantasy epic of all time, it is also quite simply one of the most memorable and beloved tales ever told. Originally published in 1954, The Lord of the Rings set the framework upon which all epic/quest fantasy since has been built. Through the urgings of the enigmatic wizard Gandalf, young hobbit Frodo Baggins embarks on an urgent, incredibly treacherous journey to destroy the One Ring. This ring -- created and then lost by the Dark Lord, Sauron, centuries earlier -- is a weapon of evil, one that Sauron desperately wants returned to him. With the power of the ring once again his own, the Dark Lord will unleash his wrath upon all of Middle-earth. The only way to prevent this horrible fate from becoming reality is to return the Ring to Mordor, the only place it can be destroyed. Unfortunately for our heroes, Mordor is also Sauron's lair. The Lord of the Rings trilogy is essential reading not only for fans of fantasy but for lovers of classic literature as well...
 
 #### [The Lost Years of Merlin](https://www.goodreads.com/series/40391) by *[T.A. Barron](https://en.wikipedia.org/wiki/T._A._Barron)* [4.0]
@@ -214,9 +214,9 @@ The second trilogy takes place some 300 years after the events of the first, and
 Would recommend this entire series and the whole Cosmere to any fantasy fan. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 > The first three books are a trilogy to be read together.
->  
+>
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
->  
+>
 > Books 4-6 are sequels that take place 300 years later.
 
 Books:
@@ -261,9 +261,9 @@ Books:
  * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
 
 > Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
->  
+>
 > As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.
->  
+>
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
@@ -339,7 +339,7 @@ Books:
 * [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god) [4.4]
 
 >  Steven Erikson draws on twenty years of experience as an anthropologist and archaeologist. Vast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire, with brutal action and battle scenes
->  
+>
 > The world building is done on an unprecedented scale and Erikson has left a lifetime's worth of novels on the table in the world of the Malazan Empire. So what is left to talk about? It's simple, the writing. I can tell that Steven Erikson's writing is filled with wit, charm, philosophical brilliance and a sense of imagination that would humble the most creative of authors. You will be hard-pressed to find his equal in any genre.
 
 ### Standard Fantasy
@@ -349,9 +349,9 @@ Books:
 This book stands up to a reread, and is a nice example of Neil Gaiman's ability to draw together a thousand different threads into one cohesive story. The scenes in the Wisconsin small towns stay with me much longer than the rest of the book - they're reminiscent of the much better book _Peace_ by Gene Wolfe, not to say they're not well done. This is a quick and great read, and it continually surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.
->  
+>
 > Together they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.
->  
+>
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)* [4.5]
@@ -410,7 +410,7 @@ Grandma tells the stories over long summer days and nights, as seven children en
 This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
 > At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
->  
+>
 > Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by [Lord Dunsanay](https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany)* [3.8]
@@ -430,9 +430,9 @@ This was an amazing read. It was a bit over a thousand words, but it went by fas
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.
->  
+>
 > Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.
->  
+>
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
 #### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [3.7]
@@ -516,9 +516,9 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 This was a fun book, and a great collaboration. At times it is a bit clear where Neil Gaiman was writing, and I'm not sure that the book is better for his inclusions at points; he hadn't yet perfected his craft, I think. But the story as a whole is good. - [@RichardLitt](https://github.com/RichardLitt)
 
 > According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
->  
+>
 > So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon — both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle — are not actually looking forward to the coming Rapture.
->  
+>
 > And someone seems to have misplaced the Antichrist . . .
 
 #### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] :fire:
@@ -534,11 +534,11 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire sub-genre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
 
 > An unparalleled selection of fiction from H. P. Lovecraft, master of the American horror tale
->  
+>
 > Long after his death, H. P. Lovecraft continues to enthrall readers with his gripping tales of madness and cosmic terror, and his effect on modern horror fiction continues to be felt - Stephen King, Anne Rice, and Clive Barker have acknowledged his influence. His unique contribution to American literature was a melding of Poe's traditional supernaturalism with the emerging genre of science fiction. Originally appearing in pulp magazines like Weird Tales in the 1920s and 1930s, Lovecraft's work is now being regarded as the most important supernatural fiction of the twentieth century.
->  
+>
 > Lovecraft's biographer and preeminent interpreter, S. T. Joshi, has prepared this volume of eighteen stories--from the early classics like "The Outsider" and "Rats in the Wall" to his mature masterworks, "The Call of Cthulhu" and "The Shadow over Innsmouth." The first paperback to include the definitive corrected texts, The Call of Cthulhu and Other Weird Stories reveals the development of Lovecraft's mesmerizing narrative style, and establishes him as a canonical--and visionary--American writer.
->  
+>
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
 #### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [3.9] :fire:
@@ -557,19 +557,25 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
+#### [Delilah Dirk and the Turkish Lieutenant](https://www.goodreads.com/book/show/17261174-delilah-dirk-and-the-turkish-lieutenant) *by [Tony Cliff](https://www.goodreads.com/author/show/4593587.Tony_Cliff)* [3.94]
+
+Great adventure with a strong female protagonist. In a historical-based setting with interesting fantasy elements interspersed with cultural details.  - [@konpyuta](https://github.com/konpyuta)
+
+> Lovable ne'er-do-well Delilah Dirk has travelled to Japan, Indonesia, France, and even the New World. Using the skills she's picked up on the way, Delilah's adventures continue as she plots to rob a rich and corrupt Sultan in Constantinople. With the aid of her flying boat and her newfound friend, Selim, she evades the Sultan's guards, leaves angry pirates in the dust, and fights her way through the countryside. For Delilah, one adventure leads to the next in this thrilling and funny installment in her exciting life.
+
 #### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by [Bryan Lee O'Malley](https://en.wikipedia.org/wiki/Bryan_Lee_O%27Malley), [Nathan Fairbairn](https://www.goodreads.com/author/show/6497026.Nathan_Fairbairn)* [4.07]
 
 A colorful, funny, and heart-warming take on the consequences of being able to change the past. The best word to describe this comic is delightful. - [@sunrein](https://github.com/sunrein)
 
 > Katie’s got it pretty good. She’s a talented young chef, she runs a successful restaurant, and she has big plans to open an even better one. Then, all at once, progress on the new location bogs down, her charming ex-boyfriend pops up, her fling with another chef goes sour, and her best waitress gets badly hurt. And just like that, Katie’s life goes from pretty good to not so much. What she needs is a second chance. Everybody deserves one, after all—but they don’t come easy. Luckily for Katie, a mysterious girl appears in the middle of the night with simple instructions for a do-it-yourself do-over:
->  
+>
 > 1. Write your mistake
 > 2. Ingest one mushroom
 > 3. Go to sleep
 > 4. Wake anew
->  
+>
 > And just like that, all the bad stuff never happened, and Katie is given another chance to get things right. She’s also got a dresser drawer full of magical mushrooms—and an irresistible urge to make her life not just good, but perfect. Too bad it’s against the rules. But Katie doesn’t care about the rules—and she’s about to discover the unintended consequences of the best intentions.
->  
+>
 > From the mind and pen behind the acclaimed Scott Pilgrim series comes a madcap new tale of existential angst, everyday obstacles, young love, and ancient spirits that’s sharp-witted and tenderhearted, whimsical and wise.
 
 ## Movies
