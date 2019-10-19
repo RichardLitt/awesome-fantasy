@@ -549,7 +549,7 @@ Stephen King is as brilliant as he is prolific, having penned over fifty worldwi
 
 ### Children's Books
 
-#### [Dealing with Dragons](https://www.goodreads.com/book/show/150739.Dealing_with_Dragons) (year) *by [Patricia C. Wrede](https://en.wikipedia.org/wiki/Patricia_Wrede)* [4.15]
+#### [Dealing with Dragons](https://www.goodreads.com/book/show/150739.Dealing_with_Dragons)  *by [Patricia C. Wrede](https://en.wikipedia.org/wiki/Patricia_Wrede)* [4.15]
 
 Fell in love with this book when I first read it in 4th grade. I had always liked fairy tales, but this was the first I read that subverted the usual tropes. - [@konpyuta](https://github.com/konpyuta)
 
