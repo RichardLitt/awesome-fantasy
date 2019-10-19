@@ -549,6 +549,12 @@ Stephen King is as brilliant as he is prolific, having penned over fifty worldwi
 
 ### Children's Books
 
+#### [Dealing with Dragons](https://www.goodreads.com/book/show/150739.Dealing_with_Dragons)  *by [Patricia C. Wrede](https://en.wikipedia.org/wiki/Patricia_Wrede)* [4.15]
+
+Fell in love with this book when I first read it in 4th grade. I had always liked fairy tales, but this was the first I read that subverted the usual tropes. - [@konpyuta](https://github.com/konpyuta)
+
+> Cimorene is everything a princess is not supposed to be: headstrong, tomboyish, smart - and bored. So bored that she runs away to live with a dragon - and finds the family and excitement she's been looking for.
+
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
 
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
