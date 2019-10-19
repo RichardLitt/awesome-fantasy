@@ -604,6 +604,12 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
+#### [The Black Bull of Norroway](https://www.goodreads.com/book/show/39913349-the-black-bull-of-norroway) *by [Cat Seaton](https://www.goodreads.com/author/show/15307132.Cat_Seaton), [Kit Seaton](https://www.goodreads.com/author/show/7989199.Kit_Seaton)* [rating]
+
+Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity represented.  - [@konpyuta](https://github.com/konpyuta)
+
+> Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
+
 #### [Delilah Dirk and the Turkish Lieutenant](https://www.goodreads.com/book/show/17261174-delilah-dirk-and-the-turkish-lieutenant) *by [Tony Cliff](https://www.goodreads.com/author/show/4593587.Tony_Cliff)* [3.94]
 
 Great adventure with a strong female protagonist. In a historical-based setting with interesting fantasy elements interspersed with cultural details.  - [@konpyuta](https://github.com/konpyuta)
