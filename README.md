@@ -356,11 +356,11 @@ The first book in the Study series, Snyder does a great job of building the susp
 
 > Choose: A quick death…Or slow poison...
 
-About to be executed for murder, Yelena is offered an extraordinary reprieve. She'll eat the best meals, have rooms in the palace—and risk assassination by anyone trying to kill the Commander of Ixia.
+> About to be executed for murder, Yelena is offered an extraordinary reprieve. She'll eat the best meals, have rooms in the palace—and risk assassination by anyone trying to kill the Commander of Ixia.
 
-And so Yelena chooses to become a food taster. But the chief of security, leaving nothing to chance, deliberately feeds her Butterfly's Dust—and only by appearing for her daily antidote will she delay an agonizing death from the poison.
+> And so Yelena chooses to become a food taster. But the chief of security, leaving nothing to chance, deliberately feeds her Butterfly's Dust—and only by appearing for her daily antidote will she delay an agonizing death from the poison.
 
-As Yelena tries to escape her new dilemma, disasters keep mounting. Rebels plot to seize Ixia and Yelena develops magical powers she can't control. Her life is threatened again and choices must be made. But this time the outcomes aren't so clear...
+> As Yelena tries to escape her new dilemma, disasters keep mounting. Rebels plot to seize Ixia and Yelena develops magical powers she can't control. Her life is threatened again and choices must be made. But this time the outcomes aren't so clear...
 
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
