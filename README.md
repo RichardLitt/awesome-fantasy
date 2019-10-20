@@ -681,7 +681,7 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
-#### [Midnight in Paris] (https://www.imdb.com/title/tt1605783/) [7.7]
+#### [Midnight in Paris](https://www.imdb.com/title/tt1605783/) [7.7]
 This movie really captures the ways thinking of some writers who are always wondering how would it be if they lived in some other century. Besides, Owen Wilson killed it. - [@ErvinaDe](https://github.com/ErvinaDe)
 
 > While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.
@@ -758,7 +758,7 @@ The Originals may overwhelm casual viewers with its myriad twists and bevy of su
 
 > A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
 
-### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
 
 Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
