@@ -745,7 +745,10 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
  Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 > Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
+#### [Sword art Online](https://www.imdb.com/title/tt2250192/) [7.7]
+I think the concept,idea and the way the things progresses is great but it need kinda a more realistic theme rather than typical Hero-Winning Senario. At the end I guess it's all good. --[@Sourav Sharma](http://www.github.com/rockoking)
 
+> Sword art Online is one of the most awesome Anime Series on VMMORPG where players get entrapped in a game
 ---
 
 ## You got through the list and didn't find anything?

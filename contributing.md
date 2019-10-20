@@ -26,5 +26,4 @@ Commentary - [@you](https://github.com/you)
 - Make an individual pull request for each suggestion.
 - The pull request and commit should have a useful title.
 - Pull Requests without a personal comment will not be accepted until one is added.
-[Sword art Online](https://www.imdb.com/title/tt2250192/)(2012) * by [Reki Kawahara](https://en.wikipedia.org/wiki/Reki_Kawahara) *rating[7.7]
-Sword art Online is one of the most awesome Anime Series on VMMORPG where players get entrapped in a game. I think the concept,idea and the way the things progresses is great but it need kinda a more realistic theme rather than typical Hero-Winning Senario. At the end I guess it's all good. --[@Sourav Sharma](http://www.github.com/rockoking)
+
