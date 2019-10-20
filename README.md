@@ -604,10 +604,9 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
-
 #### [The Black Bull of Norroway](https://www.goodreads.com/book/show/39913349-the-black-bull-of-norroway) *by [Cat Seaton](https://www.goodreads.com/author/show/15307132.Cat_Seaton), [Kit Seaton](https://www.goodreads.com/author/show/7989199.Kit_Seaton)* [3.76]
 
-Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity represented.  - [@konpyuta](https://github.com/konpyuta)
+Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity represented. - [@konpyuta](https://github.com/konpyuta)
 
 > Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
 
