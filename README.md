@@ -488,6 +488,16 @@ A fantastic start to an amazing series. Schwab really knows how to 'set a scene'
 
 > Victor and Eli started out as college roommates—brilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong.
 
+#### [The Last Wish](https://www.goodreads.com/book/show/40603587-the-last-wish) (2008) *by [Andrzej Sapkowski](https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski)* [4.19]
+
+This is the first book that introduces you to Geralt, **The Witcher**. Yes, yes ... the same character you know from the famous computer games and from the upcoming Netflix series. A must read for anyone interrested in exploring the amazing world created by Andrzej Sapkowski in his novels. It is the fantasy you love: action, monsters, magic but also life, choices and emotions. A great literature for sure. Start with this book full of short but connected stories and then continue to the whole series about Geralt (has 5 books, starts with The Blood of Elves). - [@kotelko](https://github.com/kotelko)
+
+> Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. And a cold-blooded killer. His sole purpose: to destroy the monsters that plague the world. But not everything monstrous-looking is evil and not everything fair is good... and in every fairy tale there is a grain of truth.
+
+> A collection of short stories introducing Geralt of Rivia, to be followed by the first novel in the actual series, The Blood of Elves. Note that, while The Last Wish was published after The Sword of Destiny, the stories contained in The Last Wish take place first chronologically, and many of the individual stories were published before The Sword of Destiny.
+
+
+
 ### Allegory
 
 #### [The Chronicles of Narnia](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia) *by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*
@@ -775,6 +785,7 @@ Supernatural is somewhat endearing in that the main characters (the only ones wh
 If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline.  - [@Hazelnoot](https://github.com/hazelnoot)
 
 > The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
+
 
 ---
 
