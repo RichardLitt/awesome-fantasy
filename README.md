@@ -764,6 +764,12 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
 
 > An English combat nurse from 1945 is mysteriously swept back in time to 1743.
 
+#### [Sacred Games](https://www.imdb.com/title/tt6077448/)[8.8]
+
+Sacred Games is a unique blend of crime and mystery starring Saif Ali Khan in the lead role.A lucid series that brings a sense of mystery to its viewers. -[@Ankugolu](https://github.com/ankugolu)
+
+> A honest cop who needs to save his city from a threat which is going to happen in 25 days.
+
 #### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
 
 Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
