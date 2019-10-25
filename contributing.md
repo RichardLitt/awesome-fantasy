@@ -10,9 +10,9 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format:
 
 ```
-[title](link) (year) *by [author](link)* [rating]
+[BLack panther](https://www.imdb.com/title/tt1825683/?ref_=nv_sr_1?ref_=nv_sr_1) (2018) *by [Ryan Coogler](https://es.wikipedia.org/wiki/Ryan_Coogler)* [80/100]
 
-Commentary - [@you](https://github.com/you)
+Such a great movie that bring to the superheroes films the aprhoamerican's conflicts in an amazing fantasy action movie - [Andres Delgado](https://github.com/Abathar)
 
 > Description
 ```
