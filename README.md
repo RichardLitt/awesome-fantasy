@@ -639,6 +639,12 @@ A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some fe
 
 > A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
 
+#### [The Matrix](https://www.imdb.com/title/tt0133093/) [8.7]
+
+One of the best sci-fi movies ever made influencing both the cinema industry and the computer entertainment industry and changing perspective of reality.  - [@bhaveshgoel07](https://github.com/bhaveshgoel07)
+
+> A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
 #### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
 
 A brilliant fantasy movie. Underrated. - [@ErvinaDe](https://github.com/ErvinaDe)
