@@ -645,6 +645,12 @@ A brilliant fantasy movie. Underrated. - [@ErvinaDe](https://github.com/ErvinaDe
 
 > A young boy attempts to convince a woman that he is her dead husband reborn.
 
+#### [Looper](https://www.imdb.com/title/tt1276104/) [7.4]
+
+A time travel movie. - [@bhaveshgoel07](https://github.com/bhaveshgoel07)
+
+> In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.
+
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
 Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](https://github.com/RichardLitt)
