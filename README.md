@@ -704,6 +704,12 @@ A beautifully drawn and wonderfully composed work of art - really, no other desc
 
 > During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
+#### [How to Train Your Dragon: The Hidden World ](https://www.imdb.com/title/tt2386490/) [7.5]
+
+An beautifully directed animated fantasy film for the vision of creating a peaceful dragon utopia and letting the dragons in true freedom. - [@sanchittechnogeek](https://github.com/sanchittechnogeek)
+
+> When Hiccup discovers Toothless isn't the only Night Fury, he must seek "The Hidden World", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.
+
 #### The Lord of the Rings
 
 Fantastic films. If you're reading this list, you've probably already seen them. - [@RichardLitt](https://github.com/RichardLitt)
