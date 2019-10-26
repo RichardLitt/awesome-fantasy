@@ -521,6 +521,16 @@ You know, this is still a pretty good read even if you're not a Christian. Chris
 
 >This work is written in the King James/ Shakespearean/ Old English language. It is the story of a man becoming saved and his dangerous and challenging journey to the Celestial City.
 
+
+#### [The Nightingale](https://www.goodreads.com/book/show/21853621-the-nightingale)(2015) *by [Kristin Hannah](https://www.goodreads.com/author/show/54493.Kristin_Hannah)* [4.57]
+
+This book is an homage to the extraordinary courage and endurance of All the strong women in my Life.
+-[@AnanthuAjay](https://github.com/AnanthuAjay)
+
+>France, 1939
+In the quiet village of Carriveau, Vianne Mauriac says goodbye to her husband, Antoine, as he heads for the Front. She doesn’t believe that the Nazis will invade France...but invade they do, in droves of marching soldiers, in caravans of trucks and tanks, in planes that fill the skies and drop bombs upon the innocent. When France is overrun, Vianne is forced to take an enemy into her house, and suddenly her every move is watched; her life and her child’s life is at constant risk. Without food or money or hope, as danger escalates around her, she must make one terrible choice after another.
+Vianne’s sister, Isabelle, is a rebellious eighteen-year-old girl, searching for purpose with all the reckless passion of youth. While thousands of Parisians march into the unknown terrors of war, she meets the compelling and mysterious Gäetan, a partisan who believes the French can fight the Nazis from within France, and she falls in love as only the young can...completely. When he betrays her, Isabelle races headlong into danger and joins the Resistance, never looking back or giving a thought to the real--and deadly--consequences. 
+
 ### Satire
 
 #### [Discworld](https://en.wikipedia.org/wiki/Discworld) *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
@@ -786,3 +796,6 @@ Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+
+
+
