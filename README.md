@@ -18,6 +18,8 @@
 - [Comic books](#comic-books)
 - [Movies](#movies)
 - [TV Series](#tv-series)
+- [SCIENCE](#science)
+    -[Physics](#physics)
 
 ## Novels
 
@@ -775,6 +777,17 @@ Supernatural is somewhat endearing in that the main characters (the only ones wh
 If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline.  - [@Hazelnoot](https://github.com/hazelnoot)
 
 > The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
+
+## SCIENCE
+
+### Physics
+
+#### [A Brief history of time](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)(1988) *by [Stephen William Hawking](https://www.goodreads.com/author/show/1401.Stephen_Hawking)[4.17]
+This great award winning book is not only for Atheists and Scientists, but is for anyone that has the passion for science in physics and cosmology to be specific. It will help you understand what time and space is and a detail on how it all began. -
+[@SamWaku](https://github.com/SamWaku)
+
+> In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.
+
 
 ---
 
