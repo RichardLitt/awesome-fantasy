@@ -63,7 +63,7 @@ There is so much good writing, so many beautiful places, that it is almost impos
 
 > Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
-####[The Gunslinger](https://www.goodreads.com/book/show/43615.The_Gunslinger) *by [Stephen King](https://www.goodreads.com/author/show/3389.Stephen_King)
+#### [The Gunslinger](https://www.goodreads.com/book/show/43615.The_Gunslinger) *by [Stephen King](https://www.goodreads.com/author/show/3389.Stephen_King)
 
 In the first book of this brilliant series, Stephen King introduces readers to one of his most enigmatic heroes, Roland of Gilead, The Last Gunslinger. He is a haunting figure, a loner on a spellbinding journey into good and evil. In his desolate world, which frighteningly mirrors our own, Roland pursues The Man in Black, encounters an alluring woman named Alice, and begins a friendship with the Kid from Earth called Jake. Both grippingly realistic and eerily dreamlike, The Gunslinger leaves readers eagerly awaiting the next chapter.
 
