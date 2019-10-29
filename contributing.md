@@ -10,12 +10,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format:
 
 ```
-[title](link) (year) *by [author](link)* [rating]
+[Merlin](https://www.imdb.com/title/tt1199099/?ref_=nv_sr_1?ref_=nv_sr_1) (2009-2013) [7.9]
 
-Commentary - [@you](https://github.com/you)
+Great adventure series, with great characters and not so great special effects. It's worth at least a try. - [@you](https://github.com/you)
 
 > Description
-```
+These are the brand new adventures of Merlin, the legendary sorcerer as a young man, when he was just a servant to young Prince Arthur on the royal court of Camelot, who has soon become his best friend, and turned Arthur into a great king and a legend.
 
 - Check your spelling and grammar.
 - Please add the entry in the correct section, in alphabetical order.
