@@ -377,6 +377,12 @@ Some of the best short stories I have ever read; The Library is my favourite of 
 
 > The seventeen pieces in Ficciones demonstrate the whirlwind of Borges' genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
 
+#### [The Fold](https://www.goodreads.com/book/show/23164927-the-fold) (2015) *by [Peter Clines](https://en.wikipedia.org/wiki/Peter_Clines)* [3.85]
+
+A great page turning story with an interesting plot and is a quick read. This book is a mix of sci-fi and horror. The machines ability to travel into different dimensions is neat. - [@adrude](https://github.com/adrude)
+
+> A cunningly inventive mystery featuring a hero worthy of Sherlock Holmes and a terrifying final twist you’ll never see coming, The Fold is that rarest of things: a genuinely page-turning science-fiction thriller. Step inside its pages and learn why author Peter Clines has already won legions of loyal fans.
+
 #### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) *by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)* [4.14]
 
 The first book in the Study series, Snyder does a great job of building the suspense throughout the novel because at the start Yelena gets poisoned and you think she'll die and it carries on throughout the book. I enjoyed how Yelena's magic trickles throughout the story and the reader doesn't find out too much at the beginning. - [@louisefindlay23](https://github.com/louisefindlay23)
