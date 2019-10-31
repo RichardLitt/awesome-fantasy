@@ -442,6 +442,12 @@ This book takes a while to ramp up, but if you can get through the (intentionall
 >
 > Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
+#### [The Inheritance Cycle](https://www.goodreads.com/book/show/10859323-inheritance-cycle-4-book-hard-cover-boxed-set-eragon-eldest-brisingr) (2011) *by [ Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)* [4.5] :fire:
+
+This is a set of very well planned fantasy with explanations of how magic works in this universe. Among the best fantasy series ever! - [@girish1m] (https://github.com/girish1m)
+
+> The Inheritance Cycle is a tetralogy of young adult high fantasy novels written by American author Christopher Paolini. Set in the fictional world of Alagaësia (/æləˈɡeɪziə/), the novels focus on the adventures of a teenage boy named Eragon and his dragon, Saphira, as they struggle to overthrow the evil king Galbatorix.
+
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by [Lord Dunsanay](https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany)* [3.8]
 
 Read this if you want to go on an acid trip and if you want to see the roots of modern fantasy. - [@RichardLitt](https://github.com/RichardLitt)
