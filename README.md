@@ -476,6 +476,14 @@ These were beautiful, finely crafted short stories. Rarely for me, I read a few 
 
 > Orsinia ... a land of medieval forests, stonewalled cities, and railways reaching into the mountains where the old gods dwell. A country where life is harsh, dreams are gentle, and people feel torn by powerful forces and fight to remain whole. In this enchanting collection, Ursula K. Le Guin brings to mainstream fiction the same compelling mastery of word and deed, of story and character, of violence and love, that has won her the Pushcart Prize, and the Kafka and National Book Awards.
 
+#### [The Rithmatist](https://www.goodreads.com/book/show/22443261-the-rithmatist) *by [ Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.3]
+
+Amazing concept related to a chalk figure universe. Brandon Sanderson is uniquely talented at universe creation! - [@girish1m] (https://github.com/girish1m)
+
+> More than anything, Joel wants to be a Rithmatist. Rithmatists have the power to infuse life into two-dimensional figures known as Chalklings. Rithmatists are humanity’s only defense against the Wild Chalklings. Having nearly overrun the territory of Nebrask, the Wild Chalklings now threaten all of the American Isles. As the son of a lowly chalkmaker at Armedius Academy, Joel can only watch as Rithmatist students learn the magical art that he would do anything to practice. Then students start disappearing—kidnapped from their rooms at night, leaving trails of blood. Assigned to help the professor who is investigating the crimes, Joel and his friend Melody find themselves on the trail of an unexpected discovery—one that will change Rithmatics—and their world—forever.
+
+
+
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.0]
 
 Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
