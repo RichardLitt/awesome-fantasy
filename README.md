@@ -476,13 +476,17 @@ These were beautiful, finely crafted short stories. Rarely for me, I read a few 
 
 > Orsinia ... a land of medieval forests, stonewalled cities, and railways reaching into the mountains where the old gods dwell. A country where life is harsh, dreams are gentle, and people feel torn by powerful forces and fight to remain whole. In this enchanting collection, Ursula K. Le Guin brings to mainstream fiction the same compelling mastery of word and deed, of story and character, of violence and love, that has won her the Pushcart Prize, and the Kafka and National Book Awards.
 
+#### [The Night Circus](https://www.goodreads.com/book/show/9361589-the-night-circus) *by [Erin Morgenstern](https://en.wikipedia.org/wiki/Erin_Morgenstern)* [4.0]
+
+While the story is a bit slow, the imagery is superb! - [@girish1m] (https://github.com/girish1m)
+
+> The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night. But behind the scenes, a fierce competition is underway—a duel between two young magicians, Celia and Marco, who have been trained since childhood expressly for this purpose by their mercurial instructors. Unbeknownst to them, this is a game in which only one can be left standing, and the circus is but the stage for a remarkable battle of imagination and will. Despite themselves, however, Celia and Marco tumble headfirst into love—a deep, magical love that makes the lights flicker and the room grow warm whenever they so much as brush hands. True love or not, the game must play out, and the fates of everyone involved, from the cast of extraordinary circus performers to the patrons, hang in the balance, suspended as precariously as the daring acrobats overhead. Written in rich, seductive prose, this spell-casting novel is a feast for the senses and the heart.
+
 #### [The Rithmatist](https://www.goodreads.com/book/show/22443261-the-rithmatist) *by [ Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.3]
 
 Amazing concept related to a chalk figure universe. Brandon Sanderson is uniquely talented at universe creation! - [@girish1m] (https://github.com/girish1m)
 
 > More than anything, Joel wants to be a Rithmatist. Rithmatists have the power to infuse life into two-dimensional figures known as Chalklings. Rithmatists are humanity’s only defense against the Wild Chalklings. Having nearly overrun the territory of Nebrask, the Wild Chalklings now threaten all of the American Isles. As the son of a lowly chalkmaker at Armedius Academy, Joel can only watch as Rithmatist students learn the magical art that he would do anything to practice. Then students start disappearing—kidnapped from their rooms at night, leaving trails of blood. Assigned to help the professor who is investigating the crimes, Joel and his friend Melody find themselves on the trail of an unexpected discovery—one that will change Rithmatics—and their world—forever.
-
-
 
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [4.0]
 
