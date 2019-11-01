@@ -776,6 +776,11 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 
 > The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
 
+####[Buffy the Vampire Slayer](https://www.imdb.com/title/tt0118276/) (1997-2003) [8.2]
+
+The best and funniest show you could ever hope for involving vampires, the undead and slayers.  - [@mlosa001](https://github.com/mlosa001)
+
+> We follow the adventures of "the chosen one" and her gang of friends as they fight to defeat the forces of evil that lurk in their hometown, conveniently located at the Hellmouth.
 ---
 
 ## You got through the list and didn't find anything?
