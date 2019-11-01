@@ -786,3 +786,9 @@ Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+
+#### [Mr. Sunshine] (https://www.imdb.com/title/tt7094780/?ref_=ttpl_pl_tt) (2018) [8.8]
+
+If you like a good Asian show that has action, romance, and laughter all in one than this T.V. show is something you'd enjoy. It's a very well written show with amazing actors and it gives a good in-depth history of how they lived during the Joseon Dynasty in Korea around 1871. - [@Lauren2590](https://github.com/Lauren2590)
+
+> Mr. Sunshine centers on a young boy who is born into slavery but after a traumatic event escapes to the United States during the 1871 Shinmiyangyo (U.S. expedition to Korea). He returns to Joseon later as a United States Marine Corps officer. He meets and falls in love with an aristocrat's daughter. At the same time, he discovers a plot by foreign forces to colonize Korea.
