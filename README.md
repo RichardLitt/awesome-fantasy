@@ -562,6 +562,14 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 >What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
 
+#### [Hold Me Closer Necromancer](https://www.goodreads.com/book/show/8041873-hold-me-closer-necromancer?ac=1&from_search=true) (2010) *by [Lish McBride] (https://www.goodreads.com/author/show/3484883.Lish_McBride)* [3.93]
+
+Hold Me Closer Necromancer is a hilarious underdog story about life, death, werewolves, and fast food. - [@Helen-C](https://github.com/helen-c)
+
+>This is the first in the Necromancer series, the second being "Necromancing the Stone". My biggest issue with this series is that we never got a third book. Sam Lacroix doesn't know where he's going in his life, and like most 20 somethings feels pretty aimless. One day while on the job at a burger spot he finds out he's a necromancer, and gets thrown into a whole other world while at the same time uncovering all of the fantastical things that have already been surrounding him. If you like magic,fried food, the undead, and big foot- I highly recommend this series.
+
+
+
 ### Horror
 
 #### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) *by [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)* [4.3]
