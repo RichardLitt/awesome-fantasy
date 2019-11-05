@@ -488,6 +488,22 @@ A fantastic start to an amazing series. Schwab really knows how to 'set a scene'
 
 > Victor and Eli started out as college roommates—brilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong.
 
+#### [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) *by [Andrzej Sapkowski](https://en.wikipedia.org/wiki/Andrzej_Sapkowski)*
+
+Great books especially if you like folklore of Central Europe or you played Witcher 3 video game or want to read it before watching the Netflix show. - [@hercegtomas](https://github.com/hercegtomas)
+
+> Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. And a cold-blooded killer. His sole purpose: to destroy the monsters that plague the world. But not everything monstrous-looking is evil and not everything fair is good... and in every fairy tale there is a grain of truth.
+
+Books:
+ * [The Last Wish](https://www.goodreads.com/book/show/40603587-the-last-wish) [4.19] :fire:
+ * [Sword of Destiny](https://www.goodreads.com/hr/book/show/24709918-sword-of-destiny) [4.36]
+ * [Blood of Elves](https://www.goodreads.com/book/show/6043781-blood-of-elves) [4.18]
+ * [Time of Contempt](https://www.goodreads.com/sl/book/show/18924206-the-time-of-contempt) [4.27]
+ * [Baptism of Fire](https://www.goodreads.com/nl/book/show/26080167-baptism-of-fire) [4.35]
+ * [The Tower of the Swallow](https://www.goodreads.com/book/show/30079689-the-tower-of-swallows) [4.32]
+ * [The Lady of the Lake](https://www.goodreads.com/hu/book/show/32841081-lady-of-the-lake) [4.25]
+ * [Season of Storms](https://www.goodreads.com/lt/book/show/36099978-season-of-storms) [3.94]
+
 ### Allegory
 
 #### [The Chronicles of Narnia](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia) *by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*
