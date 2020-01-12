@@ -762,6 +762,12 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 
 > In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
 
+#### [Breaking Bad](https://www.imdb.com/title/tt0903747/) [9.5]
+
+One of the best tv series i have ever watched. It is now available on netflix too. so well, netflix and chill. - [@anshgit101](https://github.com/anshgit101)
+
+> A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.
+
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
