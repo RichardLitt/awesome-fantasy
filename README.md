@@ -580,6 +580,16 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 ### Horror
 
+#### [And then there were none](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None) *by [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)* [4.26]
+
+This is a classic thriller murder mystery novel. It always has the reader on his/her toes. The drama and the suspence ,of who the actual murder is, is handled amazingly. - [@jaywantpatel](https://github.com/jaywantpatel)
+
+First, there were ten—a curious assortment of strangers summoned as weekend guests to a little private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal—and a secret that will seal their fate. For each has been marked for murder. A famous nursery rhyme is framed and hung in every room of the mansion:
+
+"Ten little boys went out to dine; One choked his little self and then there were nine. Nine little boys sat up very late; One overslept himself and then there were eight. Eight little boys traveling in Devon; One said he'd stay there then there were seven. Seven little boys chopping up sticks; One chopped himself in half and then there were six. Six little boys playing with a hive; A bumblebee stung one and then there were five. Five little boys going in for law; One got in Chancery and then there were four. Four little boys going out to sea; A red herring swallowed one and then there were three. Three little boys walking in the zoo; A big bear hugged one and then there were two. Two little boys sitting in the sun; One got frizzled up and then there was one. One little boy left all alone; He went out and hanged himself and then there were none."
+
+When they realize that murders are occurring as described in the rhyme, terror mounts. One by one they fall prey. Before the weekend is out, there will be none. Who has choreographed this dastardly scheme? And who will be left to tell the tale? Only the dead are above suspicion.
+
 #### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) *by [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)* [4.3]
 
 Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire sub-genre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
