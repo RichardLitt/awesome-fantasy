@@ -798,6 +798,12 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 
 > The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
 
+#### [The Witcher](https://www.imdb.com/title/tt5180504/) (2019-ongoing) [8.3]
+
+The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
+
+> Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
+
 ---
 
 ## You got through the list and didn't find anything?
