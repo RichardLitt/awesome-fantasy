@@ -395,6 +395,17 @@ This book inspired me at the age of 14 to get a tattoo I ended up getting 7 year
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
+#### [The Wool Trilogy](https://www.goodreads.com/book/show/20745447-the-wool-trilogy) (2013) *by [Hugh Howey](https://en.wikipedia.org/wiki/Hugh_Howey) [4.34]
+
+This serie has been an amazing companion for some time, with vibrating caracters and a great rythm. The organization of the silo is fascinating and the story keeps so many surprises I never grew bored. This is everything you need in a trilogy to face a quarantine time!
+
+> In a ruined and hostile landscape, in a future few have been unlucky enough to survive, a community exists in a giant underground silo. Jules is part of this community, but she is different. She dares to hope. And as her walls start closing in, she must decide whether to fight, or to die.
+
+Books :
+* [Wool](https://www.goodreads.com/book/show/12287209-wool)
+* [Shift](https://www.goodreads.com/book/show/17306293-shift)
+* [Dust](https://www.goodreads.com/book/show/17855756-dust)
+
 #### [The Gentleman Bastards Series](https://www.goodreads.com/series/43531-gentleman-bastard) (2006) *by [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch)* [4.25]
 
 This series has an ingenious narrative, set in a world of intrigue, blades in the night, camaraderie between brothers, bloodthirsty monarchs, tight-fisted crime lords, and honor amongst thieves. The Gentleman Bastards will keep you guessing, and as soon as you think you understand what's happening, they'll steal the floor out from under you and leave you dangling off the side of an Elderglass tower. If you like rogues, heists, magic, or deception, this series will keep you guessing until the last page, and after. - [@dgpalmieri](https://github.com/dgpalmieri)
