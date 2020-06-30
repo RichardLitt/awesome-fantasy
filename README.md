@@ -79,7 +79,7 @@ Books:
 
 #### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) *by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)* [3.98]
 
-My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
+My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita](https://github.com/AmandaPita)
 
 Books:
 
@@ -159,6 +159,60 @@ Books:
 1. [The Hundred Thousand Kingdoms](http://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) [4.2]
 
 >The first novel centers around Yeine a Darr woman who has been called back to the city Sky for reasons unbeknown to her. The current leader of Sky, who also rules the world at large, is nearing the end of his life and, in true Arameri fashion, makes a game of his succession. Yeine is soon caught up in schemes that she does not fully understand, involving gods she cannot fully comprehend. She must sift through lies and half-truths she is told to try and uncover what is really going on in the capital of the world, all the while trying to navigate a fragile and deceptive political atmosphere. The story is told from the first-person viewpoint of the main protagonist, Yeine. It's written as a retelling of a story, where she is walking you through her time in Sky and all the events that lead up to the climax of the story. The story does seems to jump around quite a bit without becoming confusing.
+
+#### [The Inheritance Cycle](https://en.wikipedia.org/wiki/The_Inheritance_Cycle) *by [Christopher James Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)*
+
+High fantasy novel centered around the downfall of a mad tyrant king, hard magic system, multiple unique fictional languages, dragon riders I.e: everything I love. Not to mention, there is a great audio book version read by Gerard Doyle on Audible. - [@TheStraying11](https://github.com/TheStraying11/) 
+
+Books:
+
+1. [Eragon](https://www.goodreads.com/book/show/113436.Eragon?from_search=true&from_srp=true&qid=9fR1LKroIH&rank=1) [3.9]
+
+	>One boy...
+	>
+	>One dragon...
+	>
+	>A world of adventure.
+	>
+	>When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself.
+	>
+	>Overnight his simple life is shattered, and he is thrust into a perilous new world of destiny, magic, and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds.
+	>
+	>Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands. 
+
+2. [Eldest](https://www.goodreads.com/book/show/45978.Eldest) [3.99]
+
+	>Darkness falls... despair abounds... evil reigns... Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire. Now Eragon must travel to Ellesmera, land of the elves, for further training in the skills of the Dragon Rider. Ages 12+.
+	>
+	>Darkness falls... despair abounds... evil reigns...
+	>
+	>Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire. Now Eragon must travel to Ellesmera, land of the elves, for further training in the skills of the Dragon Rider: magic and swordsmanship. Soon he is on the journey of a lifetime, his eyes open to awe-inspring new places and people, his days filled with fresh adventure. But chaos and betrayal plague him at every turn, and nothing is what it seems. Before long, Eragon doesn't know whom he can trust.
+	>
+	>Meanwhile, his cousin Roran must fight a new battle–one that might put Eragon in even graver danger.
+	>
+	>Will the king's dark hand strangle all resistance? Eragon may not escape with even his life... 
+
+3. [Brisingr](https://www.goodreads.com/book/show/2248573.Brisingr) [4.06]
+
+	>Oaths sworn... loyalties tested... forces collide.
+	>
+	>It's been only months since Eragon first uttered "brisingr", an ancient language term for fire. Since then, he's not only learned to create magic with words — he's been challenged to his very core. Following the colossal battle against the Empires warriors on the Burning Plains, Eragon and his dragon, Saphira, have narrowly escaped with their lives. Still, there is more adventure at hand for the Rider and his dragon, as Eragon finds himself bound by a tangle of promises he may not be able to keep.
+	>
+	>First is Eragon's oath to his cousin, Roran: to help rescue Roran's beloved from King Galbatorix's clutches. But Eragon owes his loyalty to others, too. The Varden are in desperate need of his talents and strength — as are the elves and dwarves. When unrest claims the rebels and danger strikes from every corner, Eragon must make choices — choices that will take him across the Empire and beyond, choices that may lead to unimagined sacrifice.
+	>
+	>Eragon is the greatest hope to rid the land of tyranny. Can this once simple farm boy unite the rebel forces and defeat the king?
+
+4. [Inheritance](https://www.goodreads.com/book/show/7664041-inheritance) [4.11]
+
+	>It began with Eragon... It ends with Inheritance.
+	>
+	>Not so very long ago, Eragon — Shadeslayer, Dragon Rider — was nothing more than a poor farm boy, and his dragon, Saphira, only a blue stone in the forest. Now the fate of an entire civilization rests on their shoulders.
+	>
+	>Long months of training and battle have brought victories and hope, but they have also brought heartbreaking loss. And still, the real battle lies ahead: they must confront Galbatorix. When they do, they will have to be strong enough to defeat him. And if they cannot, no one can. There will be no second chance.
+	>
+	>The Rider and his dragon have come further than anyone dared to hope. But can they topple the evil king and restore justice to Alagaësia? And if so, at what cost?
+	>
+	>This is the spellbinding conclusion to Christopher Paolini's worldwide bestselling Inheritance cycle.
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) *by [Patrick Rothfuss](https://en.wikipedia.org/wiki/Patrick_Rothfuss)*
 
