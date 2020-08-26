@@ -518,6 +518,12 @@ Books:
  * [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) :star2: :fire:
  * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) :star2: :fire:
  * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) :star2: :fire:
+ 
+ #### [Kafka On the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore) *by [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)* [4.1]
+
+This book is a metaphor. It is poignant, magical and somewhat weird. If you want to get swept away and really dive into a story, stop whatever you are doing and find a way to get your hands on a copy of this book. This is a story of a young man who is discovering himself where he meets a lot of people and expereinces different feelings altogether.Reality almost seems sterile when we immerse ourselves in this book. It a must read book for fantasy lovers. - [@NehaChaudhary311](https://github.com/NehaChaudhary311)
+
+> This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
 
 #### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [3.9]
 
