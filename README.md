@@ -31,7 +31,7 @@ _The [number] at the end is the rounded version of the rating on Goodreads. If a
 
 #### [The Belgariad](https://www.goodreads.com/book/show/44660.The_Belgariad_Boxed_Set?ac=1&from_search=true&qid=wv9xaSskqn&rank=3) _by [David Eddings](https://en.wikipedia.org/wiki/David_Eddings)_ [4.3] :star2:
 
-The Belgariad was my first foray into an epic series and I was hooked from the start because of the characters, humor, and adventure created by David and Leigh Eddings. The series starts with Pawn of Prophecy and spans a total of 16 novels each as well developed as the one before. Inspired by the continued printing of Lord of the Rings, Eddings created the Belgariad as a trilogy, but was eventually convinced by the publisher to print it as a series of five books. The story continues on in the equally as developed 5-book series known as the [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). [@codercarly](https://github.com/codercarly)
+The Belgariad was my first foray into an epic series and I was hooked from the start because of the characters, humor, and adventure created by David and Leigh Eddings. The series starts with Pawn of Prophecy and spans a total of 16 novels each as well developed as the one before. Inspired by the continued printing of Lord of the Rings, Eddings created the Belgariad as a trilogy, but was eventually convinced by the publisher to print it as a series of five books. The story continues on in the equally as developed 5-book series known as the [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). - [@codercarly](https://github.com/codercarly)
 
 Books:
 
