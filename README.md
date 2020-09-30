@@ -786,6 +786,13 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
 
 > An English combat nurse from 1945 is mysteriously swept back in time to 1743.
 
+####[Silicon Valley](https://www.imdb.com/title/tt2575988/) (2014-2019) [8.5]
+
+Silicon valley is a TV series which showcases the story of a Tech-startup. The show is really hilarious and well written you can find humour in every dialogue, its storyline keeps you engaged and also teaches you few things about startups. A must watch show for Tech savvy and Entrepreneurial person.    - [@ManasSharma](https://github.com/Manas-E)
+
+> Follows the struggle of Richard Hendricks, a Silicon Valley engineer trying to build his own company called Pied Piper.
+
+
 #### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
 
 Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
