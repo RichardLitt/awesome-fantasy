@@ -738,6 +738,12 @@ A beautifully drawn and wonderfully composed work of art - really, no other desc
 
 > During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
+####  [Terminator 2: Judgement Day]( https://www.imdb.com/title/tt0103064)(1991) [8.5]
+
+This is the second installment of the science fiction/horror movie series starring Arnold Schwarzenegger as “The Terminator”.  Rarely is a sequel better than the original; I think this is an example of just that.  Special effects technology evolved quite a bit over the seven years that passed after the original.  The storyline itself is decent as well as a continuation a number of years after the first.  -  [@TheByteStuff]( https://github.com/TheByteStuff)
+
+> A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.
+
 #### The Lord of the Rings
 
 Fantastic films. If you're reading this list, you've probably already seen them. - [@RichardLitt](https://github.com/RichardLitt)
