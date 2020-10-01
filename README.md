@@ -778,6 +778,12 @@ The fate of the world does not really hang in balance, contrary to what the movi
 
 > Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.
 
+####  [Total Recall]( https://www.imdb.com/title/tt0100802)(1990) [7.5]
+
+Another typical action/science fiction genre movie starring  Arnold Schwarzenegger.  This one features the ability to have virtual memories planted (or erased) and leads the main character Quaid, played by Arnold, to travel to Mars to search for the truth. - [@TheByteStuff]( https://github.com/TheByteStuff)
+
+> When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?
+
 #### [Princess Mononoke](https://www.imdb.com/title/tt0119698/) [8.4]
 
 Beautiful and stunning film with strong female characters. Even if you're not familiar with Japanese animation movies, I'm sure you will enjoy this one. - [@maysaborges](https://github.com/maysaborges)
