@@ -130,7 +130,7 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
-#### [The First Law](https://en.wikipedia.org/wiki/The_First_Law) (2006) *by [Joe Abercrombie](https://en.wikipedia.org/wiki/Joe_Abercrombie)* [4.2] :fire:
+#### [The First Law Trilogy](https://en.wikipedia.org/wiki/The_First_Law) (2006) *by [Joe Abercrombie](https://en.wikipedia.org/wiki/Joe_Abercrombie)* [4.2] :fire:
 
 The First Law is a grimdark epic fantasy trilogy that is very character driven. The characters in this book are not particularly *likable* but despite that I found them all very lovable. The first book is a slow burn, and for a time I wasn't sure I would continue, but by the time I was half way I realised I loved seeing these characters go through their hardships, and on their adventures. This is the kind of series you feel sad about finishing because you want to spend more time with these characters. Fortunately there are standalone books and a second trilogy to read if you enjoy the original trilogy!
 
