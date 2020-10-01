@@ -29,24 +29,6 @@
 
 ### Epic Fantasy
 
-#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] :fire:
-
-Incredibly detailed books, with a very realistic world. I can't get enough of it. Awesome in the scale and breadth of intricacy. - [@RichardLitt](https://github.com/RichardLitt)
-
-Books:
- * [A Game of Thrones](http://www.goodreads.com/book/show/13496.A_Game_of_Thrones) :fire:
- * [A Clash of Kings](http://www.goodreads.com/book/show/10572.A_Clash_of_Kings) :fire:
- * [A Storm of Swords](http://www.goodreads.com/book/show/62291.A_Storm_of_Swords) :fire:
- * [A Feast for Crows](http://www.goodreads.com/book/show/13497.A_Feast_for_Crows) :fire:
- * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) :fire:
- * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
-
-> Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
->  
-> As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.
->  
-> The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
-
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
@@ -64,12 +46,22 @@ Books:
 The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion a history. This is one of the few novels, a story that shows the life of a tortured individual. This story borrows heavily from Scandinavian lore, and presents Turin as one of the most tragic of all of Tolkien's creations. It is my favourite story from all of his books, and I think it has the most advanced and beautiful look into the world of Middle Earth as a whole. - [@RichardLitt](https://github.com/RichardLitt)
 
 > There are tales of Middle-earth from times long before The Lord of the Rings, and the story told in this book is set in the great country that lay beyond the Grey Havens in the West: lands where Treebeard once walked, but which were drowned in the great cataclysm that ended the First Age of the World.
-> 
+>
 > In that remote time Morgoth, the first Dark Lord, dwelt in the vast fortress of Angband, the Hells of Iron, in the North; and the tragedy of Túrin and his sister Nienor unfolded within the shadow of the fear of Angband and the war waged by Morgoth against the lands and secret cities of the Elves.
-> 
+>
 > Their brief and passionate lives were dominated by the elemental hatred that Morgoth bore them as the children of Húrin, the man who had dared to defy and to scorn him to his face. Against them he sent his most formidable servant, Glaurung, a powerful spirit in the form of a huge wingless dragon of fire. Into this story of brutal conquest and flight, of forest hiding-places and pursuit, of resistance with lessening hope, the Dark Lord and the Dragon enter in direly articulate form. Sardonic and mocking, Glaurung manipulated the fates of Túrin and Nienor by lies of diabolic cunning and guile, and the curse of Morgoth was fulfilled.
-> 
+>
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
+
+#### [The Chronicles of Amber](https://www.goodreads.com/book/show/5367.The_Great_Book_of_Amber) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.3]
+
+In truth, this is ten books, but they aren't stand-alone. I would call this two series: the Corwin series of the first five books, and the Merlin series of the second.
+
+Like most high fantasy, I didn't so much read these books as devour them. The series was excellent. Corwin's story is the story within all of us; a desire to be loved, to make sense of the world, to win back the castle from the evil usurper. Amber - the city upon which all other cities are but a shadow. Like CS Lewis, this earth is only a shadow of the real earth. Corwin is one of my favourite characters from a fantasy series; it's not often that you get to talk to someone who was a soldier in Napolean's army, who knew Van Gogh, who remembers Paris at the turn of the century (his section on the chestnuts is exquisite).
+
+There is so much good writing, so many beautiful places, that it is almost impossible to remember it all. Reading this book wasn't so much reading as being transported to faery for a day. I remember feeling totally at a loss after reading one afternoon, as if I had been transported; the next day, on top of a mountain, I had the exact same feeling, that I was somewhere else. Reading these books gave me the greatest joy that a book can give - being lost in another world. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) *by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)* [4.3]
 
@@ -84,6 +76,23 @@ Books:
 * [Oath of Gold](https://www.goodreads.com/book/show/17316.Oath_of_Gold)
 
 > Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
+
+#### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) *by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)* [3.98]
+
+My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
+
+Books:
+
+* [The Forests of Silence](https://www.goodreads.com/book/show/155238.The_Forests_of_Silence)
+* [The Lake of Tears](https://www.goodreads.com/book/show/119494.The_Lake_of_Tears)
+* [City of the Rats](https://www.goodreads.com/book/show/119493.City_of_the_Rats)
+* [The Shifting Sands](https://www.goodreads.com/book/show/119490.The_Shifting_Sands)
+* [Dread Mountain](https://www.goodreads.com/book/show/119495.Dread_Mountain)
+* [The Maze of the Beast](https://www.goodreads.com/book/show/119489.The_Maze_of_the_Beast)
+* [The Valley of the Lost](https://www.goodreads.com/book/show/119492.The_Valley_of_the_Lost)
+* [Return to Del](https://www.goodreads.com/book/show/119491.Return_to_Del)
+
+> For centuries, the evil Shadow Lord has been plotting to invade Deltora and enslave its people. All that stands in his way is the magic Belt of Deltora with its seven gems of great and mysterious power. Now, Leif, Barda, and Jasmine must unite to find the seven gems and save Deltora from an eternity of darkness.
 
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)*
 
@@ -136,9 +145,9 @@ Books:
 7. [Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) [4.6]
 
 > The novels revolve around Harry Potter, an orphan who discovers at the age of 11 that he is a wizard, who lives within the ordinary world of non-magical people, known as Muggles. The wizarding world is secret from the Muggle world, presumably to avoid persecution of witches and wizards. His ability is inborn, and such children are invited to attend an exclusive magic school that teaches the necessary skills to succeed in the wizarding world. Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social and emotional, including ordinary teenage challenges such as friendships, infatuation and exams, and the greater test of preparing himself for the confrontation in the real world that lies ahead.
->  
+>
 > Each book chronicles one year in Harry's life with the main narrative being set in the years 1991–98. The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.
->  
+>
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
 #### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
@@ -161,9 +170,9 @@ Books:
 * [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear) [4.56]
 
 > The Kingkiller Chronicle is a fantasy trilogy by Patrick Rothfuss, telling the autobiography of Kvothe, an adventurer and famous musician.
-> 
+>
 > The plot is divided into two different action threads: the present, where Kvothe tells the story of his life to Devan Lochees (known as Chronicler) in the main room of his inn, and Kvothe's past, the story in question, which makes up the majority of the books. The present-day interludes are in the third person from the perspective of multiple characters, while the story of Kvothe's life is told entirely in the first person from his own perspective.
-> 
+>
 > The series also contains many meta-fictional stories-within-stories from varying perspectives, most of which are recounted by Kvothe, having been heard from other characters in his past.
 
 #### [The Lightbringer Series](https://www.goodreads.com/series/49673-lightbringer) *by [Brent Weeks](https://en.wikipedia.org/wiki/Brent_Weeks)*
@@ -190,7 +199,7 @@ Books:
  * [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) :fire: :star2:
 
 > A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- The Fellowship of the Ring, The Two Towers, and The Return of the King -- each with art from the New Line Productions feature film on the cover.
->  
+>
 > J.R.R. Tolkien's The Lord of the Rings trilogy is a genuine masterpiece. The most widely read and influential fantasy epic of all time, it is also quite simply one of the most memorable and beloved tales ever told. Originally published in 1954, The Lord of the Rings set the framework upon which all epic/quest fantasy since has been built. Through the urgings of the enigmatic wizard Gandalf, young hobbit Frodo Baggins embarks on an urgent, incredibly treacherous journey to destroy the One Ring. This ring -- created and then lost by the Dark Lord, Sauron, centuries earlier -- is a weapon of evil, one that Sauron desperately wants returned to him. With the power of the ring once again his own, the Dark Lord will unleash his wrath upon all of Middle-earth. The only way to prevent this horrible fate from becoming reality is to return the Ring to Mordor, the only place it can be destroyed. Unfortunately for our heroes, Mordor is also Sauron's lair. The Lord of the Rings trilogy is essential reading not only for fans of fantasy but for lovers of classic literature as well...
 
 #### [The Lost Years of Merlin](https://www.goodreads.com/series/40391) by *[T.A. Barron](https://en.wikipedia.org/wiki/T._A._Barron)* [4.0]
@@ -222,9 +231,9 @@ The second trilogy takes place some 300 years after the events of the first, and
 Would recommend this entire series and the whole Cosmere to any fantasy fan. - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 > The first three books are a trilogy to be read together.
->  
+>
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
->  
+>
 > Books 4-6 are sequels that take place 300 years later.
 
 Books:
@@ -255,6 +264,24 @@ Books:
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Designed to take fans of The Hobbit and The Lord of the Rings deeper into the myths and legends of Middle-Earth, The Silmarillion is an account of the Elder Days, of the First Age of Tolkien's world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor. Included in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Numenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings. This pivotal work features the revised, corrected text and includes, by way of an introduction, a fascinating letter written by Tolkien in 1951 in which he gives a full explanation of how he conceived the early Ages of Middle-Earth.
+
+#### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) *by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)* [4.4] :fire:
+
+Incredibly detailed books, with a very realistic world. I can't get enough of it. Awesome in the scale and breadth of intricacy. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+ * [A Game of Thrones](http://www.goodreads.com/book/show/13496.A_Game_of_Thrones) :fire:
+ * [A Clash of Kings](http://www.goodreads.com/book/show/10572.A_Clash_of_Kings) :fire:
+ * [A Storm of Swords](http://www.goodreads.com/book/show/62291.A_Storm_of_Swords) :fire:
+ * [A Feast for Crows](http://www.goodreads.com/book/show/13497.A_Feast_for_Crows) :fire:
+ * [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) :fire:
+ * [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _forthcoming_
+
+> Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.
+>
+> As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.
+>
+> The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.6]
 
@@ -329,7 +356,7 @@ Books:
 * [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god) [4.4]
 
 >  Steven Erikson draws on twenty years of experience as an anthropologist and archaeologist. Vast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire, with brutal action and battle scenes
->  
+>
 > The world building is done on an unprecedented scale and Erikson has left a lifetime's worth of novels on the table in the world of the Malazan Empire. So what is left to talk about? It's simple, the writing. I can tell that Steven Erikson's writing is filled with wit, charm, philosophical brilliance and a sense of imagination that would humble the most creative of authors. You will be hard-pressed to find his equal in any genre.
 
 
@@ -357,9 +384,9 @@ Books:
 This book stands up to a reread, and is a nice example of Neil Gaiman's ability to draw together a thousand different threads into one cohesive story. The scenes in the Wisconsin small towns stay with me much longer than the rest of the book - they're reminiscent of the much better book _Peace_ by Gene Wolfe, not to say they're not well done. This is a quick and great read, and it continually surprises. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.
->  
+>
 > Together they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.
->  
+>
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)* [4.5]
@@ -367,6 +394,18 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The seventeen pieces in Ficciones demonstrate the whirlwind of Borges' genius and mirror the precision and potency of his intellect and inventiveness, his piercing irony, his skepticism, and his obsession with fantasy. Borges sends us on a journey into a compelling, bizarre, and profoundly resonant realm; we enter the fearful sphere of Pascal's abyss, the surreal and literal labyrinth of books, and the iconography of eternal return. To enter the worlds in Ficciones is to enter the mind of Jorge Luis Borges, wherein lies Heaven, Hell, and everything in between.
+
+#### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) *by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)* [4.14]
+
+The first book in the Study series, Snyder does a great job of building the suspense throughout the novel because at the start Yelena gets poisoned and you think she'll die and it carries on throughout the book. I enjoyed how Yelena's magic trickles throughout the story and the reader doesn't find out too much at the beginning. - [@louisefindlay23](https://github.com/louisefindlay23)
+
+> Choose: A quick death…Or slow poison...
+
+> About to be executed for murder, Yelena is offered an extraordinary reprieve. She'll eat the best meals, have rooms in the palace—and risk assassination by anyone trying to kill the Commander of Ixia.
+
+> And so Yelena chooses to become a food taster. But the chief of security, leaving nothing to chance, deliberately feeds her Butterfly's Dust—and only by appearing for her daily antidote will she delay an agonizing death from the poison.
+
+> As Yelena tries to escape her new dilemma, disasters keep mounting. Rebels plot to seize Ixia and Yelena develops magical powers she can't control. Her life is threatened again and choices must be made. But this time the outcomes aren't so clear...
 
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
@@ -404,12 +443,21 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
 
+
+#### [Grandma's Bag Of Stories](https://www.goodreads.com/book/show/13510813-grandma-s-bag-of-stories) (2012) *by [Sudha Murthy](https://en.wikipedia.org/wiki/Sudha_Murty)* [4.21]
+
+This book is quite realistic and reminded me of the stories my grandparents have told me. And just like me, everyone was upset when this adventure comes to an end. -[@NivedithaBBhat](https://github.com/NivedithaBBhat)
+
+>When Grandma opens her bag of stories, everyone gathers Around.
+Who can resist a good story, especially when it’s being told by Grandma? From her bag emerges tales of kings and cheats, monkeys and mice, bears and gods. Here comes the bear who ate some really bad dessert and got very angry; a lazy man who would not put out a fire till it reached his beard; a princess who got turned into an onion; a queen who discovered silk, and many more weird and wonderful people and animals.
+Grandma tells the stories over long summer days and nights, as seven children enjoy life in her little town. The stories entertain, educate and provide hours of enjoyment to them.
+
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 
 This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
 > At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
->  
+>
 > Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by [Lord Dunsanay](https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany)* [3.8]
@@ -418,14 +466,20 @@ Read this if you want to go on an acid trip and if you want to see the roots of 
 
 > The poetic style and sweeping grandeur of The King of Elfland's Daughter has made it one of the most beloved fantasy novels of our time, a masterpiece that influenced some of the greatest contemporary fantasists. The heartbreaking story of a marriage between a mortal man and an elf princess is a masterful tapestry of the fairy tale following the "happily ever after."
 
+#### [Kushiel's Dart](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart) *by [Jacqueline Carey](https://en.wikipedia.org/wiki/Jacqueline_Carey)* [4.0]
+
+This was an amazing read. It was a bit over a thousand words, but it went by fast as anything else. It really displays Carey's way with storytelling and worldbuilding. - [@masonbose](https://github.com/masonbose)
+
+> This is a fantasy novel by American writer Jacqueline Carey, the first book in her Kushiel's Legacy series. The idea for this book first came to Carey when she was reading the Biblical Book of Genesis, and specifically a passage about "sons of God" coming into the "daughters of Men". Later, when she was writing a coffee table book, she encountered Jewish folklore, which paralleled the story in greater detail. The fictional nation of Terre D'Ange in the story was founded by a rebel angel.
+
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.
->  
+>
 > Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.
->  
+>
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
 #### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [3.7]
@@ -445,6 +499,28 @@ Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the
 I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
+
+#### [Vicious](https://www.goodreads.com/book/show/40874032-vicious) *by [V.E. Schwab](https://en.wikipedia.org/wiki/V._E._Schwab)* [4.25]
+
+A fantastic start to an amazing series. Schwab really knows how to 'set a scene', and create an environment that grips you and doesn't let go. - [@masonbose](https://github.com/masonbose)
+
+> Victor and Eli started out as college roommates—brilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong.
+
+#### [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) *by [Andrzej Sapkowski](https://en.wikipedia.org/wiki/Andrzej_Sapkowski)*
+
+Great books especially if you like folklore of Central Europe or you played Witcher 3 video game or want to read it before watching the Netflix show. - [@hercegtomas](https://github.com/hercegtomas)
+
+> Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. And a cold-blooded killer. His sole purpose: to destroy the monsters that plague the world. But not everything monstrous-looking is evil and not everything fair is good... and in every fairy tale there is a grain of truth.
+
+Books:
+ * [The Last Wish](https://www.goodreads.com/book/show/40603587-the-last-wish) [4.19] :fire:
+ * [Sword of Destiny](https://www.goodreads.com/hr/book/show/24709918-sword-of-destiny) [4.36]
+ * [Blood of Elves](https://www.goodreads.com/book/show/6043781-blood-of-elves) [4.18]
+ * [Time of Contempt](https://www.goodreads.com/sl/book/show/18924206-the-time-of-contempt) [4.27]
+ * [Baptism of Fire](https://www.goodreads.com/nl/book/show/26080167-baptism-of-fire) [4.35]
+ * [The Tower of the Swallow](https://www.goodreads.com/book/show/30079689-the-tower-of-swallows) [4.32]
+ * [The Lady of the Lake](https://www.goodreads.com/hu/book/show/32841081-lady-of-the-lake) [4.25]
+ * [Season of Storms](https://www.goodreads.com/lt/book/show/36099978-season-of-storms) [3.94]
 
 ### Allegory
 
@@ -509,9 +585,9 @@ Farmer Giles is one of my favourite encapsulated stories set in something akin t
 This was a fun book, and a great collaboration. At times it is a bit clear where Neil Gaiman was writing, and I'm not sure that the book is better for his inclusions at points; he hadn't yet perfected his craft, I think. But the story as a whole is good. - [@RichardLitt](https://github.com/RichardLitt)
 
 > According to The Nice and Accurate Prophecies of Agnes Nutter, Witch (the world's only completely accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.
->  
+>
 > So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon — both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle — are not actually looking forward to the coming Rapture.
->  
+>
 > And someone seems to have misplaced the Antichrist . . .
 
 #### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)* [4.2] :fire:
@@ -527,14 +603,32 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 Horror wouldn't be what it is today without HP Lovecraft. He spawned an entire sub-genre of weird aliens and psychological threats; some of the stories in this book are so good that I still shudder when I think of them. A master at work. - [@RichardLitt](https://github.com/RichardLitt)
 
 > An unparalleled selection of fiction from H. P. Lovecraft, master of the American horror tale
->  
+>
 > Long after his death, H. P. Lovecraft continues to enthrall readers with his gripping tales of madness and cosmic terror, and his effect on modern horror fiction continues to be felt - Stephen King, Anne Rice, and Clive Barker have acknowledged his influence. His unique contribution to American literature was a melding of Poe's traditional supernaturalism with the emerging genre of science fiction. Originally appearing in pulp magazines like Weird Tales in the 1920s and 1930s, Lovecraft's work is now being regarded as the most important supernatural fiction of the twentieth century.
->  
+>
 > Lovecraft's biographer and preeminent interpreter, S. T. Joshi, has prepared this volume of eighteen stories--from the early classics like "The Outsider" and "Rats in the Wall" to his mature masterworks, "The Call of Cthulhu" and "The Shadow over Innsmouth." The first paperback to include the definitive corrected texts, The Call of Cthulhu and Other Weird Stories reveals the development of Lovecraft's mesmerizing narrative style, and establishes him as a canonical--and visionary--American writer.
->  
+>
 > "I think it is beyond doubt that H. P. Lovecraft has yet to be surpassed as the twentieth century's greatest practitioner of the classic horror tale." --Stephen King
 
+#### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [3.9] :fire:
+
+Stephen King is as brilliant as he is prolific, having penned over fifty worldwide bestsellers and won multiple awards for his writing. Under The Dome is a real page turner that will keep you worrying about the wonderful and frightening cast of characters. It's no surprise a show was made based on the novel. - [@JamesDrysdale](https://github.com/JamesDrysdale)
+
+>The small town of Chester's Mill, Maine is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. No one can get in or out and the normal rules of society suddenly change when resources run short. A new and more sinister social order develops. A handful of citizens team up to fight the corruption sweeping through the town and to try to discover the source of the Dome before it's too late.
+
 ### Children's Books
+
+#### [Dealing with Dragons](https://www.goodreads.com/book/show/150739.Dealing_with_Dragons)  *by [Patricia C. Wrede](https://en.wikipedia.org/wiki/Patricia_Wrede)* [4.15]
+
+Fell in love with this book when I first read it in 4th grade. I had always liked fairy tales, but this was the first I read that subverted the usual tropes. - [@konpyuta](https://github.com/konpyuta)
+
+> Cimorene is everything a princess is not supposed to be: headstrong, tomboyish, smart - and bored. So bored that she runs away to live with a dragon - and finds the family and excitement she's been looking for.
+
+#### [Howl's Moving Castle](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) *by [Diana Wynne Jones](https://en.wikipedia.org/wiki/Diana_Wynne_Jones)* [4.3]
+
+The original story that inspired Miyazaki's film adaptation. Has a colorful, fun, and whimsical tone, but has an interesting twist. - [@konpyuta](https://github.com/konpyuta)
+
+> Sophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl—and herself—than first meets the eye.
 
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) *by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator))* [3.94]
 
@@ -544,22 +638,46 @@ One of the earliest books I can recall reading. This book is the best. - [@Richa
 
 ## Comic Books
 
+#### [The Black Bull of Norroway](https://www.goodreads.com/book/show/39913349-the-black-bull-of-norroway) *by [Cat Seaton](https://www.goodreads.com/author/show/15307132.Cat_Seaton), [Kit Seaton](https://www.goodreads.com/author/show/7989199.Kit_Seaton)* [3.76]
+
+Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity represented. - [@konpyuta](https://github.com/konpyuta)
+
+> Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
+
+#### [Delilah Dirk and the Turkish Lieutenant](https://www.goodreads.com/book/show/17261174-delilah-dirk-and-the-turkish-lieutenant) *by [Tony Cliff](https://www.goodreads.com/author/show/4593587.Tony_Cliff)* [3.94]
+
+Great adventure with a strong female protagonist. In a historical-based setting with interesting fantasy elements interspersed with cultural details.  - [@konpyuta](https://github.com/konpyuta)
+
+> Lovable ne'er-do-well Delilah Dirk has travelled to Japan, Indonesia, France, and even the New World. Using the skills she's picked up on the way, Delilah's adventures continue as she plots to rob a rich and corrupt Sultan in Constantinople. With the aid of her flying boat and her newfound friend, Selim, she evades the Sultan's guards, leaves angry pirates in the dust, and fights her way through the countryside. For Delilah, one adventure leads to the next in this thrilling and funny installment in her exciting life.
+
 #### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) *by [Bryan Lee O'Malley](https://en.wikipedia.org/wiki/Bryan_Lee_O%27Malley), [Nathan Fairbairn](https://www.goodreads.com/author/show/6497026.Nathan_Fairbairn)* [4.07]
 
 A colorful, funny, and heart-warming take on the consequences of being able to change the past. The best word to describe this comic is delightful. - [@sunrein](https://github.com/sunrein)
 
 > Katie’s got it pretty good. She’s a talented young chef, she runs a successful restaurant, and she has big plans to open an even better one. Then, all at once, progress on the new location bogs down, her charming ex-boyfriend pops up, her fling with another chef goes sour, and her best waitress gets badly hurt. And just like that, Katie’s life goes from pretty good to not so much. What she needs is a second chance. Everybody deserves one, after all—but they don’t come easy. Luckily for Katie, a mysterious girl appears in the middle of the night with simple instructions for a do-it-yourself do-over:
->  
+>
 > 1. Write your mistake
 > 2. Ingest one mushroom
 > 3. Go to sleep
 > 4. Wake anew
->  
+>
 > And just like that, all the bad stuff never happened, and Katie is given another chance to get things right. She’s also got a dresser drawer full of magical mushrooms—and an irresistible urge to make her life not just good, but perfect. Too bad it’s against the rules. But Katie doesn’t care about the rules—and she’s about to discover the unintended consequences of the best intentions.
->  
+>
 > From the mind and pen behind the acclaimed Scott Pilgrim series comes a madcap new tale of existential angst, everyday obstacles, young love, and ancient spirits that’s sharp-witted and tenderhearted, whimsical and wise.
 
 ## Movies
+
+#### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
+
+A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some ferrets. - [@teav](https://github.com/teav)
+
+> A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
+
+#### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
+
+A brilliant fantasy movie. Underrated. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> A young boy attempts to convince a woman that he is her dead husband reborn.
 
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
@@ -567,11 +685,23 @@ Sean Connery is the best dragon ever. This is a classic film. - [@RichardLitt](h
 
 > The last dragon and a disillusioned dragon-slaying knight must cooperate to stop an evil king who was given partial immortality.
 
+#### [Fire and Ice](https://www.imdb.com/title/tt0085542/) [6.6]
+
+An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazetta. This movie has great animation and even greater action. - [@teav](https://github.com/teav)
+
+> At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
 
 > An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
+
+#### [Highlander II: The Quickening](https://www.imdb.com/title/tt0102034/) [4.3]
+
+Worse than the first, but in the best way possible. - [@teav](https://github.com/teav)
+
+> In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.
 
 #### [Krull](http://www.imdb.com/title/tt0085811/) [6.0]
 
@@ -585,11 +715,28 @@ This is one of the weirder cult classics to come out of the 80's. I wouldn't inc
 
 > A selfish 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
 
+#### [Midnight in Paris](https://www.imdb.com/title/tt1605783/) [7.7]
+This movie really captures the ways thinking of some writers who are always wondering how would it be if they lived in some other century. Besides, Owen Wilson killed it. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.
+
+#### [Percy Jackson & the Olympians: The Lightning Thief](https://www.imdb.com/title/tt0814255/) [5.9]
+
+Kids have been waiting for this movie adaptation for a long time; too bad they'll be disappointed. A movie with demigods in a modern era. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A brood of fire-breathing dragons emerges from the earth and begins setting fire to everything, establishing dominance over the planet.
+
+#### [Spirited Away](https://www.imdb.com/title/tt0245429/) [8.6]
+
+A beautifully drawn and wonderfully composed work of art - really, no other description will do. Don't let the fact that it is animated scare you. Just watch it! - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
 
 #### The Lord of the Rings
 
@@ -644,6 +791,42 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
+
+#### [Good Omens](https://m.imdb.com/title/tt1869454/) [8.2]
+
+A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
+
+> A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
+
+#### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
+
+The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
+
+> A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
+
+#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+
+Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> An English combat nurse from 1945 is mysteriously swept back in time to 1743.
+
+#### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
+
+Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
+
+> Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
+
+#### [The Vampire Diaries](https://www.imdb.com/title/tt1405406/) (2009-2017) [7.7]
+
+If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline.  - [@Hazelnoot](https://github.com/hazelnoot)
+
+> The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
+
+#### [The Witcher](https://www.imdb.com/title/tt5180504/) (2019-ongoing) [8.3]
+
+The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
+
+> Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 
 ---
 
