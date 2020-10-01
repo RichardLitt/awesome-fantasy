@@ -804,6 +804,11 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 
+#### [Fullmetal Alchemist: Brotherhood](https://www.imdb.com/title/tt1355642/) (2009-2012) [9.1]
+
+Fullmetal Alchemist is a good watch for you if you want to watch a fresh fantasy series which is a bit different the the regular. - [@Adii_iii](https://github.com/Adii-iii)
+
+>Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.
 ---
 
 ## You got through the list and didn't find anything?
