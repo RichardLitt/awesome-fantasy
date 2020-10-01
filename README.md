@@ -649,6 +649,19 @@ A colorful, funny, and heart-warming take on the consequences of being able to c
 
 ## Movies
 
+#### [The Twilight Saga (Film series)]
+The Twilight Saga is a series of five romance fantasy films from Summit Entertainment based on the four novels by author Stephenie Meyer.
+
+Movies:
+> [Twilight](https://www.imdb.com/title/tt1099212/) [5.2]
+> [The Twilight Saga: New Moon](https://www.imdb.com/title/tt1259571/) [4.7]
+> [The Twilight Saga: Eclipse](https://www.imdb.com/title/tt1325004/) [5.0]
+> [The Twilight Saga: Breaking Dawn - Part 1 ](https://www.imdb.com/title/tt1324999/) [4.9]
+> [The Twilight Saga: Breaking Dawn - Part 2 ](https://www.imdb.com/title/tt1673434/) [5.5]
+
+> High-school student Bella Swan (Kristen Stewart), always a bit of a misfit, doesn't expect life to change much when she moves from sunny Arizona to rainy Washington state. Then she meets Edward Cullen (Robert Pattinson), a handsome but mysterious teen whose eyes seem to peer directly into her soul. Edward is a vampire whose family does not drink blood, and Bella, far from being frightened, enters into a dangerous romance with her immortal soulmate.
+-[@AarohiGarg](https://wwwgithub.com/AarohiGarg)
+
 #### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
 
 A classic piece of 80s fantasy.  It's basically Conan the Barbarian with some ferrets. - [@teav](https://github.com/teav)
