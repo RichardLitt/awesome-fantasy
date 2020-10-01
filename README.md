@@ -774,6 +774,14 @@ A great comedic mini-series with perfect casting wonderfully depicting the motif
 
 > A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
 
+#### [Naruto](https://www.imdb.com/title/tt0409591/) [8.3]
+
+Many years ago, in the hidden village of Konoha, lived a great demon fox. When it swung one of it's nine tails, a tsunami occurred. The fourth hokage sealed this demon fox inside a boy in exchange for his own life. Naruto was that boy, and he grew up with no family, and the villagers hated him thinking that he himself was the demon fox. Naruto's dream is to become Hokage, and have the villagers acknowledge him. Written by @Katelyn Karaway.- [@Ayusinha](https://github.com/Ayusinha)
+
+> Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.
+I recommend you to watch this beautiful manga series.
+
+
 #### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
 
 The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
