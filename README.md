@@ -613,6 +613,13 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 > While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
+#### [The Terminator]( https://www.imdb.com/title/tt0088247)(1984) [8]
+
+This is a classic science fiction/horror movie starring Arnold Schwarzenegger as “The Terminator”.  Effects are bad by today’s standards, but for the time were pretty good.  A little bit of humor is included as well. [@TheByteStuff]( https://github.com/TheByteStuff)
+
+> A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
