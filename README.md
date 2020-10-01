@@ -613,6 +613,12 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 > While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
 
+####  [The Running Man]( https://www.imdb.com/title/tt0093894)(1987) [6.7]
+
+Typical action/science fiction genre movie starring  Arnold Schwarzenegger is based on a book written by Steven King under the name Richard Bachman.  Interestingly, the book and movie came out before the rise of reality TV.  While our society has not yet evolved to such a level of reality TV, we do seem to continue to “one up” the last iteration. - [@TheByteStuff]( https://github.com/TheByteStuff)
+
+> In a dystopian America, a falsely convicted policeman gets his shot at freedom when he must forcibly participate in a TV game show where convicts, runners, must battle killers for their freedom.
+
 #### [The Terminator]( https://www.imdb.com/title/tt0088247)(1984) [8]
 
 This is a classic science fiction/horror movie starring Arnold Schwarzenegger as “The Terminator”.  Effects are bad by today’s standards, but for the time were pretty good.  A little bit of humor is included as well. - [@TheByteStuff]( https://github.com/TheByteStuff)
