@@ -615,7 +615,7 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 #### [The Terminator]( https://www.imdb.com/title/tt0088247)(1984) [8]
 
-This is a classic science fiction/horror movie starring Arnold Schwarzenegger as “The Terminator”.  Effects are bad by today’s standards, but for the time were pretty good.  A little bit of humor is included as well. [@TheByteStuff]( https://github.com/TheByteStuff)
+This is a classic science fiction/horror movie starring Arnold Schwarzenegger as “The Terminator”.  Effects are bad by today’s standards, but for the time were pretty good.  A little bit of humor is included as well. - [@TheByteStuff]( https://github.com/TheByteStuff)
 
 > A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
 
@@ -630,7 +630,6 @@ The fate of the world does not really hang in balance, contrary to what the movi
 Beautiful and stunning film with strong female characters. Even if you're not familiar with Japanese animation movies, I'm sure you will enjoy this one. - [@maysaborges](https://github.com/maysaborges)
 
 > On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
-
 
 ## TV Series
 
