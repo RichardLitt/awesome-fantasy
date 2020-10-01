@@ -619,6 +619,18 @@ This is a classic science fiction/horror movie starring Arnold Schwarzenegger as
 
 > A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
 
+#### [The Sorcerer's Apprentice](https://www.imdb.com/title/tt0963966/) [6.1]
+
+The fate of the world does not really hang in balance, contrary to what the movie says. Still very fun to watch, especially if you're part of Gen Z, or have kids in primary school. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+
+> Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.
+
+#### [Princess Mononoke](https://www.imdb.com/title/tt0119698/) [8.4]
+
+Beautiful and stunning film with strong female characters. Even if you're not familiar with Japanese animation movies, I'm sure you will enjoy this one. - [@maysaborges](https://github.com/maysaborges)
+
+> On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+
 
 ## TV Series
 
