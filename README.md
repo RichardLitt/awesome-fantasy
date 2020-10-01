@@ -31,7 +31,7 @@
 
 #### [Gone Girl](https://www.goodreads.com/book/show/19288043-gone-girl) *by [Gillian Flynn](https://www.goodreads.com/author/show/2383.Gillian_Flynn)* [4.1] :fire:
 
-One of my favourite book of all time. This book is about the jaw dropping mystery of the missing girl- Amy,wife of Nick. There is not much to say about the book without giving up some major spoilers. Hands down one of the best thrillers I have read![@sharanya02](https://github.com/sharanya02)
+One of my favourite book of all time. This book is about the jaw dropping mystery of the missing girl- Amy,wife of Nick. There is not much to say about the book without giving up some major spoilers. Hands down one of the best thrillers I have read! - [@sharanya02](https://github.com/sharanya02)
 
 
 > Marriage can be a real killer.
