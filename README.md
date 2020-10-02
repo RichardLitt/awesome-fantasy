@@ -137,14 +137,14 @@ Books:
  
  Books:
  
-0.5. [The Assassin's Blade](https://www.goodreads.com/book/show/18243700-the-assassin-s-blade) [4.4] 🔥
-1. [Throne of Glass](https://www.goodreads.com/book/show/7896527-throne-of-glass) [4.21] 🔥
-2. [Crown of Midnight](https://www.goodreads.com/book/show/17167166-crown-of-midnight) [4.43] 🔥
-3. [Heir of Fire](https://www.goodreads.com/book/show/20613470-heir-of-fire) [4.48] 🔥
-4. [Queen of Shadows](https://www.goodreads.com/book/show/18006496-queen-of-shadows) [4.56] 🔥
-5. [Empire of Storms](https://www.goodreads.com/book/show/28260587-empire-of-storms) [4.54] 🔥
-6. [Tower of Dawn](https://www.goodreads.com/book/show/31450852-tower-of-dawn) [4.36] 🔥
-7. [Kingdom of Ash](https://www.goodreads.com/book/show/33590260-kingdom-of-ash) [4.57] 🔥
+1. [The Assassin's Blade](https://www.goodreads.com/book/show/18243700-the-assassin-s-blade) [4.4] 🔥
+2. [Throne of Glass](https://www.goodreads.com/book/show/7896527-throne-of-glass) [4.21] 🔥
+3. [Crown of Midnight](https://www.goodreads.com/book/show/17167166-crown-of-midnight) [4.43] 🔥
+4. [Heir of Fire](https://www.goodreads.com/book/show/20613470-heir-of-fire) [4.48] 🔥
+5. [Queen of Shadows](https://www.goodreads.com/book/show/18006496-queen-of-shadows) [4.56] 🔥
+6. [Empire of Storms](https://www.goodreads.com/book/show/28260587-empire-of-storms) [4.54] 🔥
+7. [Tower of Dawn](https://www.goodreads.com/book/show/31450852-tower-of-dawn) [4.36] 🔥
+8. [Kingdom of Ash](https://www.goodreads.com/book/show/33590260-kingdom-of-ash) [4.57] 🔥
 
 
 > Throne of Glass is a young adult turned new adult, high fantasy novel series by American author Sarah J. Maas, beginning with the novel of the same name, released in August 2012. The story follows the journey of Celaena Sardothien, a teenage assassin in a corrupt kingdom with a tyrannical ruler. As the tale progresses, Celaena forms unexpected bonds and uncovers a conspiracy amidst her adventures. The series concluded with the eighth book in October 2018.
