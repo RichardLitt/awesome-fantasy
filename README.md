@@ -459,6 +459,24 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 >
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
+#### [Chronicle of the Unhewn Throne Series](https://www.goodreads.com/series/116397-chronicle-of-the-unhewn-throne) (2014) *by [Brian Stavely](https://en.wikipedia.org/wiki/Brian_Staveley)* [4.07]
+
+This series will keep you on the edge of your seat! The king of Annur is dead, killed by unknown enemies. His offspring, one daughter and two sons, are in three very different scenarios. Kaden, the youngest of the three, has spent almost ten years isolated in a remote monastery in the mountains and is the heir to the throne. Meanwhile across the ocean, Valyn is an elite soldier with the Kettral and flies a gigantic black battle hawk. Adare was made minister of the Empire shortly before the emperor died, and she believes she knows who killed her father. In between all the intrigue, politics, revenge, and giant poisonous hive-lizards, this series will definitely keep you coming back for more! - [@carsandparties](https://github.com/carsandparties)
+
+Books:
+
+* [The Emperor's Blades](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades) (Book 1) [4.07]
+* [The Providence of Fire](https://www.goodreads.com/book/show/22055280-the-providence-of-fire) [4.13] :fire:
+* [The Last Mortal Bond](https://www.goodreads.com/book/show/20753341-the-last-mortal-bond) [4.07]
+
+> The circle is closing. The stakes are high. And old truths will live again...
+>
+> The Emperor has been murdered, leaving the Annurian Empire in turmoil. Now his progeny must bury their grief and prepare to unmask a conspiracy.
+>
+> His son Valyn, training for the empire’s deadliest fighting force, hears the news an ocean away. He expected a challenge, but after several ‘accidents’ and a dying soldier’s warning, he realizes his life is also in danger. Yet before Valyn can take action, he must survive the mercenaries’ brutal final initiation.
+>
+> Meanwhile, the Emperor’s daughter, Minister Adare, hunts her father’s murderer in the capital itself. Court politics can be fatal, but she needs justice. And Kaden, heir to an empire, studies in a remote monastery. Here, the Blank God’s disciples teach their harsh ways – which Kaden must master to unlock their ancient powers. When an imperial delegation arrives, he’s learnt enough to perceive evil intent. But will this keep him alive, as long-hidden powers make their move?
+
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) *by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)* [4.5]
 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
