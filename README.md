@@ -150,6 +150,22 @@ Books:
 >
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
+#### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) *by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)*
+
+These are really amazing and fun to read, especially the characters and how it relates with Greek mythology. - [@ankush1024](https://github.com/ankush1024)
+
+Books:
+
+1. [The Lightning Thief](https://www.goodreads.com/book/show/28187.The_Lightning_Thief) [4.3]
+2. [The Sea of Monsters](https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters) [4.4]
+3. [The Titan's Curse](https://www.goodreads.com/book/show/561456.The_Titan_s_Curse) [4.4]
+4. [The Battle of the Labyrinth](https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth) [4.4]
+5. [The Last Olympian](https://www.goodreads.com/book/show/4556058-the-last-olympian) [4.5]
+
+> The novels revolves around Percy Jackson, who is a demigod whose father is Poseidon, God of the Sea and the quests he follows to save the world from the war between gods.
+>
+> The series feel fresh and new from the eyes of these young modern heroes. From the first novel, the plot is engaging and exciting, appealing to anyone who's ever felt like they didn't belong. Between all of the action, magic and riddles, it's a truly heart-warming story about finding friends who eventually become family, and houses that eventually become homes.
+
 #### [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)) *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
 
 Dealing with racial and sexual discrimination in a high fantasy setting, the novel is excellent. - [@SeanSWatkins](https://github.com/SeanSWatkins)
