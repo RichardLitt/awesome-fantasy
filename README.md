@@ -756,6 +756,15 @@ Beautiful and stunning film with strong female characters. Even if you're not fa
 
 ## TV Series
 
+
+#### [The Chilling Adventures Of Sabrina](https://www.imdb.com/title/tt7569592/) [9.2]
+
+Uhm, The show is amazing you guys have to watch it :D . - [@adi-b99](https://github.com/adi-b99)
+
+> As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends.
+
+
+
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
 
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
@@ -803,6 +812,8 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
+
+
 
 ---
 
