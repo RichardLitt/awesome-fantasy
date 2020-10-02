@@ -856,6 +856,12 @@ Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@Ri
 
 > In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar.
 
+#### [Cursed](https://www.imdb.com/title/tt8210856/?ref_=fn_al_tt_1) (2020-?) [7]
+
+Reimagining of the Lady in the Lake with young King Arthur and Merlin by the legendary [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller_(comics)).  This rendition of Merlin was awesome, very different take from previous versions. The mythical world has some twists and spin on favorites like Lord of the Rings and Witcher. - [@will-chow](https://github.com/will-chow)
+
+> "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
+
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
@@ -867,6 +873,11 @@ Pretty good, if overly televised at times and with too much emphasis on sexual v
 A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
 
 > A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
+
+#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
+I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
+
+> Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
 
 #### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
 
@@ -897,17 +908,6 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
-
-#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
-I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
-
-> Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
-
-#### [Cursed](https://www.imdb.com/title/tt8210856/?ref_=fn_al_tt_1) (2020-?) [7]
-
-Reimagining of the Lady in the Lake with young King Arthur and Merlin by the legendary [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller_(comics)).  This rendition of Merlin was awesome, very different take from previous versions. The mythical world has some twists and spin on favorites like Lord of the Rings and Witcher.  [@will-chow](https://github.com/will-chow)
-
-> "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
 
 ---
 
