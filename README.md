@@ -29,6 +29,23 @@
 
 ### Epic Fantasy
 
+#### [The Dark Tower](https://en.wikipedia.org/wiki/The_Dark_Tower_(series)) *by [Stephen King](https://www.goodreads.com/author/show/3389.Stephen_King)* [4.61] :fire:
+
+This series is Stephen King's magnum opus creating a universe that subtly ties in many of his iconic works. Unlike his famous horror works, this series is an epic fantasy following the story of the Gunslinger on his quest to the Dark Tower. The first publication of The Gunslinger is well noted for the famous opening line of "The man in black fled across the desert, and the gunslinger followed." Be aware that the publication order of the novels may not align with the suggested reading order. For that reason, I have organized the books in the suggested reading order below.
+
+Books:
+* [The Litte Sisters of Eluria](https://www.goodreads.com/book/show/6356190-the-little-sisters-of-eluria)
+* [The Dark Tower: The Gunslinger](https://www.goodreads.com/book/show/43615.The_Gunslinger):fire:
+* [The Dark Tower II: The Drawing of the Three](https://www.goodreads.com/book/show/5094.The_Drawing_of_the_Three):fire:
+* [The Dark Tower III: The Waste Lands](https://www.goodreads.com/book/show/52281241-the-waste-lands)
+* [The Dark Tower IV: Wizard and Glass](https://www.goodreads.com/book/show/37823420-the-dark-tower-iv):fire:
+* [The Dark Tower: The Wind Through the Keyhole](https://www.goodreads.com/book/show/12341557-the-wind-through-the-keyhole)
+* [The Dark Tower V: Wolves of the Calla](https://www.goodreads.com/book/show/48716743-the-dark-tower-v):fire:
+* [The Dark Tower VI: Song of Susannah](https://www.goodreads.com/book/show/54464230-the-dark-tower-vi):fire:
+* [The Dark Tower VII: The Dark Tower](https://www.goodreads.com/book/show/43552500-the-dark-tower-vii):fire:
+
+> In the first book of this brilliant series, Stephen King introduces readers to one of his most enigmatic heroes, Roland of Gilead, The Last Gunslinger. He is a haunting figure, a loner on a spellbinding journey into good and evil. In his desolate world, which frighteningly mirrors our own, Roland pursues The Man in Black, encounters an alluring woman named Alice, and begins a friendship with the Kid from Earth called Jake. Both grippingly realistic and eerily dreamlike, The Gunslinger leaves readers eagerly awaiting the next chapter.
+
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
