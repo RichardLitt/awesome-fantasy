@@ -130,6 +130,42 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
+#### [The First Law Trilogy](https://en.wikipedia.org/wiki/The_First_Law) (2006) *by [Joe Abercrombie](https://en.wikipedia.org/wiki/Joe_Abercrombie)* [4.2] :fire:
+
+The First Law is a grimdark epic fantasy trilogy that is very character driven. The characters in this book are not particularly *likable* but despite that I found them all very lovable. The first book is a slow burn, and for a time I wasn't sure I would continue, but by the time I was half way I realised I loved seeing these characters go through their hardships, and on their adventures. This is the kind of series you feel sad about finishing because you want to spend more time with these characters. Fortunately there are standalone books and a second trilogy to read if you enjoy the original trilogy!
+
+The magic in this series isn't front and center. Despite this I would say this is a series every lover of fantasy needs to read. - [@Darknessflowers](https://github.com/Darknessflowers)
+
+Books:
+
+Original trilogy:
+* [The Blade Itself](https://www.goodreads.com/book/show/944073.The_Blade_Itself) [4.2] :fire:
+* [Before They Are Hanged](https://www.goodreads.com/book/show/902715.Before_They_Are_Hanged) [4.3] :fire:
+* [Last Argument of Kings](https://www.goodreads.com/book/show/944076.Last_Argument_of_Kings) [4.3] :fire:
+
+Standalone Novels:
+* [Best Served Cold](https://www.goodreads.com/book/show/2315892.Best_Served_Cold) [4.2]
+* [The Heroes](https://www.goodreads.com/book/show/9300768-the-heroes) [4.3]
+* [Red Country](https://www.goodreads.com/book/show/13521459-red-country) [4.3]
+
+Short Story anthology:
+* [Sharp Ends](https://www.goodreads.com/book/show/26030742-sharp-ends) [4.2]
+
+The Age of Madness Trilogy:
+* [A Little Hatred](https://www.goodreads.com/book/show/35606041-a-little-hatred) [4.5]
+* [The Trouble With Peace](https://www.goodreads.com/book/show/40701777-the-trouble-with-peace) [4.7]
+* The Wisdom of Crowds - *to be released 2021*
+
+> Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught in one feud too many, he’s on the verge of becoming a dead barbarian – leaving nothing behind him but bad songs, dead friends, and a lot of happy enemies.
+>
+> Nobleman Captain Jezal dan Luthar, dashing officer, and paragon of selfishness, has nothing more dangerous in mind than fleecing his friends at cards and dreaming of glory in the fencing circle. But war is brewing, and on the battlefields of the frozen North they fight by altogether bloodier rules.
+>
+>Inquisitor Glokta, cripple turned torturer, would like nothing better than to see Jezal come home in a box. But then Glokta hates everyone: cutting treason out of the Union one confession at a time leaves little room for friendship. His latest trail of corpses may lead him right to the rotten heart of government, if he can stay alive long enough to follow it.
+>
+>Enter the wizard, Bayaz. A bald old man with a terrible temper and a pathetic assistant, he could be the First of the Magi, he could be a spectacular fraud, but whatever he is, he's about to make the lives of Logen, Jezal, and Glokta a whole lot more difficult.
+>
+>Murderous conspiracies rise to the surface, old scores are ready to be settled, and the line between hero and villain is sharp enough to draw blood.
+
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)*
 
 These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
