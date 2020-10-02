@@ -832,7 +832,7 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 #### [Luicfer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
 I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
 
-> Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
+> Lucifer Morningstar, the Lord of Hell, has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
 ---
 
 ## You got through the list and didn't find anything?
