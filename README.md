@@ -130,6 +130,31 @@ Books:
 
 > In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma. Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility. So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.
 
+
+###[Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) *by [Saraah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)* [4.21] 🔥
+
+ This is gorgeous, dark and ridiculously epic. Fast-paced, action-packed and High-fantasy goodness lovers! People-who-don't-love-any-of-those-things-but-want-to-try-something-new lovers! - I definitely recommend this book!  - [@gayatripalkar](https://github.com/gayatripalkar)
+ 
+ Books:
+ 
+0.5. [The Assassin's Blade](https://www.goodreads.com/book/show/18243700-the-assassin-s-blade) [4.4] 
+1. [Throne of Glass](https://www.goodreads.com/book/show/7896527-throne-of-glass) [4.21] 
+2. [Crown of Midnight](https://www.goodreads.com/book/show/17167166-crown-of-midnight) [4.43] 
+3. [Heir of Fire](https://www.goodreads.com/book/show/20613470-heir-of-fire) [4.48] 
+4. [Queen of Shadows](https://www.goodreads.com/book/show/18006496-queen-of-shadows) [4.56] 
+5. [Empire of Storms](https://www.goodreads.com/book/show/28260587-empire-of-storms) [4.54] 
+6. [Tower of Dawn](https://www.goodreads.com/book/show/31450852-tower-of-dawn) [4.36] 
+7. [Kingdom of Ash](https://www.goodreads.com/book/show/33590260-kingdom-of-ash) [4.57] 
+
+
+> Throne of Glass is a young adult turned new adult, high fantasy novel series by American author Sarah J. Maas, beginning with the novel of the same name, released in August 2012. The story follows the journey of Celaena Sardothien, a teenage assassin in a corrupt kingdom with a tyrannical ruler. As the tale progresses, Celaena forms unexpected bonds and uncovers a conspiracy amidst her adventures. The series concluded with the eighth book in October 2018.
+The series appeared on the New York Times Best Seller list, and has been optioned by Hulu for a television series adaptation by Mark Gordon.
+
+> After serving out a year of hard labor in the salt mines of Endovier for her crimes, 18-year-old assassin Celaena Sardothien is dragged before the Crown Prince. Prince Dorian offers her her freedom on one condition: she must act as his champion in a competition to find a new royal assassin.
+Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council. If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life. Things get a little more interesting when the prince starts to show interest in her ... but it's the gruff Captain Westfall who seems to understand her best.
+Then one of the other contestants turns up dead ... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim? As the young assassin investigates, her search leads her to discover a greater destiny than she could possibly have imagined.
+
+
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) *by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)*
 
 These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
