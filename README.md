@@ -854,6 +854,12 @@ The idea of eternal love through human existence and connection made be cry. A h
 
 > Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
 
+#### [Inception](https://www.imdb.com/title/tt1375666/) [8.8]
+
+A masterpiece from Nolan. It is an intense,well-written,superbly crafted movie which captures your whole attention for the entire time. It's not just a movie about dream within a dream but a much more complex question about what we accepts as our reality or rather "what is reality?". One of the best sci-fi movies with a phenomenal ensemble cast. - [@PriyajeetGoswami](https://github.com/PriyajeetGoswami)
+
+> A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
