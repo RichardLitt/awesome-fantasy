@@ -606,18 +606,18 @@ Books:
  * [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) :star2: :fire:
  * [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) :star2: :fire:
  * [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) :star2: :fire:
- 
- #### [Kafka On the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore) *by [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)* [4.1]
+
+#### [Kafka On the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore) *by [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)* [4.1]
 
 This book is a metaphor. It is poignant, magical and somewhat weird. If you want to get swept away and really dive into a story, stop whatever you are doing and find a way to get your hands on a copy of this book. This is a story of a young man who is discovering himself where he meets a lot of people and expereinces different feelings altogether. Reality almost seems sterile when we immerse ourselves in this book. It a must read book for fantasy lovers. - [@NehaChaudhary311](https://github.com/NehaChaudhary311)
 
-> This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
+> Kafka on the Shore, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddle—yet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own.
 
 #### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [3.9]
 
 This was a weird, weird book, just like _Phantastes_. George MacDonald had a gift for writing essentially plotless books that journey through fantastic realms; but at no point do they ever become uninteresting. They were also the inspiration for a lot of later writers, most notably CS Lewis, and it is easy to see why. Worth the read. - [@RichardLitt](https://github.com/RichardLitt)
 
-> This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
+> After he followed the old man through the mirror, nothing in his life was ever right again. It was a special mirror and the man he followed was a special man - a man who led him to the things that underlie the fate of all creation. Lilith is considered among the darkest of MacDonald's works, and among the most profound. It is a story concerning the nature of life, death, and salvation. In the story, MacDonald mentions a cosmic sleep that heals tortured souls, preceding the salvation of all.
 
 #### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
