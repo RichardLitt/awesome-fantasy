@@ -29,6 +29,20 @@
 
 ### Epic Fantasy
 
+#### [The Belgariad](https://www.goodreads.com/book/show/44660.The_Belgariad_Boxed_Set?ac=1&from_search=true&qid=wv9xaSskqn&rank=3) _by [David Eddings](https://en.wikipedia.org/wiki/David_Eddings)_ [4.3] :star2:
+
+The Belgariad was my first foray into an epic series and I was hooked from the start because of the characters, humor, and adventure created by David and Leigh Eddings. The series starts with Pawn of Prophecy and spans a total of 16 novels each as well developed as the one before. Inspired by the continued printing of Lord of the Rings, Eddings created the Belgariad as a trilogy, but was eventually convinced by the publisher to print it as a series of five books. The story continues on in the equally as developed 5-book series known as the [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). - [@codercarly](https://github.com/codercarly)
+
+Books:
+
+-   [Pawn of Prophecy](https://www.goodreads.com/book/show/44659.Pawn_of_Prophecy)
+-   [Queen of Sorcery](https://www.goodreads.com/book/show/587582.Queen_of_Sorcery)
+-   [Magician's Gambit](https://www.goodreads.com/book/show/44688.Magician_s_Gambit)
+-   [Castle of Wizardry](https://www.goodreads.com/book/show/645023.Castle_of_Wizardry)
+-   [Enchanters End Game](https://www.goodreads.com/book/show/44687.Enchanters_End_Game)
+
+> It all begins with the theft of the Orb that for so long protected the West from an evil god. As long as the Orb was at Riva, the prophecy went, its people would be safe from this corrupting power. Garion, a simple farm boy, is familiar with the legend of the Orb, but skeptical in matters of magic. Until, through a twist of fate, he learns not only that the story of the Orb is true, but that he must set out on a quest of unparalleled magic and danger to help recover it. For Garion is a child of destiny, and fate itself is leading him far from his home, sweeping him irrevocably toward a distant tower-and a cataclysmic confrontation with a master of the darkest magic. The quest may be nearing its end, but the danger continues. After discovering a shocking secret about himself he never could have imagined-all in pursuit of the legendary Orb-Garion and his fellow adventurers must escape a crumbling enemy fortress and flee across a vast desert filled with ruthless soldiers whose only aim is to destroy them. But even when the quest is complete, Garion's destiny is far from fulfilled. For the evil God Torak is about to awaken and seek dominion. Somehow, Garion has to face the God, to kill or be killed. On the outcome of this dread duel rests the future of the world. But how can one man destroy an immortal God?
+
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1] :star2:
 
 My favourite book series of all time. Severian is an unreliable narrator, as he remembers everything. But he lies to you, and you slowly start to realise it. The fifth book, which was added later to the other four (mostly sold as two books), has the most unexpected revelations that make a rereading entirely necessary. This series is incredible. - [@RichardLitt](https://github.com/RichardLitt)
