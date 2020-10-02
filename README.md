@@ -902,6 +902,13 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
 
 > Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
+
+#### [Cursed](https://www.imdb.com/title/tt8210856/?ref_=fn_al_tt_1) (2020-?) [7]
+
+Reimagining of the Lady in the Lake with young King Arthur and Merlin by the legendary [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller_(comics)).  This rendition of Merlin was awesome, very different take from previous versions. The mythical world has some twists and spin on favorites like Lord of the Rings and Witcher.  [@will-chow](https://github.com/will-chow)
+
+> "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
+
 ---
 
 ## You got through the list and didn't find anything?
