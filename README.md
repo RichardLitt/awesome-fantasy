@@ -551,12 +551,9 @@ This is an absolutely amazing series. If you're looking for epic bloody action, 
 
 Books:
 
-1. [Nevernight]
-(https://www.goodreads.com/book/show/26114463-nevernight) [4.2]
-2. [Godsgrave]
-(https://www.goodreads.com/book/show/23264671-godsgrave) [4.5]
-3. [Darkdawn]
-(https://www.goodreads.com/book/show/23264672-darkdawn) [4.3]
+1. [Nevernight](https://www.goodreads.com/book/show/26114463-nevernight) [4.2]
+2. [Godsgrave](https://www.goodreads.com/book/show/23264671-godsgrave) [4.5]
+3. [Darkdawn](https://www.goodreads.com/book/show/23264672-darkdawn) [4.3]
 
 > The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff, which follows flawed heroine Mia Corvere as she trains as an assassin as part of her mission for personal revenge. Her tale takes place in the immersive world of Godsgrave and is full of fast-paced action, magic, betrayal, vengeance, and more.
 
