@@ -545,6 +545,21 @@ This was an amazing read. It was a bit over a thousand words, but it went by fas
 
 > This is a fantasy novel by American writer Jacqueline Carey, the first book in her Kushiel's Legacy series. The idea for this book first came to Carey when she was reading the Biblical Book of Genesis, and specifically a passage about "sons of God" coming into the "daughters of Men". Later, when she was writing a coffee table book, she encountered Jewish folklore, which paralleled the story in greater detail. The fictional nation of Terre D'Ange in the story was founded by a rebel angel.
 
+#### [The Nevernight Chronicle](https://www.goodreads.com/series/164599-the-nevernight-chronicle) *by [Jay Kristoff](https://en.wikipedia.org/wiki/Jay_Kristoff)*
+
+This is an absolutely amazing series. If you're looking for epic bloody action, saucy romance, and thrilling reveals, then look no further. - [@Charpal](https://github.com/Charpal)
+
+Books:
+
+1. [Nevernight]
+(https://www.goodreads.com/book/show/26114463-nevernight) [4.2]
+2. [Godsgrave]
+(https://www.goodreads.com/book/show/23264671-godsgrave) [4.5]
+3. [Darkdawn]
+(https://www.goodreads.com/book/show/23264672-darkdawn) [4.3]
+
+> The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff, which follows flawed heroine Mia Corvere as she trains as an assassin as part of her mission for personal revenge. Her tale takes place in the immersive world of Godsgrave and is full of fast-paced action, magic, betrayal, vengeance, and more.
+
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
