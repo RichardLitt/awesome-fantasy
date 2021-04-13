@@ -1,5 +1,3 @@
-# I WILL REOPEN TO PRS IN NOVEMBER.
-
 # awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
@@ -571,7 +569,7 @@ Books:
 
 > The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff, which follows flawed heroine Mia Corvere as she trains as an assassin as part of her mission for personal revenge. Her tale takes place in the immersive world of Godsgrave and is full of fast-paced action, magic, betrayal, vengeance, and more.
 
-#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) _by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.0]
+#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
