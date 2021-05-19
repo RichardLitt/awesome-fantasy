@@ -407,8 +407,8 @@ I completely agree that however long these books are, it doesn't really matter. 
 Books:
 
 - [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61] :fire:
-- [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]
-- [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73]
+- [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76] :fire:
+- [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73] :fire:
 - [Rythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) [4.63]
 - _More coming_
 
