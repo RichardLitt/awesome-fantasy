@@ -407,8 +407,9 @@ I completely agree that however long these books are, it doesn't really matter. 
 Books:
 
 - [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61] :fire:
-- [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]
-- [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73]
+- [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76] :fire:
+- [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73] :fire:
+- [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) [4.63]
 - _More coming_
 
 #### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) _by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))_ [4.15] :fire:
