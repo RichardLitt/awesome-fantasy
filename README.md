@@ -79,6 +79,21 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 >
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
+#### [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) (2005) _by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)_ [4.28] 🔥
+
+A great series that is a little different from your typical epic fantasy. In this world, everyone has powers, or elemental furies attached to them, except for Tavi, the main character.  - [@cary-williams](https://github.com/cary-williams)
+
+Books:
+
+1. [Furies of Calderon](https://www.goodreads.com/book/show/29396.Furies_of_Calderon) [4.10] 🔥
+2. [Academ's Fury](https://www.goodreads.com/book/show/133664.Academ_s_Fury) [4.22] 
+3. [Cursor's Fury](https://www.goodreads.com/book/show/29394.Cursor_s_Fury) [4.31] 
+4. [Captain's Fury](https://www.goodreads.com/book/show/346087.Captain_s_Fury) [4.31] 
+5. [Princeps' Fury](https://www.goodreads.com/book/show/2903736-princeps-fury) [4.37] 
+6. [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) [4.39] 
+
+> Welcome to the Realm of Alera, traveler. Written by the #1 New York Times bestselling author Jim Butcher, the Codex Alera follows the adventures—and misadventures!—of a young man, Tavi of Calderon. In a land where everyone has access to great powers called furies, being the only one without a fury to his name can be tricky, but Tavi proves time and time again that it is not all about your furies.
+
 #### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) _by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)_ [3.98]
 
 My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
@@ -457,22 +472,6 @@ Books:
 > After serving out a year of hard labor in the salt mines of Endovier for her crimes, 18-year-old assassin Celaena Sardothien is dragged before the Crown Prince. Prince Dorian offers her her freedom on one condition: she must act as his champion in a competition to find a new royal assassin.
 > Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council. If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life. Things get a little more interesting when the prince starts to show interest in her ... but it's the gruff Captain Westfall who seems to understand her best.
 > Then one of the other contestants turns up dead ... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim? As the young assassin investigates, her search leads her to discover a greater destiny than she could possibly have imagined.
-
-#### [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) (2005) _by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)_ [4.28] 🔥
-
-A great series that is a little different from your typical epic fantasy. In this world, everyone has powers, or elemental furies attached to them, except for Tavi, the main character.  - [@cary-williams](https://github.com/cary-williams)
-
-Books:
-
-1. [Furies of Calderon](https://www.goodreads.com/book/show/29396.Furies_of_Calderon) [4.10] 🔥
-2. [Academ's Fury](https://www.goodreads.com/book/show/133664.Academ_s_Fury) [4.22] 
-3. [Cursor's Fury](https://www.goodreads.com/book/show/29394.Cursor_s_Fury) [4.31] 
-4. [Captain's Fury](https://www.goodreads.com/book/show/346087.Captain_s_Fury) [4.31] 
-5. [Princeps' Fury](https://www.goodreads.com/book/show/2903736-princeps-fury) [4.37] 
-6. [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) [4.39] 
-
-> Welcome to the Realm of Alera, traveler. Written by the #1 New York Times bestselling author Jim Butcher, the Codex Alera follows the adventures—and misadventures!—of a young man, Tavi of Calderon. In a land where everyone has access to great powers called furies, being the only one without a fury to his name can be tricky, but Tavi proves time and time again that it is not all about your furies.
-
 
 ### Standard Fantasy
 
