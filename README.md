@@ -528,6 +528,12 @@ This book inspired me at the age of 14 to get a tattoo I ended up getting 7 year
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
+#### [The Darkest Part of the Forest](https://www.goodreads.com/book/show/20958632-the-darkest-part-of-the-forest) (2015) _by [Holly Black](https://en.wikipedia.org/wiki/Holly_Black)_ [3.85]
+
+I read this book in high school and I loved how the book was able to merge the fantasy elements with relatable storylines aimed towards teenagers. - [@jilloestreicher](https://github.com/jilloestreicher)
+
+> Hazel lives with her brother, Ben, in the strange town of Fairfold where humans and fae exist side by side. The faeries’ seemingly harmless magic attracts tourists, but Hazel knows how dangerous they can be, and she knows how to stop them. Or she did, once. As the world turns upside down, Hazel tries to remember her years pretending to be a knight. But swept up in new love, shifting loyalties, and the fresh sting of betrayal, will it be enough?
+
 #### [The Gentleman Bastards Series](https://www.goodreads.com/series/43531-gentleman-bastard) (2006) _by [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch)_ [4.25]
 
 This series has an ingenious narrative, set in a world of intrigue, blades in the night, camaraderie between brothers, bloodthirsty monarchs, tight-fisted crime lords, and honor amongst thieves. The Gentleman Bastards will keep you guessing, and as soon as you think you understand what's happening, they'll steal the floor out from under you and leave you dangling off the side of an Elderglass tower. If you like rogues, heists, magic, or deception, this series will keep you guessing until the last page, and after. - [@dgpalmieri](https://github.com/dgpalmieri)
