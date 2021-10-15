@@ -135,6 +135,15 @@ Books:
 - [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
 - [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
 
+#### [Elantris](https://www.goodreads.com/book/show/68427.Elantris) (2005) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.17] 🔥
+
+This is a beautiful but somewhat slow paced book with really good world building that we have come to expect and love from Brandon Sanderson. If you are not sure to read it because it's his first book, have no fear!!! Go ahead and read it, I can assure you, you will not regret it. - [@Shadeslayer234](https://github.com/Shadeslayer234)
+
+> Elantris was the capital of Arelon: gigantic, beautiful, literally radiant, filled with benevolent beings who used their powerful magical abilities for the benefit of all. Yet each of these demigods was once an ordinary person until touched by the mysterious transforming power of the Shaod. Ten years ago, without warning, the magic failed. Elantrians became wizened, leper-like, powerless creatures, and Elantris itself dark, filthy, and crumbling.
+> Arelon's new capital, Kae, crouches in the shadow of Elantris. Princess Sarene of Teod arrives for a marriage of state with Crown Prince Raoden, hoping—based on their correspondence—to also find love. She finds instead that Raoden has died and she is considered his widow. Both Teod and Arelon are under threat as the last remaining holdouts against the imperial ambitions of the ruthless religious fanatics of Fjordell. So Sarene decides to use her new status to counter the machinations of Hrathen, a Fjordell high priest who has come to Kae to convert Arelon and claim it for his emperor and his god.
+> But neither Sarene nor Hrathen suspect the truth about Prince Raoden. Stricken by the same curse that ruined Elantris, Raoden was secretly exiled by his father to the dark city. His struggle to help the wretches trapped there begins a series of events that will bring hope to Arelon, and perhaps reveal the secret of Elantris itself.
+> A rare epic fantasy that doesn't recycle the classics and that is a complete and satisfying story in one volume, Elantris is fleet and fun, full of surprises and characters to care about. It's also the wonderful debut of a welcome new star in the constellation of fantasy.
+
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) _by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)_
 
 These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -472,15 +481,6 @@ Books:
 > After serving out a year of hard labor in the salt mines of Endovier for her crimes, 18-year-old assassin Celaena Sardothien is dragged before the Crown Prince. Prince Dorian offers her her freedom on one condition: she must act as his champion in a competition to find a new royal assassin.
 > Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council. If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life. Things get a little more interesting when the prince starts to show interest in her ... but it's the gruff Captain Westfall who seems to understand her best.
 > Then one of the other contestants turns up dead ... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim? As the young assassin investigates, her search leads her to discover a greater destiny than she could possibly have imagined.
-
-#### [Elantris](https://www.goodreads.com/book/show/68427.Elantris) (2005) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.17] 🔥
-
-This is a beautiful but somewhat slow paced book with really good world building that we have come to expect and love from Brandon Sanderson. If you are not sure to read it because it's his first book, have no fear!!! Go ahead and read it, I can assure you, you will not regret it. - [@Shadeslayer234](https://github.com/Shadeslayer234)
-
-> Elantris was the capital of Arelon: gigantic, beautiful, literally radiant, filled with benevolent beings who used their powerful magical abilities for the benefit of all. Yet each of these demigods was once an ordinary person until touched by the mysterious transforming power of the Shaod. Ten years ago, without warning, the magic failed. Elantrians became wizened, leper-like, powerless creatures, and Elantris itself dark, filthy, and crumbling.
-> Arelon's new capital, Kae, crouches in the shadow of Elantris. Princess Sarene of Teod arrives for a marriage of state with Crown Prince Raoden, hoping—based on their correspondence—to also find love. She finds instead that Raoden has died and she is considered his widow. Both Teod and Arelon are under threat as the last remaining holdouts against the imperial ambitions of the ruthless religious fanatics of Fjordell. So Sarene decides to use her new status to counter the machinations of Hrathen, a Fjordell high priest who has come to Kae to convert Arelon and claim it for his emperor and his god.
-> But neither Sarene nor Hrathen suspect the truth about Prince Raoden. Stricken by the same curse that ruined Elantris, Raoden was secretly exiled by his father to the dark city. His struggle to help the wretches trapped there begins a series of events that will bring hope to Arelon, and perhaps reveal the secret of Elantris itself.
-> A rare epic fantasy that doesn't recycle the classics and that is a complete and satisfying story in one volume, Elantris is fleet and fun, full of surprises and characters to care about. It's also the wonderful debut of a welcome new star in the constellation of fantasy.
 
 ### Standard Fantasy
 
