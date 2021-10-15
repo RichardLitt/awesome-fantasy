@@ -978,6 +978,12 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 
+#### [Breaking Bad](https://www.imdb.com/title/tt0903747/) (2008-2013) [9.4]
+
+One of the best series that you can see. Happiness, Misery, Laugh, Cry, Friendship, Intelligence, ... These are some of the words that I can say about this series.  - [@SinaMoghddas](https://github.com/sinamoghaddas)
+
+> A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.
+
 ---
 
 ## You got through the list and didn't find anything?
