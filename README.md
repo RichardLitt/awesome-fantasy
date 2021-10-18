@@ -910,6 +910,12 @@ The idea of eternal love through human existence and connection made be cry. A h
 
 > Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
 
+#### [The Shape of Water](https://www.imdb.com/title/tt5580390/) [7.3]
+
+It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is full of hope and desire as the lead characters explore love in a unique way that is different and unnatural. The movie will have you shed tears, in suspense, and thrilled by shocking twists and events. - [@SinaMoghaddas](https://github.com/SinaMoghaddas)
+
+> At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
