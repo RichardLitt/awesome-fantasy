@@ -816,6 +816,12 @@ An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazett
 
 > At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
 
+#### [Harry Potter and the Sourcerer's Stone (2001)](https://www.imdb.com/title/tt0241527/) [7.6]
+
+Harry Potter and the Sorcerer's Stone is the closest book-to-film translation I've ever seen. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+>Harry Potter and the Philosopher's Stone is an enthralling start to Harry's journey toward coming to terms with his past and facing his future.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
