@@ -816,6 +816,12 @@ An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazett
 
 > At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
 
+#### [Harry Potter and the Prisoner of Azkaban](https://www.imdb.com/title/tt0304141/) [7.9]
+
+An overall great sequel to the Harry Potter Movie Series. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> Harry, Ron and Hermoine return to Hogwarts just as they learn about Sirius Black and his plans to kill Harry. However, when Harry runs into him, he learns that the truth is far from reality.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
