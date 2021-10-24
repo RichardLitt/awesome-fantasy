@@ -816,6 +816,12 @@ An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazett
 
 > At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
 
+#### [Harry Potter and the Goblet of Fire](https://www.imdb.com/title/tt0330373/?ref_=fn_al_tt_1) [7.7]
+
+A movie worth watching if you love exploring the importance of tolerance and pushing for equality. - [@ErvinaDe](https://github.com/ErvinaDe)
+
+> When Harry is chosen as a fourth participant of the inter-school Triwizard Tournament, he is unwittingly pulled into a dark conspiracy that endangers his life.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
