@@ -816,6 +816,12 @@ An animated fantasy classic collaboration between Ralph Bakshi and Frank Frazett
 
 > At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.
 
+#### [Harry Potter and the Chamber of Secrets](https://www.imdb.com/title/tt0295297/) [7.4]
+
+ - Great book-to-movie adaptation. [@ErvinaDe](https://github.com/ErvinaDe)
+
+> A house-elf warns Harry against returning to Hogwarts, but he decides to ignore it. When students and creatures at the school begin to get petrified, Harry finds himself surrounded in mystery.
+
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
 This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
