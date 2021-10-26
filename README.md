@@ -246,6 +246,20 @@ There is so much good writing, so many beautiful places, that it is almost impos
 
 > Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
+#### [The Daevabad Trilogy](https://www.goodreads.com/series/211584-the-daevabad-trilogy) 2017 _by[S. A. Chakraborty](https://en.wikipedia.org/wiki/S._A._Chakraborty)_[4.3]
+
+This series is sumptuous. It follows Nahri as she leaves her hum-drum life in Egypt for a life of adventure, danger, and romance. It all starts when she plays with magic she doesn't understand and ends up summoning a djinn. This is truly an epic work as it spans three books, the final volume weighing in at nearly 800 pages. The world building is wonderful and reading a fantasy based on eastern magic and mythology was a welcome change for me among so many fantasies that seem more European-based. I looked forward to both sequels as they came out and finished reading the final installment without even realizing I had read over 700 pages because I read it on a Kindle! 
+
+One of my favorite parts of the books was the unique perspective brought by each of the characters. Although the story starts off with Nahri and I would call her THE main character, it is written with other views as well. Each character had a distinctive voice. I find this to be a sprawling story in the best sense. - [@novemberhaiku](https://github.com/novemberhaiku)
+
+Books:
+
+-[The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
+-[The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
+-[The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
+
+>In the Daevabad Trilogy, S. A. Chakraborty builds an astounding world full of magic and conflict. Nahri begins as a grifter in Egypt, but accidentally summons a djinn who unwillingly introduces her to a world of magic and the city he once called home. Its history is dark and its future uncertain as Nahri discovers who she really is and how she can change the world of the djinn.
+
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) _by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)_ [4.3]
 
 This omnibus edition of 3 books describes the origin and deeds of a female Paladin named Paksenarrion. The Deed of Paksenarrion contemplates justice, true courage and the forces of good and evil in a way that is refreshing. I don't think I ever really understood the fantasy class of Paladin until reading this either, Elizabeth Moon's depiction will now forever be my etched on my brain as what a Paladin is.
