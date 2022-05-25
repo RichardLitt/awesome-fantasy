@@ -974,6 +974,10 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
 
 > An English combat nurse from 1945 is mysteriously swept back in time to 1743.
 
+#### [Peaky Blinders](https://www.imdb.com/title/tt2442560/) (2013-2022) [8.8]
+
+Peaky Blinders is one my favourite TV shows till date. The show's theme is inspired from 20th century working class England. Tommy Shelby, who is commoner and a soldier rises to great position in society by constantly battling against all odds.  - [@nkilm](https://github.com/nkilm)
+
 #### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
 
 Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
