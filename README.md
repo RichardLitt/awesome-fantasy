@@ -741,7 +741,7 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 > What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
 
-### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler)
+### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler) 🔥 [4.00]
 
 A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf. - [@umadhatri](https://github.com/umadhatri)
 
@@ -749,16 +749,16 @@ A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, 
 
 Books:
 - [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
-- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room)
-- [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window)
-- [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill)
-- [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy)
-- [The Ersatz Elevator](https://www.goodreads.com/book/show/172327.The_Ersatz_Elevator)
-- [The Vile Village](https://www.goodreads.com/book/show/150037.The_Vile_Village)
-- [The Hostile Hospital](https://www.goodreads.com/book/show/65118.The_Hostile_Hospital)
-- [The Carnivorous Carnival](https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival)
-- [The Slippery Slope](https://www.goodreads.com/book/show/297792.The_Slippery_Slope)
-- [The Grim Grotto](https://www.goodreads.com/book/show/65111.The_Grim_Grotto)
+- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room) 🔥
+- [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window) 🔥
+- [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill) 🔥
+- [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy) 🔥
+- [The Ersatz Elevator](https://www.goodreads.com/book/show/172327.The_Ersatz_Elevator) 🔥
+- [The Vile Village](https://www.goodreads.com/book/show/150037.The_Vile_Village) 🔥
+- [The Hostile Hospital](https://www.goodreads.com/book/show/65118.The_Hostile_Hospital) 🔥
+- [The Carnivorous Carnival](https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival) 🔥
+- [The Slippery Slope](https://www.goodreads.com/book/show/297792.The_Slippery_Slope) 🔥
+- [The Grim Grotto](https://www.goodreads.com/book/show/65111.The_Grim_Grotto) 🔥
 - [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
 - [The End](https://www.goodreads.com/book/show/65112.The_End)
 
