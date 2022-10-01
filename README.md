@@ -707,26 +707,6 @@ Discworld is a massive, sprawling world outlined in dozens of books by the late 
 
 > Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
 
-### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler)
-
-A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf.
-> These books were my childhood. I love the dry and satirical humor as the author puts these kids through incerdibly campy situations and they find increasingly clever ways to escape the evil Count. The kids are just the sweetest charecters and as a kid I enjoyed the adventures that they went on in each of the books. The narrator Lemony Snicket almost enjoys reliving the tales of the kids' adventures in a sort of devilish way. The Netflix adaptation was just as deliciously good as the books. People might not agree with me, but then, everybody has their own opinions @umadhatri
-
-Books:
-- [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
-- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room)
-- [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window)
-- [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill)
-- [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy)
-- [The Ersatz Elevator](https://www.goodreads.com/book/show/172327.The_Ersatz_Elevator)
-- [The Vile Village](https://www.goodreads.com/book/show/150037.The_Vile_Village)
-- [The Hostile Hospital](https://www.goodreads.com/book/show/65118.The_Hostile_Hospital)
-- [The Carnivorous Carnival](https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival)
-- [The Slippery Slope](https://www.goodreads.com/book/show/297792.The_Slippery_Slope)
-- [The Grim Grotto](https://www.goodreads.com/book/show/65111.The_Grim_Grotto)
-- [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
-- [The End](https://www.goodreads.com/book/show/65112.The_End)
-
 Books:
 
 - [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
@@ -760,6 +740,27 @@ This was a fun book, and a great collaboration. At times it is a bit clear where
 This is a book that doesn't take away from the classic movie rendition of it, but adds to it. It stands alone as a fun little read. - [@RichardLitt](https://github.com/RichardLitt)
 
 > What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
+
+### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler)
+
+A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf. - [@umadhatri](https://github.com/umadhatri)
+
+> These books were my childhood. I love the dry and satirical humor as the author puts these kids through incerdibly campy situations and they find increasingly clever ways to escape the evil Count. The kids are just the sweetest charecters and as a kid I enjoyed the adventures that they went on in each of the books. The narrator Lemony Snicket almost enjoys reliving the tales of the kids' adventures in a sort of devilish way. The Netflix adaptation was just as deliciously good as the books. People might not agree with me, but then, everybody has their own opinions.
+
+Books:
+- [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
+- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room)
+- [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window)
+- [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill)
+- [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy)
+- [The Ersatz Elevator](https://www.goodreads.com/book/show/172327.The_Ersatz_Elevator)
+- [The Vile Village](https://www.goodreads.com/book/show/150037.The_Vile_Village)
+- [The Hostile Hospital](https://www.goodreads.com/book/show/65118.The_Hostile_Hospital)
+- [The Carnivorous Carnival](https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival)
+- [The Slippery Slope](https://www.goodreads.com/book/show/297792.The_Slippery_Slope)
+- [The Grim Grotto](https://www.goodreads.com/book/show/65111.The_Grim_Grotto)
+- [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
+- [The End](https://www.goodreads.com/book/show/65112.The_End)
 
 ### Horror
 
