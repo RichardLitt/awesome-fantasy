@@ -833,9 +833,9 @@ Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity re
 
 #### [The Miraculous Journey of Edward Tulane](https://www.goodreads.com/book/show/37186.The_Miraculous_Journey_of_Edward_Tulane) _by [Kate diCamillo](https://www.goodreads.com/author/show/13663.Kate_DiCamillo), [Bagram Ibatoulline](https://www.goodreads.com/author/show/1354902.Bagram_Ibatoulline)_ [4.36]
 
-A heartwarming book that will teach adults and children to love and to let yourself be loved. - [@e-costalmeida](https://github.com/e-costalmeida)
+A heartwarming book that will teach adults and children to love and to let yourself be loved. 
 
-Kate DiCamillo takes us on an extraordinary journey, from the depths of the ocean to the net of a fisherman, from the top of a garbage heap to the fireside of a hoboes' camp, from the bedside of an ailing child to the bustling streets of Memphis. And along the way, we are shown a true miracle — that even a heart of the most breakable kind can learn to love, to lose, and to love again. 
+Kate DiCamillo takes us on an extraordinary journey, from the depths of the ocean to the net of a fisherman, from the top of a garbage heap to the fireside of a hoboes' camp, from the bedside of an ailing child to the bustling streets of Memphis. And along the way, we are shown a true miracle — that even a heart of the most breakable kind can learn to love, to lose, and to love again. - [@e-costalmeida](https://github.com/e-costalmeida)
 
 > Once, in a house on Egypt Street, there lived a china rabbit named Edward Tulane. The rabbit was very pleased with himself, and for good reason: he was owned by a girl named Abilene, who treated him with the utmost care and adored him completely.
 >
