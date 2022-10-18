@@ -1023,6 +1023,12 @@ The Originals may overwhelm casual viewers with its myriad twists and bevy of su
 
 > A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.
 
+#### [The Umbrella Academy](https://www.imdb.com/title/tt1312171/)[7.9]
+
+My favourite TV series by far. With a lot of intriguing characters, perfect comic timing, and an immaculate soundtrack, everything about the show is perfect. The story follows the lives of seven siblings(1 dead) born with superpowers. They had a troubled childhood, but they must stop the apocalypse while dealing with their own problems. -[@AbhijeetMittal4](http://github.com/AbhijeetMittal4)
+
+> A family of former child heroes, now grown apart, must reunite to continue to protect the world.
+
 #### [The Vampire Diaries](https://www.imdb.com/title/tt1405406/) (2009-2017) [7.7]
 
 If you are looking for romance, teenagers figuring out life and guys removing their shirts for no reason. This series is for you. It is the kind of series you can binge-watch, whilst getting sucked into the mysteries of Mystic Falls. Easy to watch with a great storyline. - [@Hazelnoot](https://github.com/hazelnoot)
