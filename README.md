@@ -711,7 +711,7 @@ Outlander is a unique, satisfying adaptation of its source material, brought to 
 
 > Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
 
-#### [The Witcher](https://www.imdb.com/title/tt5180504/) (2019-) [8.2]
+#### [The Witcher](https://www.imdb.com/title/tt5180504/) (2019-current) [8.2]
 
 The Witcher is an American television series and a Netflix original. The series was created by Lauren Schmidt Hissrich and is based on the book series of the same name by Polish fantasy writer Andrzej Sapkowski. - [@Hazelnoot](https://github.com/hazelnoot)
 
