@@ -969,6 +969,12 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 
 ## TV Series
 
+#### [Arcane](https://www.imdb.com/title/tt11126994/) [9]
+
+A science-fantasy video game reinvented as a show. The action, the plot, the drama, and most importantly, the unique animation will draw your attention to each and every frame and scene. A very gripping show.  - [@BellatrixLestrangee](https://github.com/BellatrixLestrangee)
+
+> Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions-and the power that will tear them apart.
+
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
 
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
