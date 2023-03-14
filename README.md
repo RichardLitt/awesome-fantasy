@@ -182,7 +182,7 @@ Would recommend this entire series and the whole Cosmere to any fantasy fan. - [
 >
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
 >
-> Books 4-6 are sequels that take place 300 years later.
+> Books 4-7 are sequels that take place 300 years later.
 
 Books:
 
@@ -192,7 +192,7 @@ Books:
 - [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
 - [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
 - [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
-- _More coming_
+- [The Lost Metal](https://www.goodreads.com/book/show/23947089-the-lost-metal) [4.5]
 
 #### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) _by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)_
 
