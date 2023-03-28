@@ -1034,8 +1034,13 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
- 
 
+#### [Shadow and Bone](https://www.imdb.com/title/tt2403776/) (2021-2023) [7.6]
+
+Shadow and Bone is one of the better fantasy shows to come out in the last few years. While it's not the best, it's up there! The show got me hooked from the first episode and I was pleasantly surprised by how much I enjoyed it. It has a little of something for everyone...fantasy, humor, action, drama, romance, etc. While it does take a few episodes to really get going, stay with it because it's worth it! If you like fantasy then give this show a chance, you won't be disappointed! [@Evy04](https://github.com/Evy04)
+
+> Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.
+ 
 
 ---
 
