@@ -969,7 +969,7 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 
 ## TV Series
 
-#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
+#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) (2005-2008) [9.2]
 
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -981,43 +981,43 @@ Reimagining of the Lady in the Lake with young King Arthur and Merlin by the leg
 
 > "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
 
-#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
+#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) (2011-2019) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Several noble families fight for control of the mythical land of Westeros.
 
-#### [Good Omens](https://m.imdb.com/title/tt1869454/) [8.2]
+#### [Good Omens](https://m.imdb.com/title/tt1869454/) (2019-2023) [8.2]
 
 A great comedic mini-series with perfect casting wonderfully depicting the motifs of Gaiman and Pratchett's novel with the same name. - [@Djolo1802](https://github.com/djolo1802)
 
 > A tale of the bungling of Armageddon features an angel, a demon, an eleven-year-old Antichrist, and a doom-saying witch.
 
-#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) [7.9]
+#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) (2019-2022) [7.9]
 
 Excellent tv show. I love the books and I thought the adaptation was really good. - [@staelsabrina](https://github.com/staelsabrina)
 
 > A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons.
 
-#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
+#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-2021) [8.2]
 
 I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
 
 > Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
 
-#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+#### [Outlander](https://www.imdb.com/title/tt3006802/) (2014-ongoing) [8.4]
 
 Outlander is a unique, satisfying adaptation of its source material, brought to life by lush scenery and potent chemistry between its leads. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 > An English combat nurse from 1945 is mysteriously swept back in time to 1743.
 
-#### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
+#### [Supernatural](https://www.imdb.com/title/tt0460681/) (2005-2020) [8.4]
 
 Supernatural is somewhat endearing in that the main characters (the only ones who will be recurring) are brothers, however, the writing makes the characters more believable. They are different from each other, each with their own take on life and things that are not typical. - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 > Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
 
-#### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
+#### [The Originals](https://www.imdb.com/title/tt2632424) (2013-2018) [8.2]
 
 The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
 
