@@ -909,6 +909,12 @@ Beautiful and stunning film with strong female characters. Even if you're not fa
 
 > On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
 
+#### [Puss in Boots: The Last Wish](https://www.imdb.com/title/tt3915174/) [7.9]
+
+A fun and thrilling sequel, I enjoyed this adventure of found family and figuring out what you want is already with you. Great cast of characters and villains, this movie makes good use of the motivations they all have. - [@Shadowsarespooky] (https://github.com/Shadowsarespooky)
+
+> When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.
+
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
 An incredible film for the vision of the world, and the way they combine medieval technology with modern warfare. The dragons are bad-ass. - [@RichardLitt](https://github.com/RichardLitt)
