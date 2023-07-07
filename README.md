@@ -246,6 +246,20 @@ There is so much good writing, so many beautiful places, that it is almost impos
 
 > Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
+#### [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 _by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)_ [4.42]
+
+The Chronicles of Prydain encapsulates what I deem to be a perfect fantasy series for young adults. The overarching theme of the series is the triumph of good over evil as the protagonist grapples with pain, betrayal, love, and other classic tropes in fantasy literature. Alexander's profound compassion is what makes "The Chronicles of Prydain" such an enduring thrill. The action is engaging enough for young children, but the principles it reveals are profound enough to resound with the reader at every stage of life. - [@lin-dsey](https://github.com/lin-dsey)
+
+Books:
+
+-[The Book of Three](https://www.goodreads.com/book/show/24780.The_Book_of_Three)
+-[The Black Cauldron](https://www.goodreads.com/book/show/24784.The_Black_Cauldron)
+-[The Castle of Llyr](https://www.goodreads.com/book/show/24779.The_Castle_of_Llyr)
+-[Taran Wanderer](https://www.goodreads.com/book/show/24782.Taran_Wanderer)
+-[The High King](https://www.goodreads.com/book/show/24781.The_High_King)
+
+> The five novels take place in Prydain, a fictional country ruled by a High King who oversees several minor kingdoms. The setting is based on Wales and inhabited by creatures and characters inspired by Welsh mythology and folklore. The series follows the protagonist Taran, a youth of unknown parentage living on a farm with an old enchanter named Dallben and a farmer named Coll. Taran, who dreams of being a great hero, is named "Assistant Pig-Keeper" and tasked with helping to care for and protect Hen Wen, a white oracular pig magically empowered with clairvoyance. Taran has a series of adventures wherein he helps protect the land of Prydain from various threats, chief among them the evil Arawn, whose forces include an undead army known as the Cauldron-Born. Throughout the novels, Taran's major companions are the Princess Eilonwy, the bard Fflewddur Fflam, the wild beast-man Gurgi, and the dwarf Doli. The heroes frequently work alongside the Fair Folk (a society of elves and similar beings) and the warriors known as the Sons of Don. Along with various battles against forces of evil, the novels focus on Taran's journey of maturity.
+
 #### [The Daevabad Trilogy](https://www.goodreads.com/series/211584-the-daevabad-trilogy) 2017 _by[S. A. Chakraborty](https://en.wikipedia.org/wiki/S._A._Chakraborty)_[4.3]
 
 This series is sumptuous. It follows Nahri as she leaves her hum-drum life in Egypt for a life of adventure, danger, and romance. It all starts when she plays with magic she doesn't understand and ends up summoning a djinn. This is truly an epic work as it spans three books, the final volume weighing in at nearly 800 pages. The world building is wonderful and reading a fantasy based on eastern magic and mythology was a welcome change for me among so many fantasies that seem more European-based. I looked forward to both sequels as they came out and finished reading the final installment without even realizing I had read over 700 pages because I read it on a Kindle! 
