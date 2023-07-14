@@ -522,6 +522,12 @@ This book stands up to a reread, and is a nice example of Neil Gaiman's ability 
 >
 > Scary, gripping and deeply unsettling, AMERICAN GODS takes a long, hard look into the soul of America. You'll be surprised by what and who it finds there...
 
+#### [The Book of Knights](https://www.goodreads.com/en/book/show/1583772) _by [Yves Menard](https://en.wikipedia.org/wiki/Yves_Meynard)_ [3.94]
+
+An outstanding book. I was blown away by how exceptionally other-worldly this book felt - it reminded me of Jack Vance and Gene Wolfe, which is how I found it. One of the quotes in the book is used as an opener in Wolfe's _The Wizard Knight_. The book follows a young boy as he seeks to become a knight, inspired by his reading a book titled "The Book of Knights". I can't recommend this book enough. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A young boy and his journey to become a knight. He must complete a quest, but the book takes you places you don't expect a seemingly run-of-the-mill book would.
+
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) _by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)_ [4.5]
 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
