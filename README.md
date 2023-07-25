@@ -510,6 +510,26 @@ Books:
 > Her opponents are men-thieves and assassins and warriors from across the empire, each sponsored by a member of the king's council. If she beats her opponents in a series of eliminations, she'll serve the kingdom for four years and then be granted her freedom. Celaena finds her training sessions with the captain of the guard, Westfall, challenging and exhilarating. But she's bored stiff by court life. Things get a little more interesting when the prince starts to show interest in her ... but it's the gruff Captain Westfall who seems to understand her best.
 > Then one of the other contestants turns up dead ... quickly followed by another. Can Celaena figure out who the killer is before she becomes a victim? As the young assassin investigates, her search leads her to discover a greater destiny than she could possibly have imagined.
 
+#### [Tortall](https://www.goodreads.com/series/50262-tortall) (1983) _by [Tamora Pierce](https://en.wikipedia.org/wiki/Tamora_Pierce)_ [4.3]
+
+These are a collection of series that all focus on female protagonists in unique fantasy jobs, from law enforcement to magicians. Each exist in the same universe but are generally years apart, so there are hints of other periods but each series can easily stand on its own. - [@depperm](https://github.com/depperm)
+
+Series:
+
+- [Beka Cooper](https://www.goodreads.com/series/44532-beka-cooper)
+- [The Song of the Lioness](https://www.goodreads.com/series/43928-song-of-the-lioness)
+- [The Immortals](https://www.goodreads.com/series/49863-immortals)
+- [The Protector of the Small](https://www.goodreads.com/series/43815-protector-of-the-small)
+- [Tricksters](https://www.goodreads.com/series/43688-daughter-of-the-lioness)
+
+> The area known as Tortall and its surrounding countries is a medieval fantasy universe, emerging from a time in the north when only men were permitted to hold knighthoods.  It is the home of an interesting assortment of heroes, many of them girls, who have found ways to make a difference in a world that can be hard and bloody–as knights, as mages (wizards), as spies, as law enforcement.
+>
+>On the field of battle or in the corridors of noble houses, flanked by companions human, animal, and sometimes other, the Tortall heroes always have their work cut out for them.  There is military danger from neighbors like northern Scanra, eastern Tusaine, and worst of all, imperial Carthak in the south, with its ever-hungry slave culture and its greedy mage emperor.  Pirates from Carthak, Scanra, and the Copper Isles haunt Tortall’s eastern shores.  And in a country both large and sparsely policed, there is always a risk of conflict, be it from rebel nobles, the impoverished people of the eastern hills, or the barely vanquished Bazhir tribes.
+>
+>Its monarchs range from kind to fumbling to formidable, as do its thieves, its mages, its priests, its warriors, and most of all, its gods.  These are very much present in the lives of the people, taking up champions and taking against those who have angered them.  They are joined by god-like creatures–winged horses; giant spiders with human heads; dragons; griffins; giants; huge, icy lizards that hunt down thieves no matter what stands in their way.
+>
+>It is a beautiful, perilous place, where teenagers and adults can make their mark on a magical world!
+
 ### Standard Fantasy
 
 #### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) _by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.1]
