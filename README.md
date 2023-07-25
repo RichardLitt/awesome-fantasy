@@ -861,6 +861,12 @@ Kate DiCamillo takes us on an extraordinary journey, from the depths of the ocea
 >
 > And then, one day, he was lost.
 
+[Usagi Yojimbo](https://www.goodreads.com/series/71007-usagi-yojimbo) (1987) _by [Stan Sakai](https://en.wikipedia.org/wiki/Stan_Sakai)_ [4.1]
+
+This series does a great job of portraying samurai life in ancient Japan, with characters who are all animals. The artistic style is simple and clean. - [@depperm](https://github.com/depperm)
+
+> Miyamoto Usagi is no Bugs Bunny. He's a rabbit bodyguard, a samurai who wanders the mountains, plains, and villages of a 17th-century Japan populated almost exclusively by anthropomorphic animals. Cats, snakes, rhinos, and ninja moles plot and fight their way across a land ravaged by civil war. The 10 stories in this first collection introduce Usagi, the evil Lord Hikiji, and a host of other characters. The stories themselves can stand alone, but taken together they begin to form an ongoing saga of treachery and revenge. Sometimes violent, sometimes funny, Usagi's adventures are filled with fascinating historical detail. The costumes, landscapes, and buildings are beautifully drawn, creating such a sense of realism it's easy to forget the hero is a rabbit. If you buy the first book in this series, you'll want the rest.
+
 ## Movies
 
 #### [Interstellar](https://www.imdb.com/title/tt0816692/) [8.6]
