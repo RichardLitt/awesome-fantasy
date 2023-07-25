@@ -464,6 +464,18 @@ Books:
 - [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) [4.63]
 - _More coming_
 
+#### [The Wandering Inn](https://www.goodreads.com/series/265443-the-wandering-inn) (2018) *by [Pirateaba](https://www.goodreads.com/author/show/18265573.Pirateaba)* [4.3]
+
+Initially this started as a webserial, which might indicate shorter length, but there are 9 volumes (each 1k+ pages). While there are LitRPG themes of a sort, this is more of people being transported into another world not a game. The world building is some of the best: countries (with politics), magic, characters (good, bad, side), plans/plots, bias/hatred, and unique monsters. - [@depperm](https://github.com/depperm)
+
+> “No killing Goblins.”
+>
+>So reads the sign outside of The Wandering Inn, a small building run by a young woman named Erin Solstice. She serves pasta with sausage, blue fruit juice, and dead acid flies on request. And she comes from another world. Ours.
+>
+>It’s a bad day when Erin finds herself transported to a fantastical world and nearly gets eaten by a Dragon. She doesn’t belong in a place where monster attacks are a fact of life, and where Humans are one species among many. But she must adapt to her new life. Or die.
+>
+>In a dangerous world where magic is real and people can level up and gain classes, Erin Solstice must battle somewhat evil Goblins, deadly Rock Crabs, and hungry [Necromancers]. She is no warrior, no mage. Erin Solstice runs an inn.
+
 #### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) _by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))_ [4.15] :fire:
 
 These books are probably the longest single series in the fantasy genre. I've read the series eight times. I don't know what to make of that, except that it's worth reading. It's like a long soap opera - the characters are one sided and flat, but there are so many of them that you end up not minding. The magic system is very intricate, and the general plot line is good. The three last books were co-written, as Robert Jordan died before they were done. - [@RichardLitt](https://github.com/RichardLitt)
