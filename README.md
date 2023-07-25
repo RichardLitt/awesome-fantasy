@@ -442,7 +442,7 @@ Books:
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
-#### [The Riyria Chronicles](link) (2013) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.3]
+#### [The Riyria Chronicles](https://www.goodreads.com/series/175806-the-riyria-chronicles) (2013) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.3]
 
 Writing a good prequel is hard, but this series masterfully introduces the main characters. If you're reading by publishing year, it fills in the blanks in much of Royce and Hadrian's origin story that is hinted at later on. - [@depperm](https://github.com/depperm)
 
