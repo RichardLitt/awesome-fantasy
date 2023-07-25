@@ -442,6 +442,18 @@ Books:
 
 > To the forest on the shore of the Kingdom of the Isles, the orphan Pug came to study with the master magician Kulgan. His courage won him a place at court and the heart of a lovely Princess, but he was ill at ease with normal wizardry. Yet his strange magic may save two worlds from dark beings who opened space-time to renew the age-old battle between Order and Chaos.
 
+#### [The Riyria Chronicles](link) (2013) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.3]
+
+Writing a good prequel is hard, but this series masterfully introduces the main characters. If you're reading by publishing year, it fills in the blanks in much of Royce and Hadrian's origin story that is hinted at later on. - [@depperm](https://github.com/depperm)
+
+> A warrior with nothing to fight for is paired with a thieving assassin with nothing to lose. Together they must steal a treasure that no one can reach. The Crown Tower is the impregnable remains of the grandest fortress ever built and home to the realm’s most valuable possessions. But it isn’t gold or jewels the old wizard is after, and this prize can only be obtained by the combined talents of two remarkable men. Now if Arcadius can just keep Hadrian and Royce from killing each other, they just might succeed.
+
+#### [The Riyria Revelations](link) (2008) _by [Michael J. Sullivan](https://en.wikipedia.org/wiki/Michael_J._Sullivan_(author))_ [4.2]
+
+Chronologically this is second, but this series was published first. This series is what pulled me into reading all of Michael J Sullivan's other writings. Dynamic duos make a great story, and it's the same for this set of series. - [@depperm](https://github.com/depperm)
+
+> There is no ancient evil to defeat, no orphan destined for greatness, just two guys in the wrong place at the wrong time. Royce Melborn, a skilled thief, and his mercenary partner, Hadrian Blackwater make a profitable living carrying out dangerous assignments for conspiring nobles until they become the unwitting scapegoats in a plot to murder the king. Sentenced to death, they have only one way out...and so begins this tale of treachery and adventure, sword fighting and magic, myth and legend.
+
 #### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [3.8] :fire:
 
 This is one of the most ridiculous forays into world building, ever. At times, it reads like a textbook, but there are sections that are extremely powerful and characters that are gripping. The Silmarillion takes a bit more imagination and fortitude than the Lord of the Rings, but is worth the effort, especially if you've already read his other books a few times and want more. - [@RichardLitt](https://github.com/RichardLitt)
