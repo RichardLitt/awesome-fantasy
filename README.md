@@ -464,7 +464,7 @@ Books:
 - [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) [4.63]
 - _More coming_
 
-#### [The Wandering Inn](https://www.goodreads.com/series/265443-the-wandering-inn) (2018) *by [Pirateaba](https://www.goodreads.com/author/show/18265573.Pirateaba)* [4.3]
+#### [The Wandering Inn](https://www.goodreads.com/series/265443-the-wandering-inn) (2018) _by [Pirateaba](https://www.goodreads.com/author/show/18265573.Pirateaba)_ [4.3]
 
 Initially this started as a webserial, which might indicate shorter length, but there are 9 volumes (each 1k+ pages). While there are LitRPG themes of a sort, this is more of people being transported into another world not a game. The world building is some of the best: countries (with politics), magic, characters (good, bad, side), plans/plots, bias/hatred, and unique monsters. - [@depperm](https://github.com/depperm)
 
