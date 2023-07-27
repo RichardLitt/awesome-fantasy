@@ -861,7 +861,7 @@ Kate DiCamillo takes us on an extraordinary journey, from the depths of the ocea
 >
 > And then, one day, he was lost.
 
-### [Usagi Yojimbo](https://www.goodreads.com/series/71007-usagi-yojimbo) (1987) _by [Stan Sakai](https://en.wikipedia.org/wiki/Stan_Sakai)_ [4.1]
+#### [Usagi Yojimbo](https://www.goodreads.com/series/71007-usagi-yojimbo) (1987) _by [Stan Sakai](https://en.wikipedia.org/wiki/Stan_Sakai)_ [4.1]
 
 This series does a great job of portraying samurai life in ancient Japan, with characters who are all animals. The artistic style is simple and clean. - [@depperm](https://github.com/depperm)
 
