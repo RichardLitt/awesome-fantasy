@@ -48,6 +48,24 @@ Books:
 >
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
+#### [Art of the Adept](https://www.goodreads.com/series/269818-art-of-the-adept) (2019) _by [Michael G. Manning](https://www.goodreads.com/author/show/5021072.Michael_G_Manning)_ [4.4]
+
+A unique system of magic that follows the MC's learning journey so you discover all the wonder as well. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- [The Choice of Magic](https://www.goodreads.com/book/show/51279226-the-choice-of-magic)
+- [Secrets of Spellcraft](https://www.goodreads.com/book/show/52748703-secrets-and-spellcraft)
+- [Scholar of Magic](https://www.goodreads.com/book/show/53497057-scholar-of-magic)
+- [Disciple of War](https://www.goodreads.com/book/show/56329571-disciple-of-war)
+- [The Wizard's Crown](https://www.goodreads.com/book/show/61167144-the-wizard-s-crown)
+
+> The ancient magic of wizards was anything but dark. It was the enlightenment that lifted humanity from the squalor of superstition, and the worship of fell spirits and capricious gods, but those days are gone. The shining glory of the sorcerers burned away the subtlety of wisdom, replacing it with easy power, held only in the hands of the elite—a new age built upon the elemental supremacy of aristocrats and the ignorance of the masses.
+>
+>But this will change, for the greatest power comes with knowledge, and the deeper teachings of wizardry have not been utterly lost. The last wizard of the old tradition still survives in solitude, nursing tired grudges and waiting for death.
+>
+>His passing might have gone unnoticed, but for the imposition of a youth too stubborn to accept his refusal to take an apprentice. With a new student comes new hope, and that hope has caused old powers to stir again. That the world will change is inevitable, but the shape of the future is anything but certain.
+
 #### [Black Company](https://www.goodreads.com/book/show/140671) (1984) _by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)_ [4]
 
 This is my favorite dark fantasy series and the first book is awesome. These are written so differently than any fantasy-esque book I've ever read. It is difficult to describe, but as a veteran, it just feels like you're reading a fantasy book written by a former soldier that's been there, crude jokes, blood and all. I highly recommend this. - [@PeerRails](https://github.com/PeerRails)
