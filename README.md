@@ -306,6 +306,26 @@ Books:
 
 > Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
 
+#### [The Demon Cycle](https://www.goodreads.com/series/46817-the-demon-cycle) (2008) _by [Peter V. Brett](https://en.wikipedia.org/wiki/Peter_V._Brett)_ [4.2] :fire:
+
+This a darker fantasy series that weaves the story from different people who are not necessarily allies but allied towards a similar end goal. Different beliefs and an intricate magic system keep things interesting. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- [The Warded Man](https://www.goodreads.com/book/show/24809182-o-protegido) :fire:
+- [The Desert Spear](https://www.goodreads.com/book/show/17411982-pustinjsko-koplje)
+- [The Daylight War](https://www.goodreads.com/book/show/16163983-the-daylight-war)
+- [The Skull Throne](https://www.goodreads.com/book/show/24516043-the-skull-throne)
+- [The Core](https://www.goodreads.com/book/show/36179561-the-core)
+
+> As darkness falls after sunset, the corelings rise—demons who possess supernatural powers and burn with a consuming hatred of humanity. For hundreds of years the demons have terrorized the night, slowly culling the human herd that shelters behind magical wards—symbols of power whose origins are lost in myth and whose protection is terrifyingly fragile.
+>
+>It was not always this way. Once, men and women battled the corelings on equal terms, but those days are gone. Night by night the demons grow stronger, while human numbers dwindle under their relentless assault.
+>
+>Now, with hope for the future fading, three young survivors of vicious demon attacks will do the unthinkable, stepping beyond the crumbling safety of the wards to risk everything in a desperate quest to regain the secrets of the past.
+>
+>Arlen Bales will pay any price, embrace any sacrifice, for freedom, and his grim journey will take him beyond the bounds of human power. Crippled by the demons that killed his parents, Rojer Inn seeks solace in music, only to discover that his instrument can be a weapon as well as a refuge. Wanting to cure the sick and injured, Leesha Paper overcomes great hardship to become a guardian of old world science, learning that what heals can also harm. Together, they will stand against the night.
+
 #### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) _by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)_ [4.1] :fire:
 
 I devoured these books; the magic system is great and the world is well worked through. There's a fantastic amount of detail that never gets onerous, amazingly. The characters grow with the story, unlike most fantasy novels. The writing of characters who are under spells is also fantastic - Hobb never tells you directly that they have been befuddled until after, which makes for some very fun and enjoyable surprises. - [@RichardLitt](https://github.com/RichardLitt)
