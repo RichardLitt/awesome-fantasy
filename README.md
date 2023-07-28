@@ -212,6 +212,16 @@ Books:
 - [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
 - [The Lost Metal](https://www.goodreads.com/book/show/23947089-the-lost-metal) [4.5]
 
+#### [Mother of Learning](link) (2021) _by [Domagoj Kurmaic](link)_ [4.5]
+
+Ground hog day combined with magician school turns out to be pretty interesting. Throw in some mind spiders, liches, and magical beasts and things get more interesting. - [@depperm](https://github.com/depperm)
+
+> A teenage mage of humble birth and slightly above-average skill, Zorian is attending his third year of education at Cyoria's magical academy. A driven and quiet young man, he is consumed by a desire to ensure his own future and free himself of the influence of his family, resenting the Kazinskis for favoring his brothers over him. Consequently, Zorian has no time for pointless distractions, much less other people's problems.
+>
+>As it happens, though, time is something he is about to get plenty of.
+>
+>On the eve of Cyoria's annual summer festival, Zorian is murdered, then abruptly brought back to the beginning of the month, just before he was about to take the train to school. Finding himself trapped in a time loop with no clear end or exit, he will have to look both within and without to unravel the mystery set before him. He does have to unravel it, too, because the loop clearly wasn’t made for his sake, and in a world of magic even a time traveler isn't safe from those who wish him ill.
+
 #### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) _by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)_
 
 These are really amazing and fun to read, especially the characters and how it relates with Greek mythology. - [@ankush1024](https://github.com/ankush1024)
