@@ -97,6 +97,24 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 >
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
+#### [Chronicles of the Unhewn Throne](https://www.goodreads.com/series/116397-chronicle-of-the-unhewn-throne) (2014) _by [Brian Staveley](https://en.wikipedia.org/wiki/Brian_Staveley)_ [4.1]
+
+An assassin, a monk, and an heiress. While only one of these characters interested me from the description, each story pulled me in. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- [The Emperor's Blades](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades)
+- [The Providence of Fire](https://www.goodreads.com/book/show/24450384-the-providence-of-fire)
+- [The Last Mortal Bond](https://www.goodreads.com/book/show/27565716-the-last-mortal-bond)
+
+> The circle is closing. The stakes are high. And old truths will live again...
+>
+>The Emperor has been murdered, leaving the Annurian Empire in turmoil. Now his progeny must bury their grief and prepare to unmask a conspiracy.
+>
+>His son Valyn, training for the empire’s deadliest fighting force, hears the news an ocean away. He expected a challenge, but after several ‘accidents’ and a dying soldier’s warning, he realizes his life is also in danger. Yet before Valyn can take action, he must survive the mercenaries’ brutal final initiation.
+>
+>Meanwhile, the Emperor’s daughter, Minister Adare, hunts her father’s murderer in the capital itself. Court politics can be fatal, but she needs justice. And Kaden, heir to an empire, studies in a remote monastery. Here, the Blank God’s disciples teach their harsh ways – which Kaden must master to unlock their ancient powers. When an imperial delegation arrives, he’s learnt enough to perceive evil intent. But will this keep him alive, as long-hidden powers make their move?
+
 #### [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) (2005) _by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)_ [4.28] 🔥
 
 A great series that is a little different from your typical epic fantasy. In this world, everyone has powers, or elemental furies attached to them, except for Tavi, the main character. - [@cary-williams](https://github.com/cary-williams)
