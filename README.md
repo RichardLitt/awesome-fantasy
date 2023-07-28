@@ -212,7 +212,7 @@ Books:
 - [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
 - [The Lost Metal](https://www.goodreads.com/book/show/23947089-the-lost-metal) [4.5]
 
-#### [Mother of Learning](link) (2021) _by [Domagoj Kurmaic](link)_ [4.5]
+#### [Mother of Learning](https://www.goodreads.com/series/336405-mother-of-learning) (2021) _by [Domagoj Kurmaic](https://www.goodreads.com/author/show/14128815.Domagoj_Kurmai_)_ [4.5]
 
 Ground hog day combined with magician school turns out to be pretty interesting. Throw in some mind spiders, liches, and magical beasts and things get more interesting. - [@depperm](https://github.com/depperm)
 
