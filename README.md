@@ -130,6 +130,16 @@ Books:
 
 > Welcome to the Realm of Alera, traveler. Written by the #1 New York Times bestselling author Jim Butcher, the Codex Alera follows the adventures—and misadventures!—of a young man, Tavi of Calderon. In a land where everyone has access to great powers called furies, being the only one without a fury to his name can be tricky, but Tavi proves time and time again that it is not all about your furies.
 
+#### [Cradle](https://www.goodreads.com/series/192821-cradle) (2016) _by [Will Wight](https://en.wikipedia.org/wiki/Will_Wight)_ [4.1]
+
+While many western themed novels have superheroes or powerful magicians, equally pleasing to read is eastern style novels with cultivators. If you're interested in seeing how it compares with _standard fantasy_ this is a great series to get started with. - [@depperm](https://github.com/depperm)
+
+> Sacred artists follow a thousand Paths to power, using their souls to control the forces of the natural world.
+>
+>Lindon is Unsouled, forbidden to learn the sacred arts of his clan.
+>
+>When faced with a looming fate he cannot ignore, he must defy his family's rules...and forge his own Path.
+
 #### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) _by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)_ [3.98]
 
 My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
