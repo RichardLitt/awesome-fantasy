@@ -232,6 +232,8 @@ Books:
 
 While targeted towards a slightly younger audience, this series has length and depth that many other fantasy series lack. Characters are animals living in a medievalesque world that works quite well. - [@depperm](https://github.com/depperm)
 
+The best descriptions of food in any books ever. - [@RichardLitt](https://github.com/RichardLitt)
+
 Books:
 
 - [Redwall](https://www.goodreads.com/book/show/20209935-redwall) [4.1] :fire:
