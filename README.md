@@ -782,6 +782,12 @@ This was a delightful book. Short and sweet, it exhibits both Gaiman's ability t
 >
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
+#### [The Odyssey](https://www.goodreads.com/book/show/1381.The_Odyssey) (1614/2006) _by [Homer](https://en.wikipedia.org/wiki/Homer)_ [3.8] :fire: :star2:
+
+I probably wouldn't have read this if it wasn't for high school, but it was one of my favorite required reading books. It is also one of the oldest fantasy stories that I know of. While missing some of the nitty gritty details or structured magic systems that make many modern fantasy books great, it still has style. - [@depperm](https://github.com/depperm)
+
+> If the Iliad is the world's greatest war epic, then the Odyssey is literature's grandest evocation of everyman's journey though life. Odysseus' reliance on his wit and wiliness for survival in his encounters with divine and natural forces, during his ten-year voyage home to Ithaca after the Trojan War, is at once a timeless human story and an individual test of moral endurance.
+
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.0]
 
 Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
