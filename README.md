@@ -680,6 +680,16 @@ This book is quite realistic and reminded me of the stories my grandparents have
 > Who can resist a good story, especially when it’s being told by Grandma? From her bag emerges tales of kings and cheats, monkeys and mice, bears and gods. Here comes the bear who ate some really bad dessert and got very angry; a lazy man who would not put out a fire till it reached his beard; a princess who got turned into an onion; a queen who discovered silk, and many more weird and wonderful people and animals.
 > Grandma tells the stories over long summer days and nights, as seven children enjoy life in her little town. The stories entertain, educate and provide hours of enjoyment to them.
 
+#### [Imager](https://www.goodreads.com/book/show/20820423-imager) (2009) _by [L.E. Modesitt Jr.](https://en.wikipedia.org/wiki/L._E._Modesitt_Jr.)_ [4.02]
+
+Although the author gets a little too detailed in some of his descriptions about unimportant details making the story slower than most, the magic system is unique and well thought out. The detail helps build a world you can imagine existing. - [@depperm](https://github.com/depperm)
+
+> Although Rhennthyl is the son of a leading wool merchant in L’Excelsis, the capital of Solidar, the most powerful nation on Terahnar, he has spent years becoming a journeyman artist and is skilled and diligent enough to be considered for the status of master artisan—in another two years. Then, in a single moment, his entire life is transformed when his master patron is killed in a flash fire, and Rhenn discovers he is an imager—one of the few in the entire world of Terahnar who can visualize things and make them real.
+>
+>He must leave his family and join the Collegium of Imagisle.  Imagers live separately from the rest of society because of their abilities (they can do accidental magic even while asleep), and because they are both feared and vulnerable.
+>
+>In this new life, Rhenn discovers that all too many of the “truths” he knew were nothing of the sort. Every day brings a new threat to his life.  He makes a powerful enemy while righting a wrong, and begins to learn to do magic in secret. Imager is the innovative and enchanting opening of an involving new fantasy story.
+
 #### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) _by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)_ [3.78]
 
 I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adventures, Jirel's opponents constantly seek to victimize her, use her as bait, lure her in, or overpower her. Often she can't escape witnessing or even being part of horrific things, but she takes these impossible situations and confronts them on her own terms. I thought this was a nice alternative to always evading danger or using feminine wiles to get out of tight corners. Jirel is physically and emotionally capable without being a know-it-all or preternaturally lucky. Moore paints incredibly vivid pictures of fantastical realms and creatures. I think these stories would translate well into a graphic novel. This collection is a fascinating bent on traditional sword and sorcery tales and well worth the read. - [@thejessleigh](https://github.com/thejessleigh)
