@@ -23,7 +23,7 @@ _Please read the [Contributing Guidelines](contributing.md) before contributing.
 
 :star2: means that it's a classic.
 
-:fire: means that it has more than 100 000 ratings on Goodreads.
+:fire: means that it has more than 100,000 ratings on Goodreads.
 
 _The [number] at the end is the rounded version of the rating on Goodreads. If a series is not available as an individual book, the first book in the series is used for the rating._
 
@@ -461,7 +461,7 @@ Books:
 
 #### [The Lightbringer Series](https://www.goodreads.com/series/49673-lightbringer) _by [Brent Weeks](https://en.wikipedia.org/wiki/Brent_Weeks)_
 
-The Lightbringer Series has one of the most intricately fleshed-out magic systems that I have ever seen in high fantasy, where the use of magic has interesting implications on characters' lifespan and personality. The storyline, character development, and plot twists make it a binge-worthy series. On top of that, Weeks does an excellent job of bringing the reader through each characters' strengths and weaknesses in personality, magical ability, and circumstances that shape how they end up fitting in to the larger picture. Through the development of his characters, his books address larger societal and philosophical issues from slavery and descrimination to theology and theism/atheism. It is incredibly well-thought out, and I can't wait to see what he does in the last and final installment of the series. The fifth book [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) is expected to come out sometime in 2019! - [@ciarrapeters](https://github.com/ciarrapeters)
+The Lightbringer Series has one of the most intricately fleshed-out magic systems that I have ever seen in high fantasy, where the use of magic has interesting implications on characters' lifespan and personality. The storyline, character development, and plot twists make it a binge-worthy series. On top of that, Weeks does an excellent job of bringing the reader through each characters' strengths and weaknesses in personality, magical ability, and circumstances that shape how they end up fitting in to the larger picture. Through the development of his characters, his books address larger societal and philosophical issues from slavery and discrimination to theology and theism/atheism. It is incredibly well-thought out, and I can't wait to see what he does in the last and final installment of the series. The fifth book [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) is expected to come out sometime in 2019! - [@ciarrapeters](https://github.com/ciarrapeters)
 
 Books:
 
@@ -688,9 +688,9 @@ I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adv
 
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) _by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)_ [3.8] :fire:
 
-This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, _Jonathan Strange & Mr. Norrell_ is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
+This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, _Jonathan Strange & Mr. Norrell_ is a true delight. The characters are engaging and well-drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
 
-> At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
+> At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr. Norrell reveals his powers, and becomes a celebrity overnight.
 >
 > Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
@@ -778,13 +778,13 @@ This was a delightful book. Short and sweet, it exhibits both Gaiman's ability t
 
 > Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.
 >
-> Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.
+> Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touch paper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.
 >
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.0]
 
-Smith of Wooton Major is my favourite story by Tolkien, hand's down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
+Smith of Wooton Major is my favourite story by Tolkien, hands down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In Smith of Wooton Major, Tolkien explores the gift of fantasy, and what it means to the life and character of the man who receives it.
 
@@ -809,7 +809,7 @@ Books:
 
 I read this book at least once a year. The story is well told, easily approachable, has a lot of gems, and is a good trip. - [@RichardLitt](https://github.com/RichardLitt)
 
-> A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
+> A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
 
 #### [Vicious](https://www.goodreads.com/book/show/40874032-vicious) _by [V.E. Schwab](https://en.wikipedia.org/wiki/V._E._Schwab)_ [4.25]
 
@@ -821,7 +821,7 @@ A fantastic start to an amazing series. Schwab really knows how to 'set a scene'
 
 #### [Kafka On the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore) _by [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)_ [4.1]
 
-This book is a metaphor. It is poignant, magical and somewhat weird. If you want to get swept away and really dive into a story, stop whatever you are doing and find a way to get your hands on a copy of this book. This is a story of a young man who is discovering himself where he meets a lot of people and expereinces different feelings altogether. Reality almost seems sterile when we immerse ourselves in this book. It a must read book for fantasy lovers. - [@NehaChaudhary311](https://github.com/NehaChaudhary311)
+This book is a metaphor. It is poignant, magical and somewhat weird. If you want to get swept away and really dive into a story, stop whatever you are doing and find a way to get your hands on a copy of this book. This is a story of a young man who is discovering himself where he meets a lot of people and experiences  different feelings altogether. Reality almost seems sterile when we immerse ourselves in this book. It a must read book for fantasy lovers. - [@NehaChaudhary311](https://github.com/NehaChaudhary311)
 
 > Kafka on the Shore, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddle—yet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own.
 
@@ -863,7 +863,7 @@ Books:
 
 Discworld is a massive, sprawling world outlined in dozens of books by the late Terry Pratchett. Rather than list them all here, here are a few that have been read by contributors of this list, with comments on each.
 
-> Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen university, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
+> Discworld is a flat planet, standing on the shoulders of four giant elephants, who live on the shell of a gigantic turtle, the great A'Tuin, whose sex is unknown and currently under heavy investigation. In the city of Ankh-Morpok, where the thieves and assassins guilds offer their services at reasonable price, there is the Unseen University, where wizards learn how to use the magic and do wizard stuff, like getting drunk, murdering each other and growing beards. Rincewind is a wizard who can't cast a single spell; he will be forced into being the tourist guide for Twoflowers, an innocent and naive tourist from a far realm followed by a murderous legged luggage...
 
 Books:
 
@@ -903,7 +903,7 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf. - [@umadhatri](https://github.com/umadhatri)
 
-> These books were my childhood. I love the dry and satirical humor as the author puts these kids through incerdibly campy situations and they find increasingly clever ways to escape the evil Count. The kids are just the sweetest charecters and as a kid I enjoyed the adventures that they went on in each of the books. The narrator Lemony Snicket almost enjoys reliving the tales of the kids' adventures in a sort of devilish way. The Netflix adaptation was just as deliciously good as the books. People might not agree with me, but then, everybody has their own opinions.
+> These books were my childhood. I love the dry and satirical humor as the author puts these kids through incredibly campy situations and they find increasingly clever ways to escape the evil Count. The kids are just the sweetest characters and as a kid I enjoyed the adventures that they went on in each of the books. The narrator Lemony Snicket almost enjoys reliving the tales of the kids' adventures in a sort of devilish way. The Netflix adaptation was just as deliciously good as the books. People might not agree with me, but then, everybody has their own opinions.
 
 Books:
 - [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
@@ -1171,7 +1171,7 @@ Excellent tv show. I love the books and I thought the adaptation was really good
 
 #### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-2021) [8.2]
 
-I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems HELL-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
+I have loved this show since day one, and am an avid fan of all the lively and realistic characters. It is FUNNY and WELL WRITTEN and touches the nerves of Humanity, like never before. This show seems Hell-bent on showing you that every coin has two sides and every choice and decision you make has consequences, from YOU and no one else. - [@gayatripalkar](https://github.com/gayatripalkar)
 
 > Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
 
