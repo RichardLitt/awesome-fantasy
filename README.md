@@ -666,6 +666,14 @@ An outstanding book. I was blown away by how exceptionally other-worldly this bo
 
 > A young boy and his journey to become a knight. He must complete a quest, but the book takes you places you don't expect a seemingly run-of-the-mill book would.
 
+#### [Fablehaven](https://www.goodreads.com/book/show/44652.Fablehaven) (2006) _by [Brandon Mull](https://en.wikipedia.org/wiki/Brandon_Mull)_ [4.1] :fire:
+
+Fantasy for the younger readers. Follow along two youths who visit their grandparents and discover that not everything is as it appears. - [@depperm](https://github.com/depperm)
+
+> For centuries mystical creatures of all description were gathered into a hidden refuge called Fablehaven to prevent their extinction. The sanctuary survives today as one of the last strongholds of true magic. Enchanting? Absolutely. Exciting? You bet. Safe? Well, actually, quite the opposite.
+>
+>Kendra and her brother, Seth, have no idea that their grandfather is the current caretaker of Fablehaven. Inside the gated woods, ancient laws keep relative order among greedy trolls, mischievous satyrs, plotting witches, spiteful imps, and jealous fairies. However, when the rules get broken -- Seth is a bit too curious and reckless for his own good -- powerful forces of evil are unleashed, and Kendra and her brother face the greatest challenge of their lives. To save their family, Fablehaven, and perhaps even the world, Kendra and Seth must find the courage to do what they fear most.
+
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) _by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)_ [4.5]
 
 Some of the best short stories I have ever read; The Library is my favourite of all time, so much that I'm debating getting a tattoo from it. - [@RichardLitt](https://github.com/RichardLitt)
