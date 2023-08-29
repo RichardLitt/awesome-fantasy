@@ -210,6 +210,24 @@ Books:
 >
 > The environment Rowling created is completely separate from reality yet also intimately connected to it. While the fantasy land of Narnia is an alternative universe and the Lord of the Rings‍ '​ Middle-earth a mythic past, the wizarding world of Harry Potter exists in parallel within the real world and contains magical versions of the ordinary elements of everyday life. Many of its institutions and locations are recognizable, such as London. It comprises a fragmented collection of overlooked hidden streets, ancient pubs, lonely country manors and secluded castles that remain invisible to the Muggle population.
 
+#### [Temeraire](https://www.goodreads.com/series/43272-temeraire) (2006) _by [Naomi Novik](https://en.wikipedia.org/wiki/Naomi_Novik)_ [4.06]
+
+Historical fiction is an interesting niche. It brings in names, places, and events I've heard of but adds in dragons without completely annihilating the history. If you are a fan of Powder Mage series, this has a similar feel but with less magic and more dragons. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- His Majesty's Dragon
+- Throne of Jade
+- Black Powder War
+- Empire of Ivory
+- Victory of Eagles
+- Tongues of Serpents
+- Crucible of Gold
+- Blood of Tyrants
+- League of Dragons
+
+> Aerial combat brings a thrilling new dimension to the Napoleonic Wars as valiant warriors ride mighty fighting dragons, bred for size or speed. When HMS Reliant captures a French frigate and seizes the precious cargo, an unhatched dragon egg, fate sweeps Captain Will Laurence from his seafaring life into an uncertain future – and an unexpected kinship with a most extraordinary creature. Thrust into the rarified world of the Aerial Corps as master of the dragon Temeraire, he will face a crash course in the daring tactics of airborne battle. For as France’s own dragon-borne forces rally to breach British soil in Bonaparte’s boldest gambit, Laurence and Temeraire must soar into their own baptism of fire.
+
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.4]
 
 The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the last 2 of the 2nd trilogy are due out in the next year or so) is probably his best known and a great read, too. I would recommend all of his stuff, but I think the original Mistborn is probably the best place to start (for one, they're much shorter!). - [@CWSpear](https://github.com/CWSpear)
