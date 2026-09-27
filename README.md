@@ -1216,6 +1216,12 @@ Reimagining of the Lady in the Lake with young King Arthur and Merlin by the leg
 
 > "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
 
+#### [Frieren: Beyond Journey's End](https://www.imdb.com/title/tt22248376/) (2023-ongoing) [8.9]
+
+Great Anime series about an elf trying to understand the people around her while remembering the fond memories of her journeys of the past, awesome animation, smooth visuals, the story might be slow-paced at times but it delivers with the action-packed fight scenes, great characters, great story, definitely recommended! 👍 - [@SomrajBanik](https://github.com/SomrajBanik)
+
+> Elf mage Frieren and her fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her?.
+
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) (2011-2019) [9.5] :star2:
 
 Pretty good, if overly televised at times and with too much emphasis on sexual violence. Beautifully shot otherwise. - [@RichardLitt](https://github.com/RichardLitt)
